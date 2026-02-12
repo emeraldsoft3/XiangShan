@@ -1,0 +1,240 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.baseUopIdx1H_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.base_ele [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.base_reg0 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.compressed_res_reg1 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.compressed_vs2_merged_reg0 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.compressed_vs2_reg0_0 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.compressed_vs2_reg0_1 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.compressed_vs2_reg0_2 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.compressed_vs2_reg0_3 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.compressed_vs2_reg0_4 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.compressed_vs2_reg0_5 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.compressed_vs2_reg0_6 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.compressed_vs2_reg0_7 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_ones_sum_reg0_0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_ones_sum_reg0_1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_ones_sum_reg0_10 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_ones_sum_reg0_11 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_ones_sum_reg0_12 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_ones_sum_reg0_13 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_ones_sum_reg0_14 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_ones_sum_reg0_2 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_ones_sum_reg0_3 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_ones_sum_reg0_4 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_ones_sum_reg0_5 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_ones_sum_reg0_6 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_ones_sum_reg0_7 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_ones_sum_reg0_8 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_ones_sum_reg0_9 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_uop_ones_sum_0 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_uop_ones_sum_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_uop_ones_sum_10 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_uop_ones_sum_11 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_uop_ones_sum_12 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_uop_ones_sum_13 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_uop_ones_sum_14 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_uop_ones_sum_2 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_uop_ones_sum_3 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_uop_ones_sum_4 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_uop_ones_sum_5 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_uop_ones_sum_6 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_uop_ones_sum_7 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_uop_ones_sum_8 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.current_uop_ones_sum_9 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.ele_cnt [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.ele_cnt_reg0 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.elements_reg0 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.fire_reg0_last_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.first_gather_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.first_slidedn_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.in_previous_ones_sum [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.in_previous_ones_sum_reg0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.io_in_bits_info_ma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.io_in_bits_info_ta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.io_in_bits_info_uopIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.io_in_bits_info_vl [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.io_in_bits_info_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.io_in_bits_info_vm
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.io_in_bits_info_vstart [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.io_in_bits_mask [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.io_in_bits_old_vd [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.io_in_bits_opcode_op [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.io_in_bits_srcType_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.io_in_bits_srcType_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.io_in_bits_vs1 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.io_in_bits_vs2 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.io_in_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.io_out_vd [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.is_vcompress_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.is_vcompress_reg1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.is_vmvnr_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.is_vrgather16_sew8_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.is_vrgather_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.is_vrgather_reg1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.is_vrgather_vx_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.is_vrgather_vx_reg1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.is_vslide1dn_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.is_vslide1up_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.is_vslide_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.is_vslide_reg1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.is_vslidedn_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.is_vslideup_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.load_rs1_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.ma_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.old_vd_reg0 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.old_vd_reg1 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.ones_sum_base_reg0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.ones_sum_base_reg1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.ones_sum_eles_reg1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.ones_sum_reg0_1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.ones_sum_reg0_2 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.ones_sum_reg0_3 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.ones_sum_reg0_4 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.ones_sum_reg0_5 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.ones_sum_reg0_6 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.ones_sum_reg0_7 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.out_previous_ones_sum_reg0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.select_compressed_vs2_reg0 [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.slide_bytes_reg0 [66:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.slide_ele [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.ta_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.ta_reg1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.tail_vd_reg1 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.uopIdx_reg0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.uopIdx_reg1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vdId [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vd_reg [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vlRemainBytes_reg0 [10:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vlRemain_reg0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vl_reg0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vl_reg1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vlmax_bytes [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vlmax_bytes_reg0 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vm_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_byte_strb_reg0_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_byte_strb_reg0_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_byte_strb_reg0_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_byte_strb_reg0_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_byte_strb_reg0_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_byte_strb_reg0_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_byte_strb_reg0_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_byte_strb_reg0_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_byte_strb_reg0_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_byte_strb_reg0_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_byte_strb_reg0_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_byte_strb_reg0_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_byte_strb_reg0_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_byte_strb_reg0_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_byte_strb_reg0_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_byte_strb_reg0_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_tail_bits [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_tail_bits_reg1 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_uop_reg0 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmask_vstart_bits_reg1 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vmvnr
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather16_sew8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_byte_sel_reg0_0 [66:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_byte_sel_reg0_1 [66:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_byte_sel_reg0_10 [66:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_byte_sel_reg0_11 [66:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_byte_sel_reg0_12 [66:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_byte_sel_reg0_13 [66:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_byte_sel_reg0_14 [66:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_byte_sel_reg0_15 [66:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_byte_sel_reg0_2 [66:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_byte_sel_reg0_3 [66:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_byte_sel_reg0_4 [66:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_byte_sel_reg0_5 [66:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_byte_sel_reg0_6 [66:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_byte_sel_reg0_7 [66:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_byte_sel_reg0_8 [66:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_byte_sel_reg0_9 [66:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_vd_reg0_0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_vd_reg0_1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_vd_reg0_10 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_vd_reg0_11 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_vd_reg0_12 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_vd_reg0_13 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_vd_reg0_14 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_vd_reg0_15 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_vd_reg0_2 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_vd_reg0_3 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_vd_reg0_4 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_vd_reg0_5 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_vd_reg0_6 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_vd_reg0_7 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_vd_reg0_8 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_vd_reg0_9 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vrgather_vx
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_bytes_reg0_0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_bytes_reg0_1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_bytes_reg0_10 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_bytes_reg0_11 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_bytes_reg0_12 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_bytes_reg0_13 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_bytes_reg0_14 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_bytes_reg0_15 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_bytes_reg0_2 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_bytes_reg0_3 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_bytes_reg0_4 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_bytes_reg0_5 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_bytes_reg0_6 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_bytes_reg0_7 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_bytes_reg0_8 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_bytes_reg0_9 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_next_reg0 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_next_reg1 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs1_reg0 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2Id [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_max_reg0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_min_reg0 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_reg0_0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_reg0_1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_reg0_10 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_reg0_11 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_reg0_12 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_reg0_13 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_reg0_14 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_reg0_15 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_reg0_2 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_reg0_3 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_reg0_4 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_reg0_5 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_reg0_6 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_reg0_7 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_reg0_8 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_bytes_reg0_9 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vs2_reg0 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vsew_bytes_reg0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vsew_reg0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vsew_reg1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn_vd_rs1_reg0 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn_vd_wo_rs1_reg0_0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn_vd_wo_rs1_reg0_1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn_vd_wo_rs1_reg0_10 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn_vd_wo_rs1_reg0_11 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn_vd_wo_rs1_reg0_12 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn_vd_wo_rs1_reg0_13 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn_vd_wo_rs1_reg0_14 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn_vd_wo_rs1_reg0_15 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn_vd_wo_rs1_reg0_2 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn_vd_wo_rs1_reg0_3 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn_vd_wo_rs1_reg0_4 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn_vd_wo_rs1_reg0_5 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn_vd_wo_rs1_reg0_6 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn_vd_wo_rs1_reg0_7 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn_vd_wo_rs1_reg0_8 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1dn_vd_wo_rs1_reg0_9 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslide1up
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslidedn
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslideup
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vslideup_vstart [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vstartRemainBytes_reg0 [10:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vstartRemain_reg0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vstart_old_vd_reg1 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vstart_reg0 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.Vppu.vperms.vstart_reg1 [6:0]

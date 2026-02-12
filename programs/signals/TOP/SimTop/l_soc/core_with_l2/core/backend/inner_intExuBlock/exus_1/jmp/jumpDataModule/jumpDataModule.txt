@@ -1,0 +1,9 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_1.jmp.jumpDataModule.io_func [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_1.jmp.jumpDataModule.io_imm [32:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_1.jmp.jumpDataModule.io_isAuipc
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_1.jmp.jumpDataModule.io_nextPcOffset [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_1.jmp.jumpDataModule.io_pc [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_1.jmp.jumpDataModule.io_result [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_1.jmp.jumpDataModule.io_src [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_1.jmp.jumpDataModule.io_target [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_1.jmp.jumpDataModule.target [63:0]

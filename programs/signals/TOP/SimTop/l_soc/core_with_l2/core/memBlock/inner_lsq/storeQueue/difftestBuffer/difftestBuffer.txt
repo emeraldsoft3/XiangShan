@@ -1,0 +1,46 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.data_0_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.data_0_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.data_0_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.data_0_vpu_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.data_0_vpu_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.data_1_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.data_1_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.data_1_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.data_1_vpu_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.data_1_vpu_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.deq_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.enq_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.entry_allowin_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.entry_allowin_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_deq_0_bits_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_deq_0_bits_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_deq_0_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_deq_0_bits_vpu_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_deq_0_bits_vpu_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_deq_0_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_deq_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_deq_1_bits_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_deq_1_bits_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_deq_1_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_deq_1_bits_vpu_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_deq_1_bits_vpu_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_deq_1_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_deq_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_enq_0_bits_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_enq_0_bits_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_enq_0_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_enq_0_bits_vpu_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_enq_0_bits_vpu_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_enq_0_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_enq_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_enq_1_bits_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_enq_1_bits_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_enq_1_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_enq_1_bits_vpu_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_enq_1_bits_vpu_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_enq_1_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.io_enq_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.valids_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.difftestBuffer.valids_1

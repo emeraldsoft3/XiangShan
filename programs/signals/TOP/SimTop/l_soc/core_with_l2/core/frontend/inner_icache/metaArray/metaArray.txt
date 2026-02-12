@@ -1,0 +1,57 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_flushAll
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_flush_0_bits_virIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_flush_0_bits_waymask [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_flush_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_flush_1_bits_virIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_flush_1_bits_waymask [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_flush_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_codes_0_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_codes_0_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_codes_0_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_codes_0_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_codes_1_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_codes_1_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_codes_1_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_codes_1_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_entryValid_0_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_entryValid_0_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_entryValid_0_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_entryValid_0_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_entryValid_1_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_entryValid_1_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_entryValid_1_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_entryValid_1_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_metas_0_0_tag [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_metas_0_1_tag [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_metas_0_2_tag [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_metas_0_3_tag [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_metas_1_0_tag [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_metas_1_1_tag [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_metas_1_2_tag [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_readResp_metas_1_3_tag [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_read_bits_isDoubleLine
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_read_bits_vSetIdx_0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_read_bits_vSetIdx_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_read_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_read_ready_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_read_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_write_bits_bankIdx
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_write_bits_phyTag [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_write_bits_poison
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_write_bits_virIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_write_bits_waymask [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.io_write_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.port_0_read_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.port_0_read_0_reg
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.port_0_read_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.port_1_read_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.port_1_read_0_reg
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.read_set_idx_next_0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.read_set_idx_next_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.valid_array_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.valid_array_1 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.valid_array_2 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.valid_array_3 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.metaArray.way_num [1:0]

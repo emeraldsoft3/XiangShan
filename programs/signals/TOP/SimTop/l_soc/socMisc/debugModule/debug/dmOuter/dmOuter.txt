@@ -1,0 +1,34 @@
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.auto_asource_out_a_mem_0_address [8:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.auto_asource_out_a_mem_0_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.auto_asource_out_a_mem_0_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.auto_asource_out_a_ridx
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.auto_asource_out_a_widx
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.auto_asource_out_d_mem_0_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.auto_asource_out_d_mem_0_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.auto_asource_out_d_mem_0_size [1:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.auto_asource_out_d_mem_0_source
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.auto_asource_out_d_ridx
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.auto_asource_out_d_widx
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.auto_dmOuter_int_out_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_ctrl_dmactive
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_ctrl_dmactiveAck
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_ctrl_ndreset
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_dmi_clock
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_dmi_req_bits_addr [6:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_dmi_req_bits_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_dmi_req_bits_op [1:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_dmi_req_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_dmi_req_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_dmi_reset
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_dmi_resp_bits_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_dmi_resp_bits_resp [1:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_dmi_resp_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_dmi_resp_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_hartResetReq_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_hgDebugInt_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_innerCtrl_mem_0_ackhavereset
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_innerCtrl_mem_0_hartsel [9:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_innerCtrl_mem_0_hrmask_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_innerCtrl_mem_0_resumereq
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_innerCtrl_ridx
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.io_innerCtrl_widx

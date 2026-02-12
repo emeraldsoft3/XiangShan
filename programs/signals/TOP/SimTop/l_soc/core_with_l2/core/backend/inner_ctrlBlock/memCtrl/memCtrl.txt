@@ -1,0 +1,18 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.io_csrCtrl_lvpred_timeout [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.io_mdpFlodPcVec_0 [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.io_mdpFlodPcVec_1 [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.io_mdpFoldPcVecVld_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.io_mdpFoldPcVecVld_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.io_memPredUpdate_ldpc [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.io_memPredUpdate_stpc [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.io_memPredUpdate_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.io_memPredUpdate_waddr [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.ssit_io_csrCtrl_REG_lvpred_timeout [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.ssit_io_update_REG_ldpc [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.ssit_io_update_REG_stpc [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.ssit_io_update_REG_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.waittable_io_csrCtrl_REG_lvpred_timeout [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.waittable_io_update_REG_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.memCtrl.waittable_io_update_REG_waddr [9:0]

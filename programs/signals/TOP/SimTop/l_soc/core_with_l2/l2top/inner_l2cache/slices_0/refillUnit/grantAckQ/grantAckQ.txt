@@ -1,0 +1,16 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.grantAckQ.clock
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.grantAckQ.deq_ptr_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.grantAckQ.do_deq
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.grantAckQ.do_enq
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.grantAckQ.empty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.grantAckQ.enq_ptr_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.grantAckQ.io_deq_bits_sink [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.grantAckQ.io_deq_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.grantAckQ.io_deq_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.grantAckQ.io_enq_bits_sink [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.grantAckQ.io_enq_bits_source [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.grantAckQ.io_enq_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.grantAckQ.io_enq_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.grantAckQ.maybe_full
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.grantAckQ.ptr_match
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.grantAckQ.reset

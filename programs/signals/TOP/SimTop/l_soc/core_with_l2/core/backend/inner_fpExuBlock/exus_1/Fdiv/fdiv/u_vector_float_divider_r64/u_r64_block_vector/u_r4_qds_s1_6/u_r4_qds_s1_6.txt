@@ -1,0 +1,8 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_1.Fdiv.fdiv.u_vector_float_divider_r64.u_r64_block_vector.u_r4_qds_s1_6.io_divisor_mul_neg_1_i [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_1.Fdiv.fdiv.u_vector_float_divider_r64.u_r64_block_vector.u_r4_qds_s1_6.io_divisor_mul_neg_2_i [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_1.Fdiv.fdiv.u_vector_float_divider_r64.u_r64_block_vector.u_r4_qds_s1_6.io_divisor_mul_pos_1_i [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_1.Fdiv.fdiv.u_vector_float_divider_r64.u_r64_block_vector.u_r4_qds_s1_6.io_divisor_mul_pos_2_i [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_1.Fdiv.fdiv.u_vector_float_divider_r64.u_r64_block_vector.u_r4_qds_s1_6.io_prev_quo_dig_i [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_1.Fdiv.fdiv.u_vector_float_divider_r64.u_r64_block_vector.u_r4_qds_s1_6.io_quo_dig_o [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_1.Fdiv.fdiv.u_vector_float_divider_r64.u_r64_block_vector.u_r4_qds_s1_6.io_rem_i [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_1.Fdiv.fdiv.u_vector_float_divider_r64.u_r64_block_vector.u_r4_qds_s1_6.qds_sign [3:0]

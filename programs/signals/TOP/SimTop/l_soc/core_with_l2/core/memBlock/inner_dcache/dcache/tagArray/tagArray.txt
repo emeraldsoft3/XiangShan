@@ -1,0 +1,47 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_read_0_bits_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_read_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_read_1_bits_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_read_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_read_2_bits_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_read_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_read_3_bits_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_read_3_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_read_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_0_0 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_0_1 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_0_2 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_0_3 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_0_4 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_0_5 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_0_6 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_0_7 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_1_0 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_1_1 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_1_2 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_1_3 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_1_4 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_1_5 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_1_6 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_1_7 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_2_0 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_2_1 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_2_2 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_2_3 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_2_4 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_2_5 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_2_6 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_2_7 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_3_0 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_3_1 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_3_2 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_3_3 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_3_4 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_3_5 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_3_6 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_resp_3_7 [42:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_write_bits_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_write_bits_tag [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_write_bits_way_en [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.io_write_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.reset

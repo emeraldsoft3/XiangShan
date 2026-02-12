@@ -1,0 +1,30 @@
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.clock
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.do_deq
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.do_enq
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.empty
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.full
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_deq_bits_address [29:0]
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_deq_bits_corrupt
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_deq_bits_data [63:0]
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_deq_bits_mask [7:0]
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_deq_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_deq_bits_param [2:0]
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_deq_bits_size [1:0]
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_deq_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_deq_ready
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_deq_valid
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_enq_bits_address [29:0]
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_enq_bits_corrupt
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_enq_bits_data [63:0]
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_enq_bits_mask [7:0]
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_enq_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_enq_bits_param [2:0]
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_enq_bits_size [1:0]
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_enq_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_enq_ready
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.io_enq_valid
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.maybe_full
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.ptr_match
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.reset
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.wrap
+TOP.SimTop.l_soc.socMisc.buffers_10.nodeOut_a_q.wrap_1

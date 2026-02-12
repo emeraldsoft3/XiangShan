@@ -1,0 +1,9 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.mainPipe.amoalu.adder_out_mask [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.mainPipe.amoalu.io_cmd [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.mainPipe.amoalu.io_lhs [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.mainPipe.amoalu.io_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.mainPipe.amoalu.io_out [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.mainPipe.amoalu.io_rhs [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.mainPipe.amoalu.logic_and
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.mainPipe.amoalu.logic_xor
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.mainPipe.amoalu.wmask [63:0]

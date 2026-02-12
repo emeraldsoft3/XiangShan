@@ -1,0 +1,8 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.sLevelPermitMod.PrvmIsU
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.sLevelPermitMod.accessHPM_EX_II_isModeHU
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.sLevelPermitMod.io_in_csrAccess_addr [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.sLevelPermitMod.io_in_privState_PRVM [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.sLevelPermitMod.io_in_privState_V
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.sLevelPermitMod.io_in_xcounteren_scounteren [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.sLevelPermitMod.io_in_xstateen_sstateen0_C
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.sLevelPermitMod.io_out_sLevelPermit_EX_II

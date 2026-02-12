@@ -1,0 +1,70 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Mon Nov 24 13:23:36 2025
+[*]
+[dumpfile] "/home/emerald/xs-env/XiangShan/programs/j.vcd"
+[dumpfile_mtime] "Thu Nov 20 13:24:34 2025"
+[dumpfile_size] 8349206214
+[savefile] "/home/emerald/xs-env/XiangShan/programs/test_gtkwave_11-24-2025.gtkw"
+[timestart] 0
+[size] 1460 843
+[pos] 33002 33286
+*-2.000000 2242 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[treeopen] TOP.SimTop.
+[treeopen] TOP.SimTop.l_simMMIO.axi4xbar.
+[treeopen] TOP.SimTop.l_simMMIO.axi4xbar.awIn_0.
+[treeopen] TOP.SimTop.l_simMMIO.axi4xbar.awIn_0.ram_ext.
+[treeopen] TOP.SimTop.l_simMMIO.error.
+[treeopen] TOP.SimTop.l_simMMIO.error.ar_q.
+[treeopen] TOP.SimTop.l_simMMIO.flash.
+[treeopen] TOP.SimTop.l_simMMIO.flash.DifftestFlash.
+[treeopen] TOP.SimTop.l_simMMIO.intrGen.
+[treeopen] TOP.SimTop.l_soc.
+[treeopen] TOP.SimTop.l_soc.core_with_l2.
+[treeopen] TOP.SimTop.l_soc.core_with_l2.core.
+[treeopen] TOP.SimTop.l_soc.core_with_l2.core.frontend.
+[treeopen] TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.
+[treeopen] TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ifu.
+[treeopen] TOP.SimTop.memory.ram.
+[treeopen] TOP.SimTop.memory.ram.rdata_mem.
+[sst_width] 430
+[signals_width] 518
+[sst_expanded] 1
+[sst_vpaned_height] 216
+@28
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_6[2:0]
+@22
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc[49:0]
+@28
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ifu.REG
+@22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_[7:0]
+@28
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner__0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG
+@22
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ifu.f3_pc_0[49:0]
+TOP.SimTop.difftest_step[63:0]
+TOP.SimTop.difftest_timer[63:0]
+TOP.SimTop.difftest_uart_in_ch[7:0]
+@28
+TOP.SimTop.rtcClock
+@22
+TOP.SimTop.rtcCounter[5:0]
+TOP.SimTop.timer[63:0]
+TOP.difftest_step[63:0]
+@28
+TOP.reset
+@22
+TOP.SimTop.difftest_exit[63:0]
+@28
+TOP.SimTop.l_soc.io_clock
+TOP.SimTop.l_soc.io_rtc_clock
+@23
+TOP.SimTop.l_soc.memory_araddr[47:0]
+[pattern_trace] 1
+[pattern_trace] 0

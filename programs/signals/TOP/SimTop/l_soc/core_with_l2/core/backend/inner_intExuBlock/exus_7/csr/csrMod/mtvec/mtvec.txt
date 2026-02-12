@@ -1,0 +1,9 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.mtvec.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.mtvec.rdata [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.mtvec.regOut_addr [61:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.mtvec.regOut_mode [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.mtvec.reg_addr [61:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.mtvec.reg_mode [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.mtvec.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.mtvec.w_wdata [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.mtvec.w_wen

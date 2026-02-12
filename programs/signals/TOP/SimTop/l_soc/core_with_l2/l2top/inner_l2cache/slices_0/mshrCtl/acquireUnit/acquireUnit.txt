@@ -1,0 +1,21 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_sourceA_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_sourceA_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_sourceA_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_sourceA_bits_echo_blockisdirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_sourceA_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_sourceA_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_sourceA_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_sourceA_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_sourceA_bits_source [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_sourceA_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_sourceA_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_task_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_task_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_task_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_task_bits_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_task_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_task_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_task_bits_source [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_task_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_task_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mshrCtl.acquireUnit.io_task_valid

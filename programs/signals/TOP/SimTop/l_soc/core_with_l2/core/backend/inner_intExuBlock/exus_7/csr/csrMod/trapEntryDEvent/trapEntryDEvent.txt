@@ -1,0 +1,54 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.hasExceptionInDmode
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.in_breakPoint
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.in_criticalErrorStateEnterDebug
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.in_debugMode
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.in_hasDebugEbreakException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.in_hasDebugIntr
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.in_hasSingleStep
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.in_hasTrap
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.in_hgatp_MODE [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.in_iMode_PRVM [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.in_iMode_V
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.in_privState_PRVM [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.in_privState_V
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.in_satp_MODE [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.in_trapPc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.in_triggerEnterDebugMode
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.in_vsatp_MODE [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_bits_CAUSE [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_bits_CETRIG
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_bits_DEBUGVER [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_bits_EBREAKM
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_bits_EBREAKS
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_bits_EBREAKU
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_bits_EBREAKVS
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_bits_EBREAKVU
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_bits_EXTCAUSE [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_bits_MPRVEN
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_bits_NMIP
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_bits_PRV [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_bits_STEP
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_bits_STEPIE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_bits_STOPCOUNT
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_bits_STOPTIME
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_bits_V
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dcsr_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_debugIntrEnable_bits
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_debugIntrEnable_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_debugMode_bits
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_debugMode_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dpc_bits_epc [62:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_dpc_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_privState_bits_PRVM [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_privState_bits_V
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_privState_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_targetPc_bits_pc [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_targetPc_bits_raiseIAF
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_targetPc_bits_raiseIGPF
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_targetPc_bits_raiseIPF
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.out_targetPc_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.trapPC_isBare_PrvmIsS
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.trapPC_isBare_PrvmIsU
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.trapPC_isBare_isModeM
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.trapPC_isBare_v_PrvmIsM
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.trapEntryDEvent.valid

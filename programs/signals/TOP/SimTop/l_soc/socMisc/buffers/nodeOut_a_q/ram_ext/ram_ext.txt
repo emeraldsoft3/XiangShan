@@ -1,0 +1,10 @@
+TOP.SimTop.l_soc.socMisc.buffers.nodeOut_a_q.ram_ext.Memory[0] [351:0]
+TOP.SimTop.l_soc.socMisc.buffers.nodeOut_a_q.ram_ext.Memory[1] [351:0]
+TOP.SimTop.l_soc.socMisc.buffers.nodeOut_a_q.ram_ext.R0_addr
+TOP.SimTop.l_soc.socMisc.buffers.nodeOut_a_q.ram_ext.R0_clk
+TOP.SimTop.l_soc.socMisc.buffers.nodeOut_a_q.ram_ext.R0_data [351:0]
+TOP.SimTop.l_soc.socMisc.buffers.nodeOut_a_q.ram_ext.R0_en
+TOP.SimTop.l_soc.socMisc.buffers.nodeOut_a_q.ram_ext.W0_addr
+TOP.SimTop.l_soc.socMisc.buffers.nodeOut_a_q.ram_ext.W0_clk
+TOP.SimTop.l_soc.socMisc.buffers.nodeOut_a_q.ram_ext.W0_data [351:0]
+TOP.SimTop.l_soc.socMisc.buffers.nodeOut_a_q.ram_ext.W0_en

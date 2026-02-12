@@ -1,0 +1,46 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.bits_1_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.bits_1_loadDependency_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.bits_1_loadDependency_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.bits_1_loadDependency_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.bits_1_pdest [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.bits_1_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.bits_1_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.bits_1_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.bits_2_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.bits_2_loadDependency_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.bits_2_loadDependency_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.bits_2_loadDependency_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.bits_2_pdest [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.bits_2_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.bits_2_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.bits_2_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_deq_bits_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_deq_bits_loadDependency_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_deq_bits_loadDependency_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_deq_bits_loadDependency_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_deq_bits_pdest [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_deq_bits_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_deq_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_deq_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_deq_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_enq_bits_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_enq_bits_loadDependency_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_enq_bits_loadDependency_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_enq_bits_loadDependency_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_enq_bits_pdest [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_enq_bits_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_enq_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_enq_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_enq_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_flush_ldCancel_0_ld2Cancel
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_flush_ldCancel_1_ld2Cancel
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_flush_ldCancel_2_ld2Cancel
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_flush_og0Fail
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_flush_redirect_bits_level
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_flush_redirect_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_flush_redirect_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.io_flush_redirect_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.valids_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intScheduler.IssueQueueAluMulBkuBrhJmp.wakeUpQueues_0.pipes_1.valids_2

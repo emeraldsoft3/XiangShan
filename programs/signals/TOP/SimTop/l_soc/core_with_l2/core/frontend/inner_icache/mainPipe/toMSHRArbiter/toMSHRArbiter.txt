@@ -1,0 +1,12 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.mainPipe.toMSHRArbiter.io_in_0_bits_blkPaddr [41:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.mainPipe.toMSHRArbiter.io_in_0_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.mainPipe.toMSHRArbiter.io_in_0_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.mainPipe.toMSHRArbiter.io_in_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.mainPipe.toMSHRArbiter.io_in_1_bits_blkPaddr [41:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.mainPipe.toMSHRArbiter.io_in_1_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.mainPipe.toMSHRArbiter.io_in_1_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.mainPipe.toMSHRArbiter.io_in_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.mainPipe.toMSHRArbiter.io_out_bits_blkPaddr [41:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.mainPipe.toMSHRArbiter.io_out_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.mainPipe.toMSHRArbiter.io_out_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.mainPipe.toMSHRArbiter.io_out_valid

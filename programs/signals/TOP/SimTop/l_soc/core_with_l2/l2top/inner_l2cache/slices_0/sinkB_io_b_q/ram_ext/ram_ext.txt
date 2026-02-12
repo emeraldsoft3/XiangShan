@@ -1,0 +1,10 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkB_io_b_q.ram_ext.Memory[0] [311:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkB_io_b_q.ram_ext.Memory[1] [311:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkB_io_b_q.ram_ext.R0_addr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkB_io_b_q.ram_ext.R0_clk
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkB_io_b_q.ram_ext.R0_data [311:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkB_io_b_q.ram_ext.R0_en
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkB_io_b_q.ram_ext.W0_addr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkB_io_b_q.ram_ext.W0_clk
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkB_io_b_q.ram_ext.W0_data [311:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkB_io_b_q.ram_ext.W0_en

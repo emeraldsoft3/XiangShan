@@ -1,0 +1,67 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.a_acquire_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.allowed_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.allowed_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.beatsLeft
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.busy
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.clock
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_a_bits_address [47:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_a_bits_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_a_bits_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_a_bits_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_a_bits_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_a_bits_source [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_a_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_a_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_a_valid_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_pb_beat_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_pb_beat_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_pb_pop_bits_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_pb_pop_bits_count
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_pb_pop_bits_last
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_pb_pop_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_pb_pop_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_pb_pop_valid_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_task_bits_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_task_bits_off [5:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_task_bits_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_task_bits_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_task_bits_putData
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_task_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_task_bits_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_task_bits_source [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_task_bits_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_task_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_task_ready_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.io_task_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.muxState_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.muxState_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.reset
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s0_count
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s0_last
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s0_task_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s0_task_off [5:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s0_task_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s0_task_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s0_task_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s0_task_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s0_task_source [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s0_task_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s0_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s1_cango
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s1_full
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s1_latch
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s1_pb_latch_REG
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s1_pb_latch_r_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s1_pb_latch_r_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s1_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s1_task_off [5:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s1_task_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s1_task_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s1_task_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s1_task_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s1_task_source [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.s1_task_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.state_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.state_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceA.winner_1

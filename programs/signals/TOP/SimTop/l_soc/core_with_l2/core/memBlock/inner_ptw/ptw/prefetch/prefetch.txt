@@ -1,0 +1,26 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.flush
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.input_valid_probe
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.io_csr_hgatp_mode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.io_csr_priv_virt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.io_csr_vsatp_changed
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.io_csr_vsatp_mode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.io_in_bits_vpn [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.io_in_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.io_out_bits_req_info_s2xlate [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.io_out_bits_req_info_vpn [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.io_out_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.io_out_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.io_sfence_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.next_req [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.old_index [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.old_reqs_0 [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.old_reqs_1 [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.old_reqs_2 [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.old_reqs_3 [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.old_v_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.old_v_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.old_v_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.old_v_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.prefetch.v

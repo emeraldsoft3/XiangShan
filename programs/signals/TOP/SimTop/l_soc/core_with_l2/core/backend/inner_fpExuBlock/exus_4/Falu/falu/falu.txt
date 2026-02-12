@@ -1,0 +1,15 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_4.Falu.falu.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_4.Falu.falu.fp_format_reg [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_4.Falu.falu.io_fflags [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_4.Falu.falu.io_fire
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_4.Falu.falu.io_fp_a [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_4.Falu.falu.io_fp_aIsFpCanonicalNAN
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_4.Falu.falu.io_fp_b [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_4.Falu.falu.io_fp_bIsFpCanonicalNAN
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_4.Falu.falu.io_fp_format [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_4.Falu.falu.io_fp_result [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_4.Falu.falu.io_op_code [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_4.Falu.falu.io_round_mode [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_4.Falu.falu.res_is_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_4.Falu.falu.res_is_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_4.Falu.falu.resultNeedBox

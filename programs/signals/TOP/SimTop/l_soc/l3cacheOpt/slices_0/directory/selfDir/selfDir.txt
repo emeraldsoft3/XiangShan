@@ -1,0 +1,96 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.clock
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.hitVec_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.hitVec_2
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.hitVec_3
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.hitVec_4
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.hitVec_5
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.hitVec_6
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.hitVec_7
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.hit_s2
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.invalid_vec_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.invalid_vec_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.invalid_vec_2
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.invalid_vec_3
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.invalid_vec_4
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.invalid_vec_5
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.invalid_vec_6
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_dir_w_bits_dir_clientStates_0 [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_dir_w_bits_dir_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_dir_w_bits_dir_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_dir_w_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_dir_w_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_dir_w_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_read_bits_replacerInfo_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_read_bits_replacerInfo_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_read_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_read_bits_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_read_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_read_ready_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_read_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_resp_bits_dir_clientStates_0 [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_resp_bits_dir_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_resp_bits_dir_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_resp_bits_hit
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_resp_bits_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_resp_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_resp_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_tag_w_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_tag_w_bits_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_tag_w_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.io_tag_w_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_0_clientStates_0 [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_0_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_0_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_1_clientStates_0 [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_1_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_1_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_2_clientStates_0 [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_2_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_2_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_3_clientStates_0 [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_3_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_3_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_4_clientStates_0 [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_4_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_4_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_5_clientStates_0 [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_5_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_5_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_6_clientStates_0 [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_6_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_6_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_7_clientStates_0 [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_7_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.metaAll_s2_7_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.repl_state [6:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.repl_state_REG [6:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.repl_state_REG_1 [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.repl_state_repl_state_hold_REG
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.repl_state_repl_state_hold_r [6:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.replaceWay [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.replacer_wen
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.reqReg_replacerInfo_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.reqReg_replacerInfo_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.reqReg_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.reqReg_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.reqValidReg
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.reset
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.resetFinish
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.resetIdx [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.tagAll_s2_0 [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.tagAll_s2_1 [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.tagAll_s2_2 [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.tagAll_s2_3 [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.tagAll_s2_4 [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.tagAll_s2_5 [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.tagAll_s2_6 [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.tagAll_s2_7 [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.trunk_vec_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.trunk_vec_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.trunk_vec_2
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.trunk_vec_3
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.trunk_vec_4
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.trunk_vec_5
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.trunk_vec_6
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.way_s1 [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.selfDir.way_s2 [2:0]

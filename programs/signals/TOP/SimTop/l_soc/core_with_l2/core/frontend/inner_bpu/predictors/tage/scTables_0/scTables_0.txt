@@ -1,0 +1,44 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.can_write
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.conflict_buffer_data_0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.conflict_buffer_data_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.conflict_buffer_data_2 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.conflict_buffer_data_3 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.conflict_buffer_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.conflict_buffer_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.conflict_buffer_waymask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.conflict_buffer_waymask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.conflict_buffer_waymask_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.conflict_buffer_waymask_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.ctrPos
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.ctrPos_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.io_req_bits_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.io_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.io_resp_ctrs_0_0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.io_resp_ctrs_0_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.io_resp_ctrs_1_0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.io_resp_ctrs_1_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.io_update_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.io_update_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.io_update_oldCtrs_0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.io_update_oldCtrs_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.io_update_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.io_update_tagePreds_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.io_update_tagePreds_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.io_update_takens_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.io_update_takens_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.oldCtr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.oldCtr_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.s1_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.s1_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.taken_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.updateWayMask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.updateWayMask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.updateWayMask_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.updateWayMask_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.update_wdata_0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.update_wdata_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.use_conflict_data
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_0.write_conflict

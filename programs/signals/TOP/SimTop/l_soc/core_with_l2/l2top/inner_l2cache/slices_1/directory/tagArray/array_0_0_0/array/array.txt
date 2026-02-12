@@ -1,0 +1,11 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagArray.array_0_0_0.array.RW0_addr [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagArray.array_0_0_0.array.RW0_clk
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagArray.array_0_0_0.array.RW0_en
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagArray.array_0_0_0.array.RW0_rdata [135:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagArray.array_0_0_0.array.RW0_wdata [135:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagArray.array_0_0_0.array.RW0_wmask [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagArray.array_0_0_0.array.RW0_wmode
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagArray.array_0_0_0.array.array_RW0_rdata_MPORT_wmask_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagArray.array_0_0_0.array.array_RW0_rdata_MPORT_wmask_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagArray.array_0_0_0.array.array_RW0_rdata_MPORT_wmask_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagArray.array_0_0_0.array.array_RW0_rdata_MPORT_wmask_3

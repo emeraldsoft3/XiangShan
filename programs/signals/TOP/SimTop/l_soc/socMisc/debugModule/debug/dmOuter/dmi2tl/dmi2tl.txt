@@ -1,0 +1,19 @@
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.auto_out_a_bits_address [8:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.auto_out_a_bits_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.auto_out_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.auto_out_a_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.auto_out_a_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.auto_out_d_bits_corrupt
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.auto_out_d_bits_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.auto_out_d_bits_denied
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.auto_out_d_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.auto_out_d_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.io_dmi_req_bits_addr [6:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.io_dmi_req_bits_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.io_dmi_req_bits_op [1:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.io_dmi_req_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.io_dmi_req_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.io_dmi_resp_bits_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.io_dmi_resp_bits_resp [1:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.io_dmi_resp_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmi2tl.io_dmi_resp_valid

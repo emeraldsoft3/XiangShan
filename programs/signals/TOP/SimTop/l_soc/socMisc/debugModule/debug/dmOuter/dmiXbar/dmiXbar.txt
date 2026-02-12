@@ -1,0 +1,43 @@
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_in_a_bits_address [8:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_in_a_bits_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_in_a_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_in_a_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_in_d_bits_corrupt
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_in_d_bits_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_in_d_bits_denied
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_in_d_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_in_d_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_0_a_bits_address [8:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_0_a_bits_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_0_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_0_a_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_0_a_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_0_d_bits_corrupt
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_0_d_bits_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_0_d_bits_denied
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_0_d_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_0_d_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_1_a_bits_address [6:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_1_a_bits_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_1_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_1_a_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_1_a_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_1_d_bits_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_1_d_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.auto_out_1_d_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.beatsLeft
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.clock
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.in_0_d_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.latch
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.muxState_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.readys_mask [1:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.readys_readys [1:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.readys_valid [1:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.requestAIO_0_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.requestAIO_0_1
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.reset
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.state_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.state_1
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.winner_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmiXbar.winner_1

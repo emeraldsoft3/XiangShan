@@ -1,0 +1,48 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.accrued_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.accrued_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.accrued_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.auto_in_a_bits_address [29:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.auto_in_a_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.auto_in_a_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.auto_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.auto_in_a_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.auto_in_a_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.auto_in_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.auto_in_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.auto_in_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.auto_in_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.auto_in_d_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.auto_in_d_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.auto_in_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.auto_in_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.auto_int_out_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.cause_reg [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.clock
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.enable_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.enable_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.enable_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.global_interrupt_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.global_interrupt_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.global_interrupt_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.in_bits_read
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.io_errors_dcache_ecc_error_bits [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.io_errors_dcache_ecc_error_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.io_errors_icache_ecc_error_bits [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.io_errors_icache_ecc_error_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.io_interrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.local_interrupt_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.local_interrupt_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.local_interrupt_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.out_woready_13
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.out_woready_16
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.out_woready_19
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.out_woready_4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.out_woready_9
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.pad_1 [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.reset
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.valids_1_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.valids_1_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.valids_1_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.valids_1_3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.valids_1_4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_beu.valids_1_5

@@ -1,0 +1,8 @@
+TOP.SimTop.memory.ram.rdata_mem.helper_3.clock
+TOP.SimTop.memory.ram.rdata_mem.helper_3.r_data [63:0]
+TOP.SimTop.memory.ram.rdata_mem.helper_3.r_enable
+TOP.SimTop.memory.ram.rdata_mem.helper_3.r_index [63:0]
+TOP.SimTop.memory.ram.rdata_mem.helper_3.w_data [63:0]
+TOP.SimTop.memory.ram.rdata_mem.helper_3.w_enable
+TOP.SimTop.memory.ram.rdata_mem.helper_3.w_index [63:0]
+TOP.SimTop.memory.ram.rdata_mem.helper_3.w_mask [63:0]

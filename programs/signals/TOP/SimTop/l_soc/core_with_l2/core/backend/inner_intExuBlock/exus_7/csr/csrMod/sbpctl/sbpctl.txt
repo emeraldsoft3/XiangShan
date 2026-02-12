@@ -1,0 +1,19 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.rdata [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.regOut_BIM_ENABLE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.regOut_BTB_ENABLE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.regOut_LOOP_ENABLE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.regOut_RAS_ENABLE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.regOut_SC_ENABLE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.regOut_TAGE_ENABLE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.regOut_UBTB_ENABLE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.reg_BIM_ENABLE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.reg_BTB_ENABLE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.reg_LOOP_ENABLE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.reg_RAS_ENABLE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.reg_SC_ENABLE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.reg_TAGE_ENABLE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.reg_UBTB_ENABLE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.w_wdata [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.sbpctl.w_wen

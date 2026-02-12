@@ -1,0 +1,56 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R0_addr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R0_clk
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R0_data
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R0_en
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R1_addr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R1_clk
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R1_data
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R1_en
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R2_addr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R2_clk
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R2_data
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R2_en
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R3_addr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R3_clk
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R3_data
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R3_en
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R4_addr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R4_clk
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R4_data
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R4_en
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R5_addr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R5_clk
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R5_data
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R5_en
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R6_addr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R6_clk
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R6_data
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R6_en
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R7_addr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R7_clk
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R7_data
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.R7_en
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W0_addr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W0_clk
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W0_data
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W0_en
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W1_addr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W1_clk
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W1_data
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W1_en
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W2_addr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W2_clk
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W2_data
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W2_en
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W3_addr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W3_clk
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W3_data
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W3_en
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W4_addr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W4_clk
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W4_data
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W4_en
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W5_addr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W5_clk
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W5_data
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.dt_isRVC_ext.W5_en

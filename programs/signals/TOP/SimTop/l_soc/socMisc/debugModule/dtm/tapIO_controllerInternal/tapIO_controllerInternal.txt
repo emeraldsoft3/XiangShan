@@ -1,0 +1,19 @@
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.activeInstruction [4:0]
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.clock
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.clock_falling
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.io_control_jtag_reset
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.io_dataChainIn_data
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.io_dataChainOut_capture
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.io_dataChainOut_data
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.io_dataChainOut_shift
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.io_dataChainOut_shift_0
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.io_dataChainOut_update
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.io_jtag_TDI
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.io_jtag_TDO_data
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.io_jtag_TDO_driven
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.io_jtag_TMS
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.io_output_instruction [4:0]
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.io_output_tapIsInTestLogicReset
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.reset
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.tdoReg
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.tapIO_controllerInternal.tdoeReg

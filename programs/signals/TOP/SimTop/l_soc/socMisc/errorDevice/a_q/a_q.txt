@@ -1,0 +1,20 @@
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.clock
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.do_enq
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.full
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.io_deq_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.io_deq_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.io_deq_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.io_deq_ready
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.io_deq_valid
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.io_enq_bits_address [30:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.io_enq_bits_corrupt
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.io_enq_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.io_enq_bits_mask [31:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.io_enq_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.io_enq_bits_param [2:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.io_enq_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.io_enq_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.io_enq_ready
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.io_enq_valid
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.ram [332:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.a_q.reset

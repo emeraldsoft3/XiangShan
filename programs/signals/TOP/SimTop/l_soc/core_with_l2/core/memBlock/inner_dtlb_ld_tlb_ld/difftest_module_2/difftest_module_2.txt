@@ -1,0 +1,11 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dtlb_ld_tlb_ld.difftest_module_2.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dtlb_ld_tlb_ld.difftest_module_2.io_bits_coreid [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dtlb_ld_tlb_ld.difftest_module_2.io_bits_hgatp [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dtlb_ld_tlb_ld.difftest_module_2.io_bits_index [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dtlb_ld_tlb_ld.difftest_module_2.io_bits_ppn [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dtlb_ld_tlb_ld.difftest_module_2.io_bits_s2xlate [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dtlb_ld_tlb_ld.difftest_module_2.io_bits_satp [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dtlb_ld_tlb_ld.difftest_module_2.io_bits_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dtlb_ld_tlb_ld.difftest_module_2.io_bits_vpn [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dtlb_ld_tlb_ld.difftest_module_2.io_bits_vsatp [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dtlb_ld_tlb_ld.difftest_module_2.io_valid

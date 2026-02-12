@@ -1,0 +1,18 @@
+TOP.SimTop.memory.ram.rdata_mem.clock
+TOP.SimTop.memory.ram.rdata_mem.read_data_0 [63:0]
+TOP.SimTop.memory.ram.rdata_mem.read_data_1 [63:0]
+TOP.SimTop.memory.ram.rdata_mem.read_data_2 [63:0]
+TOP.SimTop.memory.ram.rdata_mem.read_data_3 [63:0]
+TOP.SimTop.memory.ram.rdata_mem.read_index [63:0]
+TOP.SimTop.memory.ram.rdata_mem.read_valid
+TOP.SimTop.memory.ram.rdata_mem.reset
+TOP.SimTop.memory.ram.rdata_mem.write_data_0 [63:0]
+TOP.SimTop.memory.ram.rdata_mem.write_data_1 [63:0]
+TOP.SimTop.memory.ram.rdata_mem.write_data_2 [63:0]
+TOP.SimTop.memory.ram.rdata_mem.write_data_3 [63:0]
+TOP.SimTop.memory.ram.rdata_mem.write_index [63:0]
+TOP.SimTop.memory.ram.rdata_mem.write_mask_0 [63:0]
+TOP.SimTop.memory.ram.rdata_mem.write_mask_1 [63:0]
+TOP.SimTop.memory.ram.rdata_mem.write_mask_2 [63:0]
+TOP.SimTop.memory.ram.rdata_mem.write_mask_3 [63:0]
+TOP.SimTop.memory.ram.rdata_mem.write_valid

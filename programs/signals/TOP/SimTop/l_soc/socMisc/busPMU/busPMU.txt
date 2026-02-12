@@ -1,0 +1,100 @@
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_a_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_a_bits_corrupt
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_a_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_a_bits_mask [31:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_a_bits_param [2:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_a_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_a_bits_source [3:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_a_ready
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_a_valid
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_c_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_c_bits_corrupt
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_c_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_c_bits_opcode [2:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_c_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_c_bits_source [3:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_c_ready
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_c_valid
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_d_bits_corrupt
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_d_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_d_bits_denied
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_d_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_d_bits_sink [2:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_d_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_d_bits_source [3:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_d_ready
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_d_valid
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_e_bits_sink [2:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_e_valid
+TOP.SimTop.l_soc.socMisc.busPMU.auto_in_e_valid_probe
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_a_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_a_bits_corrupt
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_a_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_a_bits_mask [31:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_a_bits_param [2:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_a_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_a_bits_source [3:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_a_ready
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_a_valid
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_c_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_c_bits_corrupt
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_c_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_c_bits_opcode [2:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_c_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_c_bits_source [3:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_c_ready
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_c_valid
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_d_bits_corrupt
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_d_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_d_bits_denied
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_d_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_d_bits_sink [2:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_d_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_d_bits_source [3:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_d_ready
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_d_valid
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_e_bits_sink [2:0]
+TOP.SimTop.l_soc.socMisc.busPMU.auto_out_e_valid
+TOP.SimTop.l_soc.socMisc.busPMU.clock
+TOP.SimTop.l_soc.socMisc.busPMU.first_r_counter
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_0_timeStamp [63:0]
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_0_valid
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_10_timeStamp [63:0]
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_10_valid
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_11_timeStamp [63:0]
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_11_valid
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_12_timeStamp [63:0]
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_12_valid
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_13_timeStamp [63:0]
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_13_valid
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_14_timeStamp [63:0]
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_14_valid
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_15_timeStamp [63:0]
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_15_valid
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_1_timeStamp [63:0]
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_1_valid
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_2_timeStamp [63:0]
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_2_valid
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_3_timeStamp [63:0]
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_3_valid
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_4_timeStamp [63:0]
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_4_valid
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_5_timeStamp [63:0]
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_5_valid
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_6_timeStamp [63:0]
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_6_valid
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_7_timeStamp [63:0]
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_7_valid
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_8_timeStamp [63:0]
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_8_valid
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_9_timeStamp [63:0]
+TOP.SimTop.l_soc.socMisc.busPMU.latencyRecord_9_valid
+TOP.SimTop.l_soc.socMisc.busPMU.reset
+TOP.SimTop.l_soc.socMisc.busPMU.resolveRecord
+TOP.SimTop.l_soc.socMisc.busPMU.resolveRecord_probe
+TOP.SimTop.l_soc.socMisc.busPMU.resolveRecord_probe_0
+TOP.SimTop.l_soc.socMisc.busPMU.timer [63:0]

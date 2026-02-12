@@ -1,0 +1,16 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue.clock
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue.deq_ptr_value [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue.do_deq
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue.do_enq
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue.empty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue.enq_ptr_value [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue.full
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue.io_deq_bits_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue.io_deq_bits_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue.io_deq_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue.io_enq_bits_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue.io_enq_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue.io_enq_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue.maybe_full
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue.ptr_match
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue.reset

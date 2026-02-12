@@ -1,0 +1,40 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.CS2_round_up
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.CS3_round_up
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.CS_0123_result [24:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.EA_reg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.EA_sub_value_reg_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.EA_sub_value_reg_r_1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.Efp_b_is_greater
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.NX_reg_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.RDN
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.RMM
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.RNE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.RUP
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.U_CS4_io_adder_op0_r [23:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.U_CS4_io_adder_op1_r [23:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.U_Lshift_io_src_r [24:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.close_fraction_result_reg_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.close_sign_result_reg_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.exp_is_equal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.io_CS1 [24:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.io_fflags [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.io_fire
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.io_fp_a [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.io_fp_b [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.io_fp_c [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.io_res_is_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.io_round_mode [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.lshift_result_head_is_one_reg_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.lshift_result_head_is_one_reg_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.lzd_0123 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.lzd_0123_reg [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.mask_onehot [24:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.priority_mask [24:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.sel_CS0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.sel_CS1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.sel_CS2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.sel_CS3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.sel_CS4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.significand_fp_a [23:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.U_F32_Mixed_1.U_close_path.significand_fp_b [23:0]

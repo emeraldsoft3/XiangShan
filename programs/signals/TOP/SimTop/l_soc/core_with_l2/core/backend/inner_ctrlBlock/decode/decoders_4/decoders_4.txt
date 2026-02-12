@@ -1,0 +1,188 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.decodedInst_decoder_14 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.decodedInst_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.decodedInst_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.decodedInst_selImm [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.decodedInst_uopSplitType [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.decodedInst_wfflags
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_csrCtrl_singlestep
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_blockBackward
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_canRobCompress
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_commitType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_crossPageIPFFix
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_debug_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_foldpc [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_fpWen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_fpu_fmt [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_fpu_rm [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_fpu_typ [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_fpu_typeTagOut [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_fpu_wflags
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_imm [21:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_instr [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_isFetchMalAddr
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_isMove
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_isVset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_isXSTrap
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_ldest [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_lsrc_0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_lsrc_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_lsrc_2 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_preDecodeInfo_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_preDecodeInfo_isCall
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_preDecodeInfo_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_preDecodeInfo_isRet
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_preDecodeInfo_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_pred_taken
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_selImm [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_srcType_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_srcType_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_srcType_2 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_srcType_3 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_srcType_4 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_uopSplitType [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vecWen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vlsInstr
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_isDependOldVd
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_isDstMask
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_isExt
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_isNarrow
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_isOpMask
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_isReverse
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_isVleff
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_isWritePartVd
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_specVill
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_specVlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_specVma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_specVsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_specVta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_vill
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_vm
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_vstart [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_vpu_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_waitForward
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_decodedInst_wfflags
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_isComplex
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_uopInfo_lmul [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_uopInfo_numOfUop [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_deq_uopInfo_numOfWB [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_crossPageIPFFix
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_foldpc [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_instr [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_isFetchMalAddr
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_isLastInFtqEntry
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_preDecodeInfo_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_preDecodeInfo_isCall
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_preDecodeInfo_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_preDecodeInfo_isRet
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_preDecodeInfo_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_pred_taken
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_ctrlFlow_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_vstart [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_vtype_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_vtype_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_vtype_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_vtype_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_enq_vtype_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_illegalInst_frm
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_illegalInst_fsIsOff
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_illegalInst_hfenceGVMA
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_illegalInst_hfenceVVMA
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_illegalInst_hlsv
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_illegalInst_sfencePart
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_illegalInst_sfenceVMA
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_illegalInst_vsIsOff
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_illegalInst_wfi
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_illegalInst_wrs_nto
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_special_cboI2F
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_virtualInst_cboCF
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_virtualInst_cboI
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_virtualInst_cboZ
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_virtualInst_hfence
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_virtualInst_hlsv
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_virtualInst_sfencePart
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_virtualInst_sfenceVMA
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_virtualInst_wfi
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.io_fromCSR_virtualInst_wrs_nto
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isCboInval
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isCboZero
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isCsr
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isCsrr
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isCsrrVl
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isCsrrVlenb
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isCsrw
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isDstMask
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isFof
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isNarrow
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isOpMask
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isPreI
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isPreR
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isPreW
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isSoftPrefetch
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isVStore
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isVload
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isVls
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.isZimop

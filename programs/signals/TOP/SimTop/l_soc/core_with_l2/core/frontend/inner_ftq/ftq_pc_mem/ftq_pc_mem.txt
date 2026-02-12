@@ -1,0 +1,27 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_commPtrPlus1_rdata_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_commPtrPlus1_w_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_commPtr_rdata_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_commPtr_w_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_ifuPtrPlus1_rdata_fallThruError
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_ifuPtrPlus1_rdata_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_ifuPtrPlus1_rdata_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_ifuPtrPlus1_w_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_ifuPtrPlus2_rdata_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_ifuPtrPlus2_w_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_ifuPtr_rdata_fallThruError
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_ifuPtr_rdata_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_ifuPtr_rdata_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_ifuPtr_w_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_pfPtrPlus1_rdata_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_pfPtrPlus1_rdata_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_pfPtrPlus1_w_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_pfPtr_rdata_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_pfPtr_rdata_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_pfPtr_w_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_waddr [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_wdata_fallThruError
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_wdata_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_wdata_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.io_wen
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_pc_mem.reset

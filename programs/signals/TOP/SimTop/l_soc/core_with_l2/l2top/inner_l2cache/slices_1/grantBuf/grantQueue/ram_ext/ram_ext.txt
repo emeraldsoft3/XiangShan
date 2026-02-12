@@ -1,0 +1,24 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.Memory[0] [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.Memory[10] [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.Memory[11] [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.Memory[12] [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.Memory[13] [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.Memory[14] [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.Memory[15] [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.Memory[1] [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.Memory[2] [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.Memory[3] [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.Memory[4] [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.Memory[5] [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.Memory[6] [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.Memory[7] [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.Memory[8] [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.Memory[9] [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.R0_addr [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.R0_clk
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.R0_data [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.R0_en
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.W0_addr [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.W0_clk
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.W0_data [23:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.grantBuf.grantQueue.ram_ext.W0_en

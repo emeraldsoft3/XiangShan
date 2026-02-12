@@ -1,0 +1,7 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_5.fpDecoder.decoder_decoded_invInputs [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_5.fpDecoder.io_fpCtrl_fmt [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_5.fpDecoder.io_fpCtrl_rm [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_5.fpDecoder.io_fpCtrl_typ [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_5.fpDecoder.io_fpCtrl_typeTagOut [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_5.fpDecoder.io_fpCtrl_wflags
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_5.fpDecoder.io_instr [31:0]

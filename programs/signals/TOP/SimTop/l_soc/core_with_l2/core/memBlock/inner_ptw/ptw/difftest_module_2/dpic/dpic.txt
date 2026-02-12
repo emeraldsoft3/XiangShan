@@ -1,0 +1,44 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.enable
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_coreid [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_g_level [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_g_pbmt [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_g_perm [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_gpf
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_gvpn [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_hgatp [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_index [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_level [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_pbmt [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_perm [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_pf
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_ppn_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_ppn_1 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_ppn_2 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_ppn_3 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_ppn_4 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_ppn_5 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_ppn_6 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_ppn_7 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_pteidx_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_pteidx_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_pteidx_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_pteidx_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_pteidx_4
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_pteidx_5
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_pteidx_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_pteidx_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_s2ppn [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_s2xlate [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_satp [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_valididx_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_valididx_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_valididx_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_valididx_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_valididx_4
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_valididx_5
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_valididx_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_valididx_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_vpn [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.difftest_module_2.dpic.io_vsatp [63:0]

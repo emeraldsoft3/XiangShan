@@ -1,0 +1,227 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_exceptionAddr_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_exceptionAddr_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_exceptionAddr_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_exceptionAddr_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_exceptionAddr_vaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_redirect_bits_level
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_redirect_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_redirect_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_redirect_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_0_bits_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_0_bits_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_0_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_0_bits_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_0_bits_uop_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_0_bits_uop_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_0_bits_uop_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_0_bits_uop_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_0_bits_uop_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_0_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_0_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_0_bits_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_0_bits_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_1_bits_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_1_bits_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_1_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_1_bits_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_1_bits_uop_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_1_bits_uop_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_1_bits_uop_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_1_bits_uop_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_1_bits_uop_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_1_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_1_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_1_bits_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_1_bits_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_2_bits_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_2_bits_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_2_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_2_bits_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_2_bits_uop_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_2_bits_uop_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_2_bits_uop_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_2_bits_uop_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_2_bits_uop_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_2_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_2_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_2_bits_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_2_bits_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_3_bits_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_3_bits_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_3_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_3_bits_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_3_bits_uop_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_3_bits_uop_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_3_bits_uop_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_3_bits_uop_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_3_bits_uop_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_3_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_3_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_3_bits_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_3_bits_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_4_bits_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_4_bits_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_4_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_4_bits_uop_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_4_bits_uop_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_4_bits_uop_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_4_bits_uop_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_4_bits_uop_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_4_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_4_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_4_bits_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_4_bits_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_5_bits_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_5_bits_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_5_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_5_bits_uop_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_5_bits_uop_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_5_bits_uop_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_5_bits_uop_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_5_bits_uop_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_5_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_5_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_5_bits_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_5_bits_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_6_bits_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_6_bits_uop_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_6_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_6_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_6_bits_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.io_storeAddrIn_6_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_left_res_1_bits_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_left_res_1_bits_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_left_res_1_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_left_res_1_bits_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_left_res_1_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_left_res_1_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_left_res_1_bits_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_left_res_1_bits_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_left_res_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_oldest_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_oldest_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_oldest_bits_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_0_bits_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_0_bits_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_0_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_0_bits_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_0_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_0_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_0_bits_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_0_bits_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_1_bits_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_1_bits_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_1_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_1_bits_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_1_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_1_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_1_bits_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_1_bits_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_res_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_right_res_0_bits_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_right_res_0_bits_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_right_res_0_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_right_res_0_bits_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_right_res_0_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_right_res_0_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_right_res_0_bits_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_right_res_0_bits_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_right_res_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_right_res_1_bits_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_right_res_1_bits_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_right_res_1_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_right_res_1_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_right_res_1_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_right_res_1_bits_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_right_res_1_bits_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reqSel_right_res_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.req_differentFlag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.req_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.req_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.req_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.req_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.req_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.req_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.req_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.req_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s1_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s1_valid_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s1_valid_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s1_valid_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s1_valid_4
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s1_valid_5
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s1_valid_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_0_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_0_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_0_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_0_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_0_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_0_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_0_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_0_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_1_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_1_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_1_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_1_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_1_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_1_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_1_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_1_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_2_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_2_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_2_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_2_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_2_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_2_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_2_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_2_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_3_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_3_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_3_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_3_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_3_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_3_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_3_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_3_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_4_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_4_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_4_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_4_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_4_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_4_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_4_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_5_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_5_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_5_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_5_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_5_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_5_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_5_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_6_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_6_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_6_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_req_6_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_valid_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_valid_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_valid_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_valid_4
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_valid_5
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_valid_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_valid_REG
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_valid_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_valid_REG_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_valid_REG_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_valid_REG_4
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_valid_REG_5
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.storeQueue.exceptionBuffer.s2_valid_REG_6

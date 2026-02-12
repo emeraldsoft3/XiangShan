@@ -1,0 +1,12 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.dataArray.dataArrays_0_6.srams_0.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.dataArray.dataArrays_0_6.srams_0.io_r_req_bits_setIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.dataArray.dataArrays_0_6.srams_0.io_r_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.dataArray.dataArrays_0_6.srams_0.io_r_resp_data_0 [65:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.dataArray.dataArrays_0_6.srams_0.io_w_req_bits_data_0 [65:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.dataArray.dataArrays_0_6.srams_0.io_w_req_bits_setIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.dataArray.dataArrays_0_6.srams_0.io_w_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.dataArray.dataArrays_0_6.srams_0.rdata_hold_data_0 [65:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.dataArray.dataArrays_0_6.srams_0.rdata_last_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.dataArray.dataArrays_0_6.srams_0.ren
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.dataArray.dataArrays_0_6.srams_0.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.dataArray.dataArrays_0_6.srams_0.wen

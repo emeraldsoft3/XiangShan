@@ -1,0 +1,26 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.clock
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.deq_ptr_value [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.do_deq
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.do_enq
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.empty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.enq_ptr_value [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.io_count [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.io_deq_bits_address [47:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.io_deq_bits_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.io_deq_bits_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.io_deq_bits_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.io_deq_bits_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.io_deq_bits_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.io_deq_bits_source [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.io_deq_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.io_deq_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.io_deq_valid_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.io_enq_bits_address [47:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.io_enq_bits_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.io_enq_bits_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.io_enq_bits_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.io_enq_bits_source [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.io_enq_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.maybe_full
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.ptr_match
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.reset

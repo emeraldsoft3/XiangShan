@@ -1,0 +1,12 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_3.tag_arrays_1.tag_array.array.array.array_10_ext.RW0_addr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_3.tag_arrays_1.tag_array.array.array.array_10_ext.RW0_clk
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_3.tag_arrays_1.tag_array.array.array.array_10_ext.RW0_en
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_3.tag_arrays_1.tag_array.array.array.array_10_ext.RW0_random [95:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_3.tag_arrays_1.tag_array.array.array.array_10_ext.RW0_rdata [85:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_3.tag_arrays_1.tag_array.array.array.array_10_ext.RW0_wdata [85:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_3.tag_arrays_1.tag_array.array.array.array_10_ext.RW0_wmask [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_3.tag_arrays_1.tag_array.array.array.array_10_ext.RW0_wmode
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_3.tag_arrays_1.tag_array.array.array.array_10_ext.i [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_3.tag_arrays_1.tag_array.array.array.array_10_ext.initvar [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_3.tag_arrays_1.tag_array.array.array.array_10_ext.reg_RW0_addr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_3.tag_arrays_1.tag_array.array.array.array_10_ext.reg_RW0_ren

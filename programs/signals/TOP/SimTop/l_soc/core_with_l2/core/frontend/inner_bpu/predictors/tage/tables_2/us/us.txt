@@ -1,0 +1,20 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.extra_reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.holdRidx
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.holdRidx_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.holdRidx_hold_data
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.holdRidx_hold_data_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.holdRidx_last_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.holdRidx_last_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.io_r_req_bits_setIdx [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.io_r_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.io_r_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.io_r_resp_data_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.io_r_resp_data_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.io_w_req_bits_data_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.io_w_req_bits_data_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.io_w_req_bits_setIdx [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.io_w_req_bits_waymask [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.io_w_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.us.ridx

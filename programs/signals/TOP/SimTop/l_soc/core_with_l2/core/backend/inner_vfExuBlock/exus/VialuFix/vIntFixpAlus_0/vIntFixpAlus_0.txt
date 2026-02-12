@@ -1,0 +1,72 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.cmpOutS1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_cmpOut [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_fire
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_info_ma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_info_uopIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_info_vm
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_info_vxrm [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_isFixp
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_isMisc
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_isSub
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_narrow [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_narrowVd [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_oldVd [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_opcode_op [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_srcType_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_srcType_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_vd [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_vdType [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_vmask [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_vs1 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_vs2_adder [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_vs2_misc [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_vxsat [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_widen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.io_widen_vs2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.isFixpS1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.isMiscS1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.narrowVdMiscS1 [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_cout_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_cout_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_cout_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_cout_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_cout_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_cout_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_cout_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_cout_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vd_0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vd_1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vd_2 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vd_3 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vd_4 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vd_5 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vd_6 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vd_7 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vs1H_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vs1H_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vs1H_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vs1H_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vs1H_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vs1H_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vs1H_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vs1H_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vs2H_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vs2H_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vs2H_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vs2H_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vs2H_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vs2H_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vs2H_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromAdder_r_vs2H_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromMisc_r_rnd_high [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromMisc_r_rnd_tail [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_fromMisc_r_shiftOut [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_info_r_vxrm [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_isNClip_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_isSigned_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_isSub_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_opcode_r_op [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vFixPoint64b_io_sew_r_oneHot [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vdAdderS1 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus.VialuFix.vIntFixpAlus_0.vdMiscS1 [63:0]

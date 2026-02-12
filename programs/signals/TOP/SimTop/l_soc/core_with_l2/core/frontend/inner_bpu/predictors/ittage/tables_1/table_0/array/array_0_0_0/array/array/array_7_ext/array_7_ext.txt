@@ -1,0 +1,12 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.array.array_0_0_0.array.array.array_7_ext.RW0_addr [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.array.array_0_0_0.array.array.array_7_ext.RW0_clk
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.array.array_0_0_0.array.array.array_7_ext.RW0_en
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.array.array_0_0_0.array.array.array_7_ext.RW0_random [95:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.array.array_0_0_0.array.array.array_7_ext.RW0_rdata [71:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.array.array_0_0_0.array.array.array_7_ext.RW0_wdata [71:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.array.array_0_0_0.array.array.array_7_ext.RW0_wmask [71:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.array.array_0_0_0.array.array.array_7_ext.RW0_wmode
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.array.array_0_0_0.array.array.array_7_ext.i [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.array.array_0_0_0.array.array.array_7_ext.initvar [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.array.array_0_0_0.array.array.array_7_ext.reg_RW0_addr [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.array.array_0_0_0.array.array.array_7_ext.reg_RW0_ren

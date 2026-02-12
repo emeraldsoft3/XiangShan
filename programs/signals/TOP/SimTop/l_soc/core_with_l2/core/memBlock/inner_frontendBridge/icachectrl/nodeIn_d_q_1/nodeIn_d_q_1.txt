@@ -1,0 +1,30 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.do_deq
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.do_enq
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.empty
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.full
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_deq_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_deq_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_deq_bits_denied
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_deq_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_deq_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_deq_bits_sink
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_deq_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_deq_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_deq_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_deq_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_enq_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_enq_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_enq_bits_denied
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_enq_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_enq_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_enq_bits_sink
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_enq_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_enq_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_enq_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.io_enq_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.maybe_full
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.ptr_match
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.wrap
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icachectrl.nodeIn_d_q_1.wrap_1

@@ -1,0 +1,20 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.io_in_preInfo_isAmoCAS
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.io_in_preInfo_isVecArith
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.io_in_preInfo_isVecMem
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.io_in_preInfo_isVlsm
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.io_in_preInfo_isVlsr
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.io_in_preInfo_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.io_in_preInfo_typeOfSplit [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.io_in_preInfo_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.io_in_preInfo_vmvn [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.io_in_preInfo_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.io_in_preInfo_vwidth [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.io_out_isComplex
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.io_out_uopInfo_lmul [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.io_out_uopInfo_numOfUop [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.io_out_uopInfo_numOfWB [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.lmul [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.numOfUop [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.numOfUopVFREDOSUM_vlMax [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.numOfUopVrgather [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.decoders_4.uopInfoGen.simple_emul [1:0]

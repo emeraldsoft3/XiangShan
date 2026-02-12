@@ -1,0 +1,37 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.bypass_mask [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.bypass_mask_need_check
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.bypass_mask_need_check_reg_last_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.bypass_mask_raddr_reg [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.bypass_mask_waddr_reg [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.bypass_mask_wmask_reg [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.bypass_wdata_r_0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.bypass_wdata_r_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.bypass_wdata_r_2 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.bypass_wdata_r_3 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.io_r_req_bits_setIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.io_r_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.io_r_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.io_r_resp_data_0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.io_r_resp_data_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.io_r_resp_data_2 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.io_r_resp_data_3 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.io_w_req_bits_data_0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.io_w_req_bits_data_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.io_w_req_bits_data_2 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.io_w_req_bits_data_3 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.io_w_req_bits_setIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.io_w_req_bits_waymask [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.io_w_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.mem_rdata_0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.mem_rdata_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.mem_rdata_2 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.mem_rdata_3 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.rdata_hold_data_0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.rdata_hold_data_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.rdata_hold_data_2 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.rdata_hold_data_3 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.rdata_last_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.ren
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.scTables_1.table_0.wen

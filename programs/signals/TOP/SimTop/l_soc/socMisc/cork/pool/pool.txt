@@ -1,0 +1,13 @@
+TOP.SimTop.l_soc.socMisc.cork.pool.REG
+TOP.SimTop.l_soc.socMisc.cork.pool.bitmap [7:0]
+TOP.SimTop.l_soc.socMisc.cork.pool.bitmap1 [7:0]
+TOP.SimTop.l_soc.socMisc.cork.pool.clock
+TOP.SimTop.l_soc.socMisc.cork.pool.io_alloc_bits [2:0]
+TOP.SimTop.l_soc.socMisc.cork.pool.io_alloc_ready
+TOP.SimTop.l_soc.socMisc.cork.pool.io_alloc_valid
+TOP.SimTop.l_soc.socMisc.cork.pool.io_free_bits [2:0]
+TOP.SimTop.l_soc.socMisc.cork.pool.io_free_valid
+TOP.SimTop.l_soc.socMisc.cork.pool.reset
+TOP.SimTop.l_soc.socMisc.cork.pool.select [2:0]
+TOP.SimTop.l_soc.socMisc.cork.pool.taken [7:0]
+TOP.SimTop.l_soc.socMisc.cork.pool.valid

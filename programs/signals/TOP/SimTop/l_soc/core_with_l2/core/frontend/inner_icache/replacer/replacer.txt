@@ -1,0 +1,216 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.io_touch_0_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.io_touch_0_bits_way [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.io_touch_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.io_touch_1_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.io_touch_1_bits_way [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.io_touch_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.io_victim_vSetIdx_bits [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.io_victim_vSetIdx_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.io_victim_way [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.io_victim_way_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_10_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_11_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_12_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_13_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_14_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_15_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_16_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_17_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_18_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_19_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_20_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_21_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_22_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_23_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_24_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_25_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_26_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_27_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_28_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_29_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_30_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_31_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_32_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_33_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_34_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_35_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_36_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_37_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_38_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_39_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_40_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_41_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_42_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_43_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_44_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_45_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_46_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_47_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_48_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_49_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_50_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_51_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_52_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_53_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_54_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_55_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_56_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_57_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_58_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_59_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_60_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_61_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_62_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_63_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_6_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_7_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_8_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_9_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_10_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_11_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_12_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_13_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_14_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_15_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_16_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_17_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_18_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_19_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_20_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_21_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_22_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_23_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_24_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_25_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_26_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_27_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_28_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_29_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_30_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_31_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_32_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_33_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_34_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_35_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_36_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_37_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_38_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_39_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_40_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_41_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_42_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_43_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_44_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_45_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_46_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_47_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_48_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_49_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_50_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_51_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_52_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_53_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_54_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_55_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_56_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_57_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_58_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_59_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_60_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_61_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_62_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_63_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_6_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_7_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_8_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_9_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.set_touch_ways_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_0 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_10 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_11 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_12 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_13 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_14 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_15 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_16 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_17 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_18 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_19 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_0 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_1 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_10 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_11 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_12 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_13 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_14 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_15 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_16 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_17 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_18 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_19 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_2 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_20 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_21 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_22 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_23 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_24 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_25 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_26 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_27 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_28 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_29 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_3 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_30 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_31 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_4 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_5 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_6 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_7 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_8 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_1_9 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_2 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_20 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_21 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_22 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_23 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_24 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_25 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_26 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_27 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_28 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_29 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_3 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_30 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_31 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_4 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_5 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_6 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_7 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_8 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.state_vec_9 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.touch_sets_0_0 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.touch_sets_1_0 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.touch_ways_0_0_bits [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.touch_ways_0_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.touch_ways_0_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.touch_ways_0_1_valid_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.touch_ways_1_0_bits [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.touch_ways_1_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.touch_ways_1_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.touch_ways_1_1_valid_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.victim_vSetIdx_reg [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.replacer.victim_way_reg [1:0]

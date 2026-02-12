@@ -1,0 +1,310 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.clock
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.ctrl_validMask_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.ctrl_validMask_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.ctrl_validMask_3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.ctrl_validMask_grantMask_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.ctrl_validMask_grantMask_3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.ctrl_validMask_grantMask_lastGrant [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_chosen_choice [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_aMergeTask_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_aMergeTask_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_aMergeTask_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_aMergeTask_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_aMergeTask_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_aMergeTask_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_aMergeTask_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_aMergeTask_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_aMergeTask_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_aMergeTask_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_aMergeTask_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_bufIdx [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_cmoAll
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_cmoTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_dsWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_metaWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_mshrRetry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_needProbeAckData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_readProbeDataDown
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_replTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_snpHitRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_snpHitReleaseIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_snpHitReleaseMeta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_snpHitReleaseMeta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_snpHitReleaseMeta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_snpHitReleaseMeta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_snpHitReleaseMeta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_snpHitReleaseMeta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_snpHitReleaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_snpHitReleaseToInval
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_snpHitReleaseWithData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_tagWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_txChannel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_useProbeData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_bits_wayMask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_0_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_aMergeTask_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_aMergeTask_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_aMergeTask_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_aMergeTask_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_aMergeTask_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_aMergeTask_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_aMergeTask_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_aMergeTask_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_aMergeTask_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_aMergeTask_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_aMergeTask_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_bufIdx [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_cmoAll
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_cmoTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_dsWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_metaWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_mshrRetry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_needProbeAckData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_readProbeDataDown
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_replTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_snpHitRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_snpHitReleaseIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_snpHitReleaseMeta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_snpHitReleaseMeta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_snpHitReleaseMeta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_snpHitReleaseMeta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_snpHitReleaseMeta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_snpHitReleaseMeta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_snpHitReleaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_snpHitReleaseToInval
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_snpHitReleaseWithData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_tagWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_txChannel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_useProbeData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_bits_wayMask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_1_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_aMergeTask_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_aMergeTask_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_aMergeTask_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_aMergeTask_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_aMergeTask_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_aMergeTask_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_aMergeTask_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_aMergeTask_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_aMergeTask_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_aMergeTask_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_aMergeTask_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_bufIdx [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_cmoAll
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_cmoTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_dsWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_metaWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_mshrRetry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_needProbeAckData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_readProbeDataDown
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_replTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_snpHitRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_snpHitReleaseIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_snpHitReleaseMeta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_snpHitReleaseMeta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_snpHitReleaseMeta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_snpHitReleaseMeta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_snpHitReleaseMeta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_snpHitReleaseMeta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_snpHitReleaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_snpHitReleaseToInval
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_snpHitReleaseWithData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_tagWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_txChannel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_useProbeData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_bits_wayMask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_2_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_aMergeTask_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_aMergeTask_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_aMergeTask_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_aMergeTask_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_aMergeTask_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_aMergeTask_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_aMergeTask_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_aMergeTask_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_aMergeTask_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_aMergeTask_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_aMergeTask_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_bufIdx [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_cmoAll
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_cmoTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_dsWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_metaWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_mshrRetry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_needProbeAckData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_readProbeDataDown
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_replTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_snpHitRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_snpHitReleaseIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_snpHitReleaseMeta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_snpHitReleaseMeta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_snpHitReleaseMeta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_snpHitReleaseMeta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_snpHitReleaseMeta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_snpHitReleaseMeta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_snpHitReleaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_snpHitReleaseToInval
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_snpHitReleaseWithData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_tagWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_txChannel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_useProbeData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_bits_wayMask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_in_3_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_aMergeTask_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_aMergeTask_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_aMergeTask_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_aMergeTask_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_aMergeTask_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_aMergeTask_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_aMergeTask_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_aMergeTask_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_aMergeTask_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_aMergeTask_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_aMergeTask_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_bufIdx [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_cmoAll
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_cmoTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_dsWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_metaWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_mshrRetry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_needProbeAckData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_readProbeDataDown
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_replTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_snpHitRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_snpHitReleaseIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_snpHitReleaseMeta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_snpHitReleaseMeta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_snpHitReleaseMeta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_snpHitReleaseMeta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_snpHitReleaseMeta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_snpHitReleaseMeta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_snpHitReleaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_snpHitReleaseToInval
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_snpHitReleaseWithData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_tagWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_txChannel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_useProbeData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_bits_wayMask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.io_out_valid_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.sinkC.taskArb.reset

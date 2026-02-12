@@ -1,0 +1,10 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.pipeline_2.clock
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.pipeline_2.io_in_bits_data_0_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.pipeline_2.io_in_bits_set [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.pipeline_2.io_in_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.pipeline_2.io_in_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.pipeline_2.io_out_bits_data_0_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.pipeline_2.io_out_bits_set [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.pipeline_2.io_out_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.pipeline_2.io_out_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.pipeline_2.reset

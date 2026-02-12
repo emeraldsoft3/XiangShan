@@ -1,0 +1,15 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l1.array_0_0_2.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l1.array_0_0_2.io_r_req_bits_setIdx [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l1.array_0_0_2.io_r_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l1.array_0_0_2.io_r_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l1.array_0_0_2.io_r_resp_data_0 [97:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l1.array_0_0_2.io_r_resp_data_1 [97:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l1.array_0_0_2.io_r_resp_data_2 [97:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l1.array_0_0_2.io_r_resp_data_3 [97:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l1.array_0_0_2.io_w_req_bits_data_0 [97:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l1.array_0_0_2.io_w_req_bits_data_1 [97:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l1.array_0_0_2.io_w_req_bits_data_2 [97:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l1.array_0_0_2.io_w_req_bits_data_3 [97:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l1.array_0_0_2.io_w_req_bits_setIdx [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l1.array_0_0_2.io_w_req_bits_waymask [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l1.array_0_0_2.io_w_req_valid

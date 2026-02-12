@@ -1,0 +1,75 @@
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_a_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_a_bits_corrupt
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_a_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_a_bits_mask [31:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_a_bits_param [2:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_a_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_a_bits_source [4:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_a_ready
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_a_valid
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_d_bits_corrupt
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_d_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_d_bits_denied
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_d_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_d_bits_sink
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_d_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_d_bits_source [4:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_d_ready
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_0_d_valid
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_a_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_a_bits_corrupt
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_a_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_a_bits_mask [31:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_a_bits_param [2:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_a_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_a_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_a_ready
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_a_valid
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_d_bits_corrupt
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_d_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_d_bits_denied
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_d_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_d_bits_sink
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_d_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_d_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_d_ready
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_in_1_d_valid
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_a_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_a_bits_corrupt
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_a_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_a_bits_mask [31:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_a_bits_param [2:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_a_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_a_bits_source [5:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_a_ready
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_a_valid
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_d_bits_corrupt
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_d_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_d_bits_denied
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_d_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_d_bits_sink
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_d_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_d_bits_source [5:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_d_ready
+TOP.SimTop.l_soc.socMisc.xbar_3.auto_out_d_valid
+TOP.SimTop.l_soc.socMisc.xbar_3.beatsLeft
+TOP.SimTop.l_soc.socMisc.xbar_3.clock
+TOP.SimTop.l_soc.socMisc.xbar_3.latch
+TOP.SimTop.l_soc.socMisc.xbar_3.muxState_0
+TOP.SimTop.l_soc.socMisc.xbar_3.muxState_1
+TOP.SimTop.l_soc.socMisc.xbar_3.out_0_a_valid
+TOP.SimTop.l_soc.socMisc.xbar_3.readys_mask [1:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.readys_readys [1:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.readys_valid [1:0]
+TOP.SimTop.l_soc.socMisc.xbar_3.requestDOI_0_1
+TOP.SimTop.l_soc.socMisc.xbar_3.reset
+TOP.SimTop.l_soc.socMisc.xbar_3.state_0
+TOP.SimTop.l_soc.socMisc.xbar_3.state_1
+TOP.SimTop.l_soc.socMisc.xbar_3.winner_0
+TOP.SimTop.l_soc.socMisc.xbar_3.winner_1

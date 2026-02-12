@@ -1,0 +1,24 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.freeList_0 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.freeList_1 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.freeList_2 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.freeList_3 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.freeList_4 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.freeList_5 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.freeList_6 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.freeList_7 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.freeMask [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.freeReq_next_nextVec_0_r
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.freeSlotCnt [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.freeSlotOH_next_nextVec_0_r [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.headPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.headPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.io_allocateSlot_0 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.io_doAllocate_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.io_empty
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.io_free [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.io_validCount [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.remFreeSelMaskVec_0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.tailPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_vsMergeBuffer_0.freeCount_freeList.tailPtr_value [2:0]

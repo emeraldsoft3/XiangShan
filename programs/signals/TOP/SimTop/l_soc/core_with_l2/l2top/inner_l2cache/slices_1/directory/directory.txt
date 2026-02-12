@@ -1,0 +1,657 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.PSEL [9:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.chosenWay [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.clock
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.finalWay [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.freeWayMask_s3 [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.hitVec_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.hitVec_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.hitVec_3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.hitVec_4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.hitVec_5
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.hitVec_6
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.hitVec_7
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.hit_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.invalid_vec_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.invalid_vec_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.invalid_vec_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.invalid_vec_3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.invalid_vec_4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.invalid_vec_5
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.invalid_vec_6
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_metaWReq_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_metaWReq_bits_wayOH [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_metaWReq_bits_wmeta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_metaWReq_bits_wmeta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_metaWReq_bits_wmeta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_metaWReq_bits_wmeta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_metaWReq_bits_wmeta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_metaWReq_bits_wmeta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_metaWReq_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_releaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_replaceData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_s_cmometaw
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_s_cmoresp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_0_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_releaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_replaceData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_s_cmometaw
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_s_cmoresp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_10_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_releaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_replaceData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_s_cmometaw
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_s_cmoresp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_11_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_releaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_replaceData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_s_cmometaw
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_s_cmoresp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_12_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_releaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_replaceData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_s_cmometaw
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_s_cmoresp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_13_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_releaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_replaceData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_s_cmometaw
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_s_cmoresp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_14_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_releaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_replaceData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_s_cmometaw
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_s_cmoresp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_15_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_releaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_replaceData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_s_cmometaw
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_s_cmoresp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_1_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_releaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_replaceData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_s_cmometaw
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_s_cmoresp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_2_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_releaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_replaceData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_s_cmometaw
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_s_cmoresp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_3_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_releaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_replaceData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_s_cmometaw
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_s_cmoresp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_4_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_releaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_replaceData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_s_cmometaw
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_s_cmoresp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_5_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_releaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_replaceData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_s_cmometaw
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_s_cmoresp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_6_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_releaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_replaceData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_s_cmometaw
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_s_cmoresp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_7_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_releaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_replaceData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_s_cmometaw
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_s_cmoresp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_8_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_releaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_replaceData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_s_cmometaw
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_s_cmoresp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_msInfo_9_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_read_bits_cmoAll
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_read_bits_cmoWay [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_read_bits_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_read_bits_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_read_bits_replacerInfo_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_read_bits_replacerInfo_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_read_bits_replacerInfo_refill_prefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_read_bits_replacerInfo_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_read_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_read_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_read_bits_wayMask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_read_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_read_ready_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_read_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_replResp_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_replResp_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_replResp_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_replResp_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_replResp_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_replResp_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_replResp_bits_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_replResp_bits_retry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_replResp_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_replResp_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_replResp_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_replResp_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_resp_bits_error
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_resp_bits_hit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_resp_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_resp_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_resp_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_resp_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_resp_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_resp_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_resp_bits_replacerInfo_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_resp_bits_replacerInfo_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_resp_bits_replacerInfo_refill_prefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_resp_bits_replacerInfo_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_resp_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_resp_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_resp_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_resp_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_tagWReq_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_tagWReq_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_tagWReq_bits_wtag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.io_tagWReq_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.match_a
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.match_b
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_0_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_0_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_0_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_0_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_0_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_0_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_1_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_1_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_1_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_1_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_1_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_1_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_2_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_2_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_2_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_2_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_2_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_2_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_3_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_3_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_3_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_3_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_3_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_3_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_4_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_4_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_4_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_4_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_4_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_4_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_5_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_5_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_5_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_5_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_5_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_5_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_6_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_6_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_6_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_6_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_6_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_6_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_7_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_7_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_7_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_7_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_7_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.metaAll_s3_7_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.next_state_s3 [15:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.r_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.r_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.r_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.r_3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.r_4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.r_5
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.r_6
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.r_7
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.refillReqValid_s2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.refillReqValid_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.repl_state_s3 [15:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.replaceWay [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.replacerWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.reqValid_s2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.reqValid_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s2_cmoAll
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s2_cmoWay [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s2_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s2_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s2_replacerInfo_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s2_replacerInfo_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s2_replacerInfo_refill_prefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s2_replacerInfo_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s2_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s2_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s2_wayMask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s3_cmoAll
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s3_cmoWay [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s3_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s3_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s3_replacerInfo_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s3_replacerInfo_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s3_replacerInfo_refill_prefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s3_replacerInfo_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s3_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s3_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.req_s3_wayMask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.reset
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.resetFinish
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.resetIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.rrip_req_type [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagAll_s3_0 [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagAll_s3_1 [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagAll_s3_2 [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagAll_s3_3 [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagAll_s3_4 [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagAll_s3_5 [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagAll_s3_6 [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.tagAll_s3_7 [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.directory.way_s3 [2:0]

@@ -1,0 +1,59 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.corrupt_r
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.difftest_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.fetchHit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.fetch_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.id_r [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_data_write_bits_data [511:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_data_write_bits_data_0 [511:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_data_write_bits_virIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_data_write_bits_waymask [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_data_write_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_fencei
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_fetch_req_bits_blkPaddr [41:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_fetch_req_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_fetch_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_fetch_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_fetch_resp_bits_blkPaddr [41:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_fetch_resp_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_fetch_resp_bits_data [511:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_fetch_resp_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_fetch_resp_bits_waymask [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_fetch_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_flush
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_hartId
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_mem_acquire_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_mem_acquire_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_mem_acquire_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_mem_acquire_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_mem_grant_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_mem_grant_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_mem_grant_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_mem_grant_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_mem_grant_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_mem_grant_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_meta_write_bits_bankIdx
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_meta_write_bits_phyTag [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_meta_write_bits_virIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_meta_write_bits_waymask [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_meta_write_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_prefetch_req_bits_blkPaddr [41:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_prefetch_req_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_prefetch_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_prefetch_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_victim_vSetIdx_bits [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_victim_vSetIdx_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.io_victim_way [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.last_fire
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.last_fire_r
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.mshr_resp_blkPaddr [41:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.mshr_resp_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.mshr_resp_way [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchHit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.readBeatCnt
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.refill_done_r_beats1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.refill_done_r_counter
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.respDataReg_0 [255:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.respDataReg_1 [255:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.waymask [3:0]

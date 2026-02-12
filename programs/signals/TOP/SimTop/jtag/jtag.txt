@@ -1,0 +1,17 @@
+TOP.SimTop.jtag.TICK_DELAY [31:0]
+TOP.SimTop.jtag.clock
+TOP.SimTop.jtag.enable
+TOP.SimTop.jtag.exit [31:0]
+TOP.SimTop.jtag.init_done
+TOP.SimTop.jtag.init_done_sticky
+TOP.SimTop.jtag.jtag_TCK
+TOP.SimTop.jtag.jtag_TDI
+TOP.SimTop.jtag.jtag_TDO_data
+TOP.SimTop.jtag.jtag_TDO_driven
+TOP.SimTop.jtag.jtag_TMS
+TOP.SimTop.jtag.jtag_TRSTn
+TOP.SimTop.jtag.r_reset
+TOP.SimTop.jtag.random_bits [31:0]
+TOP.SimTop.jtag.reset
+TOP.SimTop.jtag.tickCounterNxt [31:0]
+TOP.SimTop.jtag.tickCounterReg [31:0]

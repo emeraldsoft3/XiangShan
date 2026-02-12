@@ -1,0 +1,188 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_a_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_a_bits_echo_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_a_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_a_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_a_bits_user_needHint
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_a_bits_user_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_a_bits_user_vaddr [43:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_b_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_b_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_b_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_b_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_b_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_b_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_b_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_b_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_b_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_b_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_c_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_c_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_c_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_c_bits_echo_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_c_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_c_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_c_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_c_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_c_bits_user_needHint
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_c_bits_user_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_c_bits_user_vaddr [43:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_c_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_c_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_d_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_d_bits_echo_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_d_bits_sink [8:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_d_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_e_bits_sink [8:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_e_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_0_e_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_a_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_a_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_a_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_a_bits_user_needHint
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_a_bits_user_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_d_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_d_bits_sink [8:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_d_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_1_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_a_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_a_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_a_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_a_bits_user_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_d_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_d_bits_sink [8:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_d_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_in_2_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_a_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_a_bits_echo_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_a_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_a_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_a_bits_user_needHint
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_a_bits_user_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_a_bits_user_vaddr [43:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_b_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_b_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_b_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_b_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_b_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_b_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_b_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_b_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_b_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_b_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_c_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_c_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_c_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_c_bits_echo_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_c_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_c_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_c_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_c_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_c_bits_user_needHint
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_c_bits_user_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_c_bits_user_vaddr [43:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_c_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_c_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_d_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_d_bits_echo_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_d_bits_sink [8:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_d_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_e_bits_sink [8:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_e_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_0_e_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_a_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_a_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_a_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_a_bits_user_needHint
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_a_bits_user_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_d_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_d_bits_sink [8:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_d_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_1_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_a_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_a_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_a_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_a_bits_user_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_d_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_d_bits_sink [8:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_d_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_busPMU.auto_out_2_d_valid

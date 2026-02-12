@@ -1,0 +1,702 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.cur_kill
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.feedback_slow_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_csrCtrl_hd_misalign_st_enable
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_dcache_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_bits_flushState
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_bits_hit
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_bits_hit_r
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_bits_lqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_bits_lqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_bits_r_flushState
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_bits_r_lqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_bits_r_lqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_bits_r_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_bits_r_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_bits_r_sqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_bits_r_sqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_bits_sqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_bits_sqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_feedback_slow_valid_last_REG
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_debugMode
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tEnableVec_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tEnableVec_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tEnableVec_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tEnableVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_0_action [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_0_chain
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_0_matchType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_0_select
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_0_store
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_0_tdata2 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_0_timing
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_1_action [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_1_chain
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_1_matchType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_1_select
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_1_store
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_1_tdata2 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_1_timing
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_2_action [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_2_chain
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_2_matchType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_2_select
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_2_store
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_2_tdata2 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_2_timing
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_3_action [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_3_chain
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_3_matchType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_3_select
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_3_store
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_3_tdata2 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_tdataVec_3_timing
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_fromCsrTrigger_triggerCanRaiseBpExp
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_issue_bits_r_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_issue_bits_r_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_issue_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_issue_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_issue_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_isFrmMisAlignBuf
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_isMisalign
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_isvec
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_mask [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_misalignWith16Byte
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_miss
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_nc
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_debugInfo_dispatchTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_debugInfo_eliminatedMove
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_debugInfo_enqRsTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_debugInfo_issueTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_debugInfo_renameTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_debugInfo_runahead_checkpoint_id [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_debugInfo_selectTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_debugInfo_tlbFirstReqTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_debugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_debugInfo_writebackTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_pdest [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_sqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_sqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_vpu_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_uop_vpu_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_updateAddrValid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_bits_wlineflag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_af
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_atomic
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_hasException
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_isvec
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_memBackTypeMM
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_mmio
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_uop_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_uop_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_uop_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_uop_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_updateAddrValid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_replenish_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_lsq_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_alignedType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_elemIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_isvec
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_mask [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_mbIndex [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_debugInfo_dispatchTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_debugInfo_eliminatedMove
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_debugInfo_enqRsTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_debugInfo_issueTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_debugInfo_renameTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_debugInfo_runahead_checkpoint_id [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_debugInfo_selectTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_debugInfo_tlbFirstReqTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_debugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_debugInfo_writebackTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_lqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_lqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_pdest [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_sqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_sqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_vpu_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_vpu_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_uop_vpu_vstart [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_buf_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_is128bit
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_isFinalSplit
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_isvec
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_mask [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_debugInfo_dispatchTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_debugInfo_eliminatedMove
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_debugInfo_enqRsTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_debugInfo_issueTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_debugInfo_renameTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_debugInfo_runahead_checkpoint_id [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_debugInfo_selectTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_debugInfo_tlbFirstReqTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_debugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_debugInfo_writebackTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_lqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_lqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_pdest [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_sqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_sqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_vpu_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_vpu_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_uop_vpu_vstart [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stin_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stout_bits_mmio
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stout_bits_need_rep
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stout_bits_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stout_bits_uop_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stout_bits_uop_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stout_bits_uop_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stout_bits_uop_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stout_bits_uop_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stout_bits_uop_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stout_bits_vecActive
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_misalign_stout_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_pmp_atomic
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_pmp_mmio
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_pmp_st
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_prefetch_req_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_redirect_bits_level
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_redirect_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_redirect_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_redirect_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_s0_s1_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_st_mask_out_bits_mask [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_st_mask_out_bits_sqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_st_mask_out_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_st_mask_out_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_isFirstIssue
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_src_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_debugInfo_dispatchTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_debugInfo_eliminatedMove
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_debugInfo_enqRsTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_debugInfo_issueTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_debugInfo_renameTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_debugInfo_runahead_checkpoint_id [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_debugInfo_selectTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_debugInfo_tlbFirstReqTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_debugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_debugInfo_writebackTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_imm [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_lqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_lqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_pdest [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_sqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_bits_uop_sqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_ready_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stin_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stld_nuke_query_bits_mask [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stld_nuke_query_bits_matchLine
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stld_nuke_query_bits_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stld_nuke_query_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stld_nuke_query_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stld_nuke_query_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_debug_isMMIO
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_debug_isNC
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_debug_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_debug_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_debugInfo_dispatchTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_debugInfo_eliminatedMove
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_debugInfo_enqRsTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_debugInfo_issueTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_debugInfo_renameTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_debugInfo_runahead_checkpoint_id [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_debugInfo_selectTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_debugInfo_tlbFirstReqTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_debugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_debugInfo_writebackTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_pdest [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_sqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_sqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_bits_uop_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_stout_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_req_bits_checkfullva
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_req_bits_debug_isFirstIssue
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_req_bits_debug_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_req_bits_debug_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_req_bits_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_req_bits_hyperinst
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_req_bits_memidx_idx [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_req_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_resp_bits_excp_0_af_st
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_resp_bits_excp_0_gpf_st
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_resp_bits_excp_0_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_resp_bits_excp_0_pf_st
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_resp_bits_excp_0_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_resp_bits_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_resp_bits_gpaddr_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_resp_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_resp_bits_memidx_idx [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_resp_bits_miss
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_resp_bits_paddr_0 [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_resp_bits_pbmt_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_resp_bits_ptwBack
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_tlb_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_alignedType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_basevaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_elemIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_mBIndex [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_mask [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_debugInfo_dispatchTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_debugInfo_eliminatedMove
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_debugInfo_enqRsTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_debugInfo_issueTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_debugInfo_renameTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_debugInfo_runahead_checkpoint_id [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_debugInfo_selectTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_debugInfo_tlbFirstReqTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_debugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_debugInfo_writebackTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_lqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_lqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_pdest [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_sqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_sqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_vpu_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_vpu_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_uop_vpu_vstart [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_vaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_bits_vecActive
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstin_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstout_bits_elemIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstout_bits_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstout_bits_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstout_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstout_bits_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstout_bits_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstout_bits_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstout_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstout_bits_hit
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstout_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstout_bits_mBIndex [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstout_bits_mask [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstout_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstout_bits_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstout_bits_vaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstout_bits_vstart [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.io_vecstout_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.misalignBufferNack
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_addr_aligned
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_alignType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_isCbo
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_isFirstIssue
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_out_alignedType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_out_isvec
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_out_misalignWith16Byte
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_out_uop_debugInfo_tlbFirstReqTime_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_rs_corss16Bytes
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_stin_src_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_stin_uop_fuOpType [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_stin_uop_imm [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_uop_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_uop_sqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_use_non_prf_flow
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_valid_probe
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s0_vecActive
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_exception_new_vec_15
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_exception_new_vec_23
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_exception_new_vec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_exception_new_vec_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_frm_mab_vec
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_alignedType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_elemIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_is128bit
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_isFinalSplit
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_isFirstIssue
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_isFrmMisAlignBuf
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_isMisalign
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_isvec
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_mask [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_mbIndex [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_misalignWith16Byte
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_debugInfo_dispatchTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_debugInfo_eliminatedMove
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_debugInfo_enqRsTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_debugInfo_issueTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_debugInfo_renameTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_debugInfo_runahead_checkpoint_id [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_debugInfo_selectTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_debugInfo_tlbFirstReqTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_debugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_debugInfo_writebackTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_lqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_lqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_pdest [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_sqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_sqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_vpu_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_vpu_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_uop_vpu_vstart [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_vecActive
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_vecBaseVaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_in_wlineflag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_isCbo
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_isvec
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_kill
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_mis_align
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_mis_align_last_REG
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_out_mmio
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_out_nc
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_out_uop_debugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_out_uop_debugInfo_tlbRespTime_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_pbmt [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_tlb_miss
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_trigger_debug_mode
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_valid_probe
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s1_vecActive
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_actually_uncache
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_actually_uncache_REG
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_exception
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_exception_REG
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_exception_new_vec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_frm_mab_vec
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_alignedType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_atomic
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_elemIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_isFinalSplit
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_isFrmMisAlignBuf
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_isHyper
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_isMisalign
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_isvec
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_mask [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_mbIndex [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_mmio
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_nc
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_tlbMiss
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_debugInfo_dispatchTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_debugInfo_eliminatedMove
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_debugInfo_enqRsTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_debugInfo_issueTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_debugInfo_renameTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_debugInfo_runahead_checkpoint_id [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_debugInfo_selectTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_debugInfo_tlbFirstReqTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_debugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_debugInfo_writebackTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_lqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_lqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_pdest [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_sqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_sqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_uopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_vpu_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_vpu_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_uop_vpu_vstart [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_vecActive
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_in_vecVaddrOffset [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_isCbo
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_kill
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_mis_align
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_mis_align_r
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_misalign_stout_bits_need_rep_r
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_mmio
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_mmio_REG
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_out_af
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_out_mmio
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_out_uop_exceptionVec_7_REG
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_pbmt [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_trigger_debug_mode
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_un_misalign_exception_REG
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_vecActive
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_vecFeedback_REG
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_vecFeedback_compare
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s2_vecFeedback_differentFlag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_exception
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_elemIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_isvec
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_mask [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_mbIndex [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_mmio
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_nc
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_debugInfo_dispatchTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_debugInfo_eliminatedMove
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_debugInfo_enqRsTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_debugInfo_issueTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_debugInfo_renameTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_debugInfo_runahead_checkpoint_id [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_debugInfo_selectTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_debugInfo_tlbFirstReqTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_debugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_debugInfo_writebackTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_pdest [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_sqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_sqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_uop_vpu_vstart [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_in_vecActive
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_kill
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.s3_vecFeedback
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_elemIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_gpaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_hasException
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_mask [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_mbIndex [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_debug_isMMIO
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_debug_isNC
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_debug_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_debug_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_debugInfo_dispatchTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_debugInfo_eliminatedMove
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_debugInfo_enqRsTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_debugInfo_issueTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_debugInfo_renameTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_debugInfo_runahead_checkpoint_id [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_debugInfo_selectTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_debugInfo_tlbFirstReqTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_debugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_debugInfo_writebackTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_pdest [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_sqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_sqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_output_uop_vpu_vstart [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_vaNeedExt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_vaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_1_r_vecFeedback
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_in_vec_1_r
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.sx_valid_1_r
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.toMisalignBufferValid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_StoreUnit_1.toMisalignBufferValid_last_REG

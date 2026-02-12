@@ -1,0 +1,25 @@
+TOP.SimTop.l_soc.socMisc.errorDevice.a_last
+TOP.SimTop.l_soc.socMisc.errorDevice.a_last_beats1
+TOP.SimTop.l_soc.socMisc.errorDevice.a_last_counter
+TOP.SimTop.l_soc.socMisc.errorDevice.auto_in_a_bits_address [30:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.auto_in_a_bits_corrupt
+TOP.SimTop.l_soc.socMisc.errorDevice.auto_in_a_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.auto_in_a_bits_mask [31:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.auto_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.auto_in_a_bits_param [2:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.auto_in_a_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.auto_in_a_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.auto_in_a_ready
+TOP.SimTop.l_soc.socMisc.errorDevice.auto_in_a_valid
+TOP.SimTop.l_soc.socMisc.errorDevice.auto_in_d_bits_corrupt
+TOP.SimTop.l_soc.socMisc.errorDevice.auto_in_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.auto_in_d_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.auto_in_d_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.auto_in_d_ready
+TOP.SimTop.l_soc.socMisc.errorDevice.auto_in_d_valid
+TOP.SimTop.l_soc.socMisc.errorDevice.clock
+TOP.SimTop.l_soc.socMisc.errorDevice.da_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.errorDevice.da_valid
+TOP.SimTop.l_soc.socMisc.errorDevice.r_beats1
+TOP.SimTop.l_soc.socMisc.errorDevice.r_counter
+TOP.SimTop.l_soc.socMisc.errorDevice.reset

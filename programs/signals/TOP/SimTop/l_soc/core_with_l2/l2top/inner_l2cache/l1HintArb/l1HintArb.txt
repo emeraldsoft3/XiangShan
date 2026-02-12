@@ -1,0 +1,13 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.l1HintArb.io_chosen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.l1HintArb.io_in_0_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.l1HintArb.io_in_0_bits_sourceId [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.l1HintArb.io_in_0_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.l1HintArb.io_in_0_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.l1HintArb.io_in_1_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.l1HintArb.io_in_1_bits_sourceId [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.l1HintArb.io_in_1_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.l1HintArb.io_in_1_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.l1HintArb.io_out_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.l1HintArb.io_out_bits_sourceId [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.l1HintArb.io_out_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.l1HintArb.io_out_valid

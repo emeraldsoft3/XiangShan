@@ -1,0 +1,44 @@
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.auto_out_a_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.auto_out_a_bits_data [7:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.auto_out_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.auto_out_a_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.auto_out_a_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.auto_out_a_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.auto_out_d_bits_corrupt
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.auto_out_d_bits_data [7:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.auto_out_d_bits_denied
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.auto_out_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.auto_out_d_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.auto_out_d_bits_sink [3:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.auto_out_d_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.auto_out_d_bits_source
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.auto_out_d_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.auto_out_d_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.clock
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.counter [3:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_addrIn [127:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_dataIn [127:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_dataOut [7:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_rdDone
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_rdEn
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_rdLegal
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_rdLoad_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_rdLoad_1
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_rdLoad_2
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_rdLoad_3
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_rdLoad_4
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_rdLoad_5
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_rdLoad_6
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_rdLoad_7
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_respError
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_sbStateOut [2:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_sizeIn [2:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_wrDone
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_wrEn
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.io_wrLegal
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.nodeOut_a_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.rdTxValid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.reset
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.sbState [2:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.txLast
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmInner.sb2tlOpt.wrTxValid

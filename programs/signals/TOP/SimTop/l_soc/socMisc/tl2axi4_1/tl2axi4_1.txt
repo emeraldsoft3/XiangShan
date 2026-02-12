@@ -1,0 +1,97 @@
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.a_first
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.a_last
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_in_a_bits_address [30:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_in_a_bits_data [63:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_in_a_bits_mask [7:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_in_a_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_in_a_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_in_a_ready
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_in_a_valid
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_in_d_bits_corrupt
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_in_d_bits_data [63:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_in_d_bits_denied
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_in_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_in_d_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_in_d_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_in_d_ready
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_in_d_valid
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_ar_bits_addr [30:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_ar_bits_burst [1:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_ar_bits_cache [3:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_ar_bits_echo_tl_state_size [3:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_ar_bits_echo_tl_state_source [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_ar_bits_id [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_ar_bits_len [7:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_ar_bits_lock
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_ar_bits_prot [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_ar_bits_qos [3:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_ar_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_ar_ready
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_ar_valid
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_aw_bits_addr [30:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_aw_bits_burst [1:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_aw_bits_cache [3:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_aw_bits_echo_tl_state_size [3:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_aw_bits_echo_tl_state_source [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_aw_bits_id [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_aw_bits_len [7:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_aw_bits_lock
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_aw_bits_prot [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_aw_bits_qos [3:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_aw_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_aw_ready
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_aw_valid
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_b_bits_echo_tl_state_size [3:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_b_bits_echo_tl_state_source [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_b_bits_id [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_b_bits_resp [1:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_b_ready
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_b_valid
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_r_bits_data [63:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_r_bits_echo_tl_state_size [3:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_r_bits_echo_tl_state_source [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_r_bits_id [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_r_bits_last
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_r_bits_resp [1:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_r_ready
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_r_valid
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_w_bits_data [63:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_w_bits_last
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_w_bits_strb [7:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_w_ready
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.auto_out_w_valid
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.b_delay [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.clock
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.count
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.count_1
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.count_2
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.count_3
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.count_4
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.d_last
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.d_sel_shiftAmount [2:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.dec
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.dec_1
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.dec_2
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.dec_3
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.dec_4
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.doneAW
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.inc
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.inc_1
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.inc_2
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.inc_3
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.inc_4
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.nodeIn_a_ready
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.nodeIn_d_valid
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.nodeOut_b_ready
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.nodeOut_r_ready
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.out_arw_valid
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.r_beats1 [1:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.r_counter [1:0]
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.r_denied
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.r_denied_r
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.r_first
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.r_holds_d
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.r_wins
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.reset
+TOP.SimTop.l_soc.socMisc.tl2axi4_1.stall

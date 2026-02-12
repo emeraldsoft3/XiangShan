@@ -1,0 +1,209 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.allowed_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.allowed_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.allowed_1_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.allowed_1_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.allowed_2_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.allowed_2_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.allowed_3_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.allowed_3_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.allowed_3_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.allowed_4_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.allowed_4_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.allowed_4_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_a_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_a_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_a_bits_source
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_d_bits_sink
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_0_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_a_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_a_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_a_bits_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_d_bits_sink
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_d_bits_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_in_1_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_a_bits_address [29:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_a_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_a_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_a_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_a_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_d_bits_sink
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_d_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_d_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_0_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_a_bits_address [29:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_a_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_a_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_a_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_a_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_d_bits_sink
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_d_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_d_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_1_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_a_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_a_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_a_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_d_bits_sink
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_d_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.auto_out_2_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.beatsLeft [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.beatsLeft_1 [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.beatsLeft_2 [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.beatsLeft_3 [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.beatsLeft_4 [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.clock
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.idle
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.idle_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.idle_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.idle_3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.idle_4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.in_0_a_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.in_0_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.in_1_a_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.in_1_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.latch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.latch_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.latch_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.latch_3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.latch_4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.muxState_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.muxState_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.muxState_1_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.muxState_1_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.muxState_2_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.muxState_2_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.muxState_3_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.muxState_3_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.muxState_3_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.muxState_4_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.muxState_4_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.muxState_4_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.out_0_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.out_0_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.out_1_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.out_1_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.out_2_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.portsAOI_filtered_0_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.portsAOI_filtered_1_0_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.portsAOI_filtered_1_1_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.portsAOI_filtered_1_2_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.portsAOI_filtered_1_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.portsAOI_filtered_2_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.portsDIO_filtered_0_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.portsDIO_filtered_1_0_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.portsDIO_filtered_1_1_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.portsDIO_filtered_1_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.portsDIO_filtered_2_0_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.portsDIO_filtered_2_1_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.readys_mask [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.readys_mask_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.readys_mask_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.readys_mask_3 [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.readys_mask_4 [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.readys_readys [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.readys_readys_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.readys_readys_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.readys_readys_3 [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.readys_readys_4 [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.readys_valid [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.readys_valid_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.readys_valid_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.readys_valid_3 [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.readys_valid_4 [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.requestAIO_0_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.requestAIO_0_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.requestAIO_0_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.requestAIO_1_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.requestAIO_1_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.requestAIO_1_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.requestDOI_0_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.requestDOI_1_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.requestDOI_2_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.reset
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.state_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.state_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.state_1_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.state_1_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.state_2_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.state_2_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.state_3_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.state_3_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.state_3_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.state_4_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.state_4_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.state_4_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.winner_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.winner_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.winner_1_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.winner_1_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.winner_2_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.winner_2_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.winner_3_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.winner_3_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.winner_3_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.winner_4_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.winner_4_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_xbar_1.winner_4_2

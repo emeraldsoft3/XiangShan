@@ -1,0 +1,77 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.accessFault
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.af_level [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.bypassed
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.find_pte
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.finish
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.flush
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.gpaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.id [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.idle
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_csr_hgatp_changed
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_csr_hgatp_mode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_csr_hgatp_ppn [43:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_csr_hgatp_vmid [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_csr_mPBMTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_csr_satp_changed
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_csr_vsatp_changed
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_mem_mask
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_mem_req_bits_addr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_mem_req_bits_hptw_bypassed
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_mem_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_mem_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_mem_req_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_mem_resp_bits [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_mem_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_pmp_req_bits_addr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_pmp_resp_ld
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_pmp_resp_mmio
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_refill_level [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_refill_req_info_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_refill_req_info_vpn [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_req_bits_bypassed
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_req_bits_gvpn [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_req_bits_id [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_req_bits_l1Hit
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_req_bits_l2Hit
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_req_bits_l3Hit
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_req_bits_ppn [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_req_bits_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_bits_id [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_bits_resp_entry_level [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_bits_resp_entry_n
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_bits_resp_entry_pbmt [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_bits_resp_entry_perm_a
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_bits_resp_entry_perm_d
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_bits_resp_entry_perm_g
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_bits_resp_entry_perm_r
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_bits_resp_entry_perm_u
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_bits_resp_entry_perm_w
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_bits_resp_entry_perm_x
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_bits_resp_entry_ppn [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_bits_resp_entry_tag [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_bits_resp_entry_vmid [13:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_bits_resp_gaf
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_bits_resp_gpf
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.io_sfence_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.l1Hit
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.l2Hit
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.l3Hit
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.level [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.mem_addr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.mem_addr_update
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.pageFault
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.ppn_af
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.req_ppn [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.resp_gaf
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.s_mem_req
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.s_pmp_check
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.sent_to_pmp
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.hptw.w_mem_resp

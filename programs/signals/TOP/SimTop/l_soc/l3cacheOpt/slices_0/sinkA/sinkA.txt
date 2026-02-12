@@ -1,0 +1,109 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.beatVals_0_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.beatVals_0_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.beatVals_1_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.beatVals_1_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.beatVals_2_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.beatVals_2_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.beatVals_3_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.beatVals_3_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.beatVals_4_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.beatVals_4_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.beatVals_5_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.beatVals_5_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.beatVals_6_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.beatVals_6_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.bufferLeakCnt [11:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.clock
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.count
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.insertIdx [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.insertIdxReg [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_bits_address [47:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_bits_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_bits_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_bits_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_bits_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_bits_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_bits_source [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_pb_beat_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_pb_beat_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_pb_beat_r_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_pb_beat_r_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_pb_pop_bits_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_pb_pop_bits_count
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_pb_pop_bits_last
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_pb_pop_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_pb_pop_ready_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_pb_pop_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_ready_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_a_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_alloc_bits_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_alloc_bits_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_alloc_bits_off [5:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_alloc_bits_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_alloc_bits_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_alloc_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_alloc_bits_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_alloc_bits_source [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_alloc_bits_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_alloc_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_alloc_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_d_pb_beat_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_d_pb_beat_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_d_pb_beat_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_d_pb_beat_r_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_d_pb_beat_r_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_d_pb_beat_r_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_d_pb_pop_bits_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_d_pb_pop_bits_count
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_d_pb_pop_bits_last
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_d_pb_pop_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_d_pb_pop_ready_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.io_d_pb_pop_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.noSpace
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_0_0_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_0_0_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_0_0_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_0_1_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_0_1_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_0_1_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_1_0_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_1_0_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_1_0_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_1_1_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_1_1_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_1_1_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_2_0_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_2_0_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_2_0_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_2_1_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_2_1_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_2_1_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_3_0_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_3_0_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_3_0_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_3_1_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_3_1_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_3_1_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_4_0_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_4_0_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_4_0_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_4_1_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_4_1_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_4_1_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_5_0_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_5_0_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_5_0_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_5_1_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_5_1_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_5_1_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_6_0_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_6_0_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_6_0_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_6_1_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_6_1_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.putBuffer_6_1_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.r_beats1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.r_counter
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkA.reset

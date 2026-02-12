@@ -1,0 +1,30 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.do_deq
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.do_enq
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.empty
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.full
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_deq_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_deq_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_deq_bits_denied
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_deq_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_deq_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_deq_bits_sink [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_deq_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_deq_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_deq_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_deq_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_enq_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_enq_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_enq_bits_denied
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_enq_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_enq_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_enq_bits_sink [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_enq_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_enq_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_enq_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.io_enq_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.maybe_full
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.ptr_match
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.wrap
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw_to_l2_buffer.nodeIn_d_q.wrap_1

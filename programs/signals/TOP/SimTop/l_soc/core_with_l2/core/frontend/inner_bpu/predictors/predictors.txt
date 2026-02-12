@@ -1,0 +1,439 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_ctrl_btb_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_ctrl_ras_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_ctrl_sc_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_ctrl_tage_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_ctrl_ubtb_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_folded_hist_1_hist_11_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_folded_hist_1_hist_14_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_folded_hist_1_hist_1_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_folded_hist_1_hist_3_folded_hist [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_folded_hist_1_hist_5_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_folded_hist_1_hist_6_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_folded_hist_1_hist_8_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_folded_hist_3_hist_12_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_s0_pc_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_s0_pc_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_s0_pc_2 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_s0_pc_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_s1_folded_hist_3_hist_10_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_s1_folded_hist_3_hist_13_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_s1_folded_hist_3_hist_2_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_s1_folded_hist_3_hist_3_folded_hist [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_s1_folded_hist_3_hist_4_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_s1_folded_hist_3_hist_7_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_in_bits_s1_folded_hist_3_hist_9_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_brSlots_0_lower [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_brSlots_0_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_brSlots_0_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_brSlots_0_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_brSlots_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_carry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_pftAddr [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_tailSlot_lower [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_tailSlot_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_tailSlot_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_tailSlot_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_tailSlot_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_ftb_entry_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_meta [515:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_spec_info_NOS_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_spec_info_NOS_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_spec_info_TOSR_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_spec_info_TOSR_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_spec_info_TOSW_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_spec_info_TOSW_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_spec_info_sc_disagree_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_spec_info_sc_disagree_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_spec_info_sctr [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_spec_info_ssp [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_last_stage_spec_info_topAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_is_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_is_jal
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_is_jalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_is_ret
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_jalr_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_0_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_is_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_is_jal
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_is_jalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_is_ret
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_jalr_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_1_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_is_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_is_jal
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_is_jalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_is_ret
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_jalr_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_2_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_is_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_is_jal
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_is_jalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_is_ret
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_jalr_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_full_pred_3_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_pc_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_pc_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_pc_2 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s1_pc_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_is_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_is_jal
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_is_jalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_is_ret
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_jalr_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_0_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_is_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_is_jal
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_is_jalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_is_ret
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_jalr_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_1_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_is_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_is_jal
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_is_jalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_is_ret
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_jalr_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_2_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_is_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_is_jal
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_is_jalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_is_ret
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_jalr_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_full_pred_3_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_pc_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_pc_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_pc_2 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s2_pc_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_is_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_is_jal
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_is_jalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_is_ret
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_jalr_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_multiHit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_0_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_is_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_is_jal
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_is_jalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_is_ret
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_jalr_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_multiHit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_1_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_is_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_is_jal
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_is_jalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_is_ret
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_jalr_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_multiHit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_2_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_is_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_is_jal
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_is_jalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_is_ret
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_jalr_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_multiHit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_full_pred_3_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_pc_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_pc_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_pc_2 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_out_s3_pc_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_0_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_0_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_1_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_1_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_2_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_2_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_3_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_3_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_4_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_4_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_5_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_5_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_6_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_6_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_perf_6_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_redirectFromIFU
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_redirect_bits_cfiUpdate_NOS_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_redirect_bits_cfiUpdate_NOS_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_redirect_bits_cfiUpdate_TOSR_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_redirect_bits_cfiUpdate_TOSR_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_redirect_bits_cfiUpdate_TOSW_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_redirect_bits_cfiUpdate_TOSW_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_redirect_bits_cfiUpdate_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_redirect_bits_cfiUpdate_pd_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_redirect_bits_cfiUpdate_pd_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_redirect_bits_cfiUpdate_pd_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_redirect_bits_cfiUpdate_pd_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_redirect_bits_cfiUpdate_sctr [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_redirect_bits_cfiUpdate_ssp [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_redirect_bits_level
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_redirect_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_reset_vector [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_s0_fire_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_s0_fire_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_s0_fire_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_s0_fire_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_s1_fire_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_s1_fire_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_s1_fire_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_s1_fire_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_s1_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_s2_fire_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_s2_fire_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_s2_fire_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_s2_fire_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_s3_fire_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_s3_fire_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_s3_redirect_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_cfi_idx_bits [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_cfi_idx_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_false_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_brSlots_0_lower [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_brSlots_0_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_brSlots_0_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_brSlots_0_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_brSlots_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_carry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_pftAddr [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_tailSlot_lower [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_tailSlot_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_tailSlot_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_tailSlot_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_tailSlot_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ftb_entry_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_full_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_ghist [43:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_jmp_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_meta [515:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_mispred_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_mispred_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_mispred_mask_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_old_entry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_bits_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.io_update_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s1_pc_dup_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s1_pc_dup_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s1_pc_dup_2 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s1_pc_dup_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_debug_modified_debug_s2_pc_modified_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_debug_modified_debug_s2_pc_modified_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_debug_modified_debug_s2_pc_modified_1_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_debug_modified_debug_s2_pc_modified_1_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_debug_modified_debug_s2_pc_modified_1_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_debug_modified_debug_s2_pc_modified_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_debug_modified_debug_s2_pc_modified_2_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_debug_modified_debug_s2_pc_modified_2_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_debug_modified_debug_s2_pc_modified_2_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_debug_modified_debug_s2_pc_modified_3_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_debug_modified_debug_s2_pc_modified_3_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_debug_modified_debug_s2_pc_modified_3_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_debug_s2_pc_addr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_debug_s2_pc_addr_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_debug_s2_pc_addr_2 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_debug_s2_pc_addr_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_s2_pc_seg_0_value [25:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_s2_pc_seg_0_value_1 [25:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_s2_pc_seg_0_value_2 [25:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_s2_pc_seg_0_value_3 [25:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_s2_pc_seg_1_value [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_s2_pc_seg_1_value_1 [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_s2_pc_seg_1_value_2 [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_s2_pc_seg_1_value_3 [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_s2_pc_seg_2_value [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_s2_pc_seg_2_value_1 [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_s2_pc_seg_2_value_2 [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s2_pc_dup_s2_pc_seg_2_value_3 [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_debug_modified_debug_s3_pc_modified_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_debug_modified_debug_s3_pc_modified_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_debug_modified_debug_s3_pc_modified_1_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_debug_modified_debug_s3_pc_modified_1_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_debug_modified_debug_s3_pc_modified_1_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_debug_modified_debug_s3_pc_modified_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_debug_modified_debug_s3_pc_modified_2_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_debug_modified_debug_s3_pc_modified_2_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_debug_modified_debug_s3_pc_modified_2_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_debug_modified_debug_s3_pc_modified_3_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_debug_modified_debug_s3_pc_modified_3_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_debug_modified_debug_s3_pc_modified_3_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_debug_s3_pc_addr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_debug_s3_pc_addr_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_debug_s3_pc_addr_2 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_debug_s3_pc_addr_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_s3_pc_seg_0_value [25:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_s3_pc_seg_0_value_1 [25:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_s3_pc_seg_0_value_2 [25:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_s3_pc_seg_0_value_3 [25:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_s3_pc_seg_1_value [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_s3_pc_seg_1_value_1 [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_s3_pc_seg_1_value_2 [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_s3_pc_seg_1_value_3 [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_s3_pc_seg_2_value [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_s3_pc_seg_2_value_1 [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_s3_pc_seg_2_value_2 [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.s3_pc_dup_s3_pc_seg_2_value_3 [11:0]

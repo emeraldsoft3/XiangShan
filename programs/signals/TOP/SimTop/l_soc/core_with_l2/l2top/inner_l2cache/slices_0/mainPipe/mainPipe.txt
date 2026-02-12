@@ -1,0 +1,589 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.alloc_state_s_rprobe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.alloc_state_w_grant
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.c_d_valid_s4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.c_d_valid_s4_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.c_d_valid_s5
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.c_d_valid_s5_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.c_d_valid_s5_REG_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.c_d_valid_s5_REG_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.c_releaseData_s3 [511:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.c_s3_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.c_s4_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.c_s5_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.chnl_fire_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.chnl_fire_s4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.clock
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.d_s3_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.d_s4_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.d_s5_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.dataError_s4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.dataMetaError_s5
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.data_s3 [511:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.data_s4 [511:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.data_s5 [511:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.data_unready_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.hit_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_bufResp_data_0 [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_bufResp_data_1 [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_dirResp_s3_error
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_dirResp_s3_hit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_dirResp_s3_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_dirResp_s3_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_dirResp_s3_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_dirResp_s3_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_dirResp_s3_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_dirResp_s3_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_dirResp_s3_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_dirResp_s3_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_dirResp_s3_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_fromMSHRCtl_mshr_alloc_ptr [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_fromReqArb_status_s1_sets_0 [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_fromReqArb_status_s1_sets_1 [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_fromReqArb_status_s1_sets_2 [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_fromReqArb_status_s1_sets_3 [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_fromReqArb_status_s1_tags_1 [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_l1Hint_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_l1Hint_bits_sourceId [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_l1Hint_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_l1Hint_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_metaWReq_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_metaWReq_bits_wayOH [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_metaWReq_bits_wmeta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_metaWReq_bits_wmeta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_metaWReq_bits_wmeta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_metaWReq_bits_wmeta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_metaWReq_bits_wmeta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_metaWReq_bits_wmeta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_metaWReq_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_nestedwbData_data [511:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_nestedwb_c_set_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_nestedwb_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_nestedwb_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_0_value_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_0_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_1_value_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_1_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_2_value_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_2_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_3_value_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_3_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_4_value_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_4_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_5_value_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_5_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_6_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_6_value_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_6_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_7_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_7_value_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_perf_7_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_refillBufResp_s3_bits_data [511:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_releaseBufResp_s3_bits_data [511:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_releaseBufResp_s3_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_releaseBufWrite_bits_data_data [511:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_releaseBufWrite_bits_id [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_releaseBufWrite_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_replResp_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_replResp_bits_retry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_replResp_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_status_vec_toC_0_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_status_vec_toC_0_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_status_vec_toC_1_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_status_vec_toC_1_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_status_vec_toC_2_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_status_vec_toC_2_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_status_vec_toD_0_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_status_vec_toD_0_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_status_vec_toD_1_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_status_vec_toD_1_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_status_vec_toD_2_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_status_vec_toD_2_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_tagWReq_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_tagWReq_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_tagWReq_bits_wtag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_tagWReq_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_aMergeTask_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_aMergeTask_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_aMergeTask_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_aMergeTask_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_aMergeTask_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_aMergeTask_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_aMergeTask_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_aMergeTask_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_aMergeTask_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_aMergeTask_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_aMergeTask_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_bufIdx [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_cmoAll
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_cmoTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_dsWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_metaWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_mshrRetry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_needProbeAckData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_readProbeDataDown
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_replTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_snpHitRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_snpHitReleaseIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_snpHitReleaseMeta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_snpHitReleaseMeta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_snpHitReleaseMeta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_snpHitReleaseMeta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_snpHitReleaseMeta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_snpHitReleaseMeta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_snpHitReleaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_snpHitReleaseToInval
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_snpHitReleaseWithData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_tagWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_txChannel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_useProbeData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_bits_wayMask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskFromArb_s2_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskInfo_s1_bits_aMergeTask_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskInfo_s1_bits_aMergeTask_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskInfo_s1_bits_aMergeTask_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskInfo_s1_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskInfo_s1_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskInfo_s1_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskInfo_s1_bits_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskInfo_s1_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskInfo_s1_bits_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_taskInfo_s1_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toDS_en_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toDS_rdata_s5_data [511:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toDS_req_s3_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toDS_req_s3_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toDS_req_s3_bits_wen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toDS_req_s3_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toDS_wdata_s3_data [511:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_dirResult_hit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_dirResult_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_dirResult_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_dirResult_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_dirResult_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_dirResult_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_dirResult_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_dirResult_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_dirResult_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_dirResult_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_state_s_acquire
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_state_s_pprobe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_state_s_probeack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_state_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_state_s_rprobe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_state_w_grant
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_state_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_state_w_grantlast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_state_w_pprobeackfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_state_w_pprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_state_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_state_w_rprobeackfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_state_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_task_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_task_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_task_needProbeAckData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_task_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_task_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_task_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_task_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_task_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_task_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_task_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_bits_task_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMSHRCtl_mshr_alloc_s3_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMonitor_dirResult_s3_hit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMonitor_dirResult_s3_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMonitor_dirResult_s3_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMonitor_task_s3_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMonitor_task_s3_bits_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toMonitor_task_s3_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toReqArb_blockB_s1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toReqArb_blockC_s1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toReqArb_blockG_s1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toReqBuf_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toReqBuf_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_data_data [511:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_aMergeTask_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_aMergeTask_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_aMergeTask_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_aMergeTask_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_aMergeTask_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_aMergeTask_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_aMergeTask_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_aMergeTask_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_aMergeTask_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_aMergeTask_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_aMergeTask_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_bufIdx [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_cmoAll
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_cmoTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_dsWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_metaWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_mshrRetry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_needProbeAckData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_readProbeDataDown
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_replTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_snpHitRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_snpHitReleaseIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_snpHitReleaseMeta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_snpHitReleaseMeta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_snpHitReleaseMeta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_snpHitReleaseMeta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_snpHitReleaseMeta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_snpHitReleaseMeta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_snpHitReleaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_snpHitReleaseToInval
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_snpHitReleaseWithData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_tagWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_txChannel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_useProbeData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_bits_task_wayMask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceC_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_data_data [511:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_aMergeTask_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_aMergeTask_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_aMergeTask_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_aMergeTask_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_aMergeTask_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_aMergeTask_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_aMergeTask_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_aMergeTask_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_aMergeTask_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_aMergeTask_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_aMergeTask_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_bufIdx [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_cmoAll
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_cmoTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_dsWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_metaWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_mshrRetry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_needProbeAckData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_readProbeDataDown
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_replTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_snpHitRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_snpHitReleaseIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_snpHitReleaseMeta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_snpHitReleaseMeta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_snpHitReleaseMeta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_snpHitReleaseMeta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_snpHitReleaseMeta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_snpHitReleaseMeta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_snpHitReleaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_snpHitReleaseToInval
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_snpHitReleaseWithData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_tagWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_txChannel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_useProbeData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_bits_task_wayMask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.io_toSourceD_valid_probe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.isC_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.isC_s4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.isC_s5
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.isD_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.isD_s4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.isD_s5
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.metaW_valid_s3_a
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.metaW_valid_s3_c
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.miss_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.mshr_accessackdata_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.mshr_grant_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.mshr_hintack_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.mshr_probeack_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.mshr_probeackdata_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.mshr_refill_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.mshr_release_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.mshr_releasedata_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.need_acquire_s3_a
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.need_data_b
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.need_data_mshr_repl
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.need_mshr_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.need_mshr_s3_a
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.need_mshr_s3_b
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.need_probe_s3_a
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.need_repl
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.need_write_releaseBuf
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.need_write_releaseBuf_s4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.need_write_releaseBuf_s5
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.out_data_s5 [511:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.pendingC_s4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.pendingD_s4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.perfEvents_4_2_probe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.perfEvents_6_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.req_acquire_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.req_drop_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.req_drop_s4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.req_get_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.req_needT_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.req_prefetch_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.reset
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.resetFinish
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.resetIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.sinkA_req_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.sinkB_req_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.sinkC_req_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.sink_resp_s3_a_promoteT
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.sink_resp_s3_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.sink_resp_s3_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.sourceC_pipe_len_probe [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.sourceD_pipe_len_probe [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.source_req_s3_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.source_req_s3_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.source_req_s3_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.tagError_s4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.tagError_s5
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_aMergeTask_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_aMergeTask_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_aMergeTask_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_aMergeTask_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_aMergeTask_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_aMergeTask_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_aMergeTask_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_aMergeTask_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_aMergeTask_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_aMergeTask_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_aMergeTask_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_bufIdx [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_cmoAll
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_cmoTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_dsWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_metaWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_mshrRetry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_needProbeAckData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_readProbeDataDown
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_replTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_snpHitRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_snpHitReleaseIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_snpHitReleaseMeta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_snpHitReleaseMeta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_snpHitReleaseMeta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_snpHitReleaseMeta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_snpHitReleaseMeta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_snpHitReleaseMeta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_snpHitReleaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_snpHitReleaseToInval
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_snpHitReleaseWithData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_tagWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_txChannel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_useProbeData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_bits_wayMask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s3_valid_hold2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_aMergeTask_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_aMergeTask_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_aMergeTask_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_aMergeTask_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_aMergeTask_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_aMergeTask_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_aMergeTask_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_aMergeTask_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_aMergeTask_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_aMergeTask_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_aMergeTask_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_bufIdx [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_cmoAll
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_cmoTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_dsWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_metaWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_mshrRetry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_needProbeAckData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_readProbeDataDown
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_replTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_snpHitRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_snpHitReleaseIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_snpHitReleaseMeta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_snpHitReleaseMeta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_snpHitReleaseMeta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_snpHitReleaseMeta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_snpHitReleaseMeta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_snpHitReleaseMeta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_snpHitReleaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_snpHitReleaseToInval
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_snpHitReleaseWithData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_tagWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_txChannel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_useProbeData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_bits_wayMask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s4_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_aMergeTask_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_aMergeTask_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_aMergeTask_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_aMergeTask_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_aMergeTask_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_aMergeTask_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_aMergeTask_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_aMergeTask_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_aMergeTask_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_aMergeTask_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_aMergeTask_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_bufIdx [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_cmoAll
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_cmoTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_dsWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_metaWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_mshrRetry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_needProbeAckData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_readProbeDataDown
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_replTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_snpHitRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_snpHitReleaseIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_snpHitReleaseMeta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_snpHitReleaseMeta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_snpHitReleaseMeta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_snpHitReleaseMeta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_snpHitReleaseMeta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_snpHitReleaseMeta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_snpHitReleaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_snpHitReleaseToInval
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_snpHitReleaseWithData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_tagWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_txChannel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_useProbeData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_bits_wayMask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.task_s5_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.wen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.wen_c

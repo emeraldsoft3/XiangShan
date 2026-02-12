@@ -1,0 +1,16 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_1.bank_wrbypasses_3_0.data_mem_0_ext.Memory[0] [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_1.bank_wrbypasses_3_0.data_mem_0_ext.Memory[1] [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_1.bank_wrbypasses_3_0.data_mem_0_ext.Memory[2] [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_1.bank_wrbypasses_3_0.data_mem_0_ext.Memory[3] [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_1.bank_wrbypasses_3_0.data_mem_0_ext.Memory[4] [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_1.bank_wrbypasses_3_0.data_mem_0_ext.Memory[5] [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_1.bank_wrbypasses_3_0.data_mem_0_ext.Memory[6] [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_1.bank_wrbypasses_3_0.data_mem_0_ext.Memory[7] [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_1.bank_wrbypasses_3_0.data_mem_0_ext.R0_addr [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_1.bank_wrbypasses_3_0.data_mem_0_ext.R0_clk
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_1.bank_wrbypasses_3_0.data_mem_0_ext.R0_data [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_1.bank_wrbypasses_3_0.data_mem_0_ext.R0_en
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_1.bank_wrbypasses_3_0.data_mem_0_ext.W0_addr [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_1.bank_wrbypasses_3_0.data_mem_0_ext.W0_clk
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_1.bank_wrbypasses_3_0.data_mem_0_ext.W0_data [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_1.bank_wrbypasses_3_0.data_mem_0_ext.W0_en

@@ -1,0 +1,137 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromEncoder_enable
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromEncoder_stall
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_0_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_0_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_0_bits_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_0_bits_tracePipe_iretire [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_0_bits_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_1_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_1_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_1_bits_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_1_bits_tracePipe_iretire [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_1_bits_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_2_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_2_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_2_bits_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_2_bits_tracePipe_iretire [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_2_bits_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_3_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_3_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_3_bits_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_3_bits_tracePipe_iretire [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_3_bits_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_4_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_4_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_4_bits_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_4_bits_tracePipe_iretire [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_4_bits_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_5_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_5_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_5_bits_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_5_bits_tracePipe_iretire [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_5_bits_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_6_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_6_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_6_bits_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_6_bits_tracePipe_iretire [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_6_bits_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_6_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_7_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_7_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_7_bits_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_7_bits_tracePipe_iretire [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_7_bits_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_in_fromRob_blocks_7_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_blockRobCommit
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toEncoder_blocks_0_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toEncoder_blocks_0_bits_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toEncoder_blocks_0_bits_tracePipe_iretire [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toEncoder_blocks_0_bits_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toEncoder_blocks_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toEncoder_blocks_1_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toEncoder_blocks_1_bits_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toEncoder_blocks_1_bits_tracePipe_iretire [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toEncoder_blocks_1_bits_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toEncoder_blocks_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toEncoder_blocks_2_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toEncoder_blocks_2_bits_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toEncoder_blocks_2_bits_tracePipe_iretire [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toEncoder_blocks_2_bits_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toEncoder_blocks_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toPcMem_blocks_0_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toPcMem_blocks_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toPcMem_blocks_1_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toPcMem_blocks_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toPcMem_blocks_2_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.io_out_toPcMem_blocks_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_0_bits_r_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_0_bits_r_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_0_bits_r_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_0_bits_r_tracePipe_iretire [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_0_bits_r_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_0_valid_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_1_bits_r_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_1_bits_r_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_1_bits_r_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_1_bits_r_tracePipe_iretire [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_1_bits_r_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_1_valid_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_2_bits_r_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_2_bits_r_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_2_bits_r_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_2_bits_r_tracePipe_iretire [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_2_bits_r_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_2_valid_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_3_bits_r_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_3_bits_r_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_3_bits_r_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_3_bits_r_tracePipe_iretire [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_3_bits_r_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_3_valid_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_4_bits_r_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_4_bits_r_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_4_bits_r_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_4_bits_r_tracePipe_iretire [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_4_bits_r_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_4_valid_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_5_bits_r_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_5_bits_r_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_5_bits_r_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_5_bits_r_tracePipe_iretire [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_5_bits_r_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_5_valid_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_6_bits_r_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_6_bits_r_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_6_bits_r_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_6_bits_r_tracePipe_iretire [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_6_bits_r_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_6_valid_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_7_bits_r_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_7_bits_r_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_7_bits_r_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_7_bits_r_tracePipe_iretire [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_7_bits_r_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s1_out_blocks_7_valid_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s3_out_groups_blocks_0_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s3_out_groups_blocks_0_bits_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s3_out_groups_blocks_0_bits_tracePipe_iretire [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s3_out_groups_blocks_0_bits_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s3_out_groups_blocks_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s3_out_groups_blocks_1_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s3_out_groups_blocks_1_bits_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s3_out_groups_blocks_1_bits_tracePipe_iretire [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s3_out_groups_blocks_1_bits_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s3_out_groups_blocks_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s3_out_groups_blocks_2_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s3_out_groups_blocks_2_bits_tracePipe_ilastsize
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s3_out_groups_blocks_2_bits_tracePipe_iretire [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s3_out_groups_blocks_2_bits_tracePipe_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.trace.s3_out_groups_blocks_2_valid

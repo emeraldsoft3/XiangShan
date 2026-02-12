@@ -1,0 +1,34 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.do_deq
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.do_enq
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.empty
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.full
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_deq_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_deq_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_deq_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_deq_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_deq_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_deq_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_deq_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_deq_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_deq_bits_user_needHint
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_deq_bits_user_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_deq_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_deq_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_enq_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_enq_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_enq_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_enq_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_enq_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_enq_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_enq_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_enq_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_enq_bits_user_needHint
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_enq_bits_user_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_enq_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.io_enq_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.maybe_full
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.ptr_match
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.wrap
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_frontendBridge.icache.nodeOut_a_q.wrap_1

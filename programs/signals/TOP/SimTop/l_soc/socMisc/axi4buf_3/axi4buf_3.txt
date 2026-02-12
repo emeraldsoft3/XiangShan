@@ -1,0 +1,76 @@
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_ar_bits_addr [30:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_ar_bits_burst [1:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_ar_bits_cache [3:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_ar_bits_id [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_ar_bits_len [7:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_ar_bits_lock
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_ar_bits_prot [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_ar_bits_qos [3:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_ar_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_ar_ready
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_ar_valid
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_aw_bits_addr [30:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_aw_bits_burst [1:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_aw_bits_cache [3:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_aw_bits_id [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_aw_bits_len [7:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_aw_bits_lock
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_aw_bits_prot [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_aw_bits_qos [3:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_aw_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_aw_ready
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_aw_valid
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_b_bits_id [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_b_bits_resp [1:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_b_ready
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_b_valid
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_r_bits_data [63:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_r_bits_id [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_r_bits_last
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_r_bits_resp [1:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_r_ready
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_r_valid
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_w_bits_data [63:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_w_bits_last
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_w_bits_strb [7:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_w_ready
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_in_w_valid
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_ar_bits_addr [30:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_ar_bits_burst [1:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_ar_bits_cache [3:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_ar_bits_id [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_ar_bits_len [7:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_ar_bits_lock
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_ar_bits_prot [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_ar_bits_qos [3:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_ar_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_ar_ready
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_ar_valid
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_aw_bits_addr [30:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_aw_bits_burst [1:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_aw_bits_cache [3:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_aw_bits_id [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_aw_bits_len [7:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_aw_bits_lock
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_aw_bits_prot [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_aw_bits_qos [3:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_aw_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_aw_ready
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_aw_valid
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_b_bits_id [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_b_bits_resp [1:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_b_ready
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_b_valid
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_r_bits_data [63:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_r_bits_id [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_r_bits_last
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_r_bits_resp [1:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_r_ready
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_r_valid
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_w_bits_data [63:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_w_bits_last
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_w_bits_strb [7:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_w_ready
+TOP.SimTop.l_soc.socMisc.axi4buf_3.auto_out_w_valid
+TOP.SimTop.l_soc.socMisc.axi4buf_3.clock
+TOP.SimTop.l_soc.socMisc.axi4buf_3.reset

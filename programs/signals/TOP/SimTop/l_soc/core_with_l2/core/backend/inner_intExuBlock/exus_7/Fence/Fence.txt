@@ -1,0 +1,64 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_fenceio_fencei
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_fenceio_sbuffer_flushSb
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_fenceio_sbuffer_flushSb_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_fenceio_sbuffer_sbIsEmpty
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_fenceio_sfence_bits_addr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_fenceio_sfence_bits_addr_r [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_fenceio_sfence_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_fenceio_sfence_bits_hg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_fenceio_sfence_bits_hg_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_fenceio_sfence_bits_hv
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_fenceio_sfence_bits_hv_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_fenceio_sfence_bits_id [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_fenceio_sfence_bits_id_r [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_fenceio_sfence_bits_rs1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_fenceio_sfence_bits_rs2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_fenceio_sfence_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_ctrl_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_ctrl_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_ctrl_pdest [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_ctrl_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_ctrl_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_data_imm [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_data_src_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_data_src_1 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_perfDebugInfo_dispatchTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_perfDebugInfo_eliminatedMove
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_perfDebugInfo_enqRsTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_perfDebugInfo_issueTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_perfDebugInfo_renameTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_perfDebugInfo_runahead_checkpoint_id [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_perfDebugInfo_selectTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_perfDebugInfo_tlbFirstReqTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_perfDebugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_bits_perfDebugInfo_writebackTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_ready
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_ready_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_in_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_bits_ctrl_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_bits_ctrl_pdest [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_bits_ctrl_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_bits_ctrl_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_bits_perfDebugInfo_dispatchTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_bits_perfDebugInfo_eliminatedMove
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_bits_perfDebugInfo_enqRsTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_bits_perfDebugInfo_issueTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_bits_perfDebugInfo_renameTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_bits_perfDebugInfo_runahead_checkpoint_id [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_bits_perfDebugInfo_selectTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_bits_perfDebugInfo_tlbFirstReqTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_bits_perfDebugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_bits_perfDebugInfo_writebackTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_bits_res_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_ready
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.io_out_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.state [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.uop_ctrl_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.uop_ctrl_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.uop_ctrl_pdest [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.uop_ctrl_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.uop_ctrl_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.Fence.uop_data_imm [63:0]

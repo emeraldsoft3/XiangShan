@@ -1,0 +1,21 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.array_0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.array_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.array_2 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.array_3 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.array_4 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.array_5 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.array_6 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.array_7 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.io_r_req_0_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.io_r_resp_0_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.io_r_resp_0_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.io_r_resp_0_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.io_r_resp_0_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.io_r_resp_0_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.io_r_resp_0_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.io_r_resp_0_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.io_r_resp_0_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.io_w_bits_data_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.io_w_bits_index [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_0.bank_wrbypasses_0_0.idx_tag_cam.io_w_valid

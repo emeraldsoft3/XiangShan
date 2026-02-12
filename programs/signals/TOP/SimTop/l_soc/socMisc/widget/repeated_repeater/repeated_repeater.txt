@@ -1,0 +1,34 @@
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.clock
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.full
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_deq_bits_corrupt
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_deq_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_deq_bits_denied
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_deq_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_deq_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_deq_bits_sink
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_deq_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_deq_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_deq_ready
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_deq_valid
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_deq_valid_0
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_enq_bits_corrupt
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_enq_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_enq_bits_denied
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_enq_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_enq_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_enq_bits_sink
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_enq_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_enq_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_enq_ready
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_enq_ready_0
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_enq_valid
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.io_repeat
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.reset
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.saved_corrupt
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.saved_data [255:0]
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.saved_denied
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.saved_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.saved_param [1:0]
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.saved_sink
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.saved_size [2:0]
+TOP.SimTop.l_soc.socMisc.widget.repeated_repeater.saved_source [2:0]

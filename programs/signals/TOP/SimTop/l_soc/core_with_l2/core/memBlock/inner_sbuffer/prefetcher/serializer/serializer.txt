@@ -1,0 +1,5 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_sbuffer.prefetcher.serializer.canEnqueue
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_sbuffer.prefetcher.serializer.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_sbuffer.prefetcher.serializer.enqPtrExt_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_sbuffer.prefetcher.serializer.enqPtrExt_0_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_sbuffer.prefetcher.serializer.reset

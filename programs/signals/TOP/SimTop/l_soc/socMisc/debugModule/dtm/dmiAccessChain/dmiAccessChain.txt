@@ -1,0 +1,56 @@
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.clock
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.io_capture_bits_addr [6:0]
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.io_capture_bits_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.io_capture_bits_resp [1:0]
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.io_capture_capture
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.io_chainIn_capture
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.io_chainIn_data
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.io_chainIn_shift
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.io_chainIn_update
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.io_chainOut_data
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.io_update_bits_addr [6:0]
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.io_update_bits_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.io_update_bits_op [1:0]
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.io_update_valid
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_0
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_1
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_10
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_11
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_12
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_13
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_14
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_15
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_16
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_17
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_18
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_19
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_2
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_20
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_21
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_22
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_23
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_24
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_25
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_26
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_27
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_28
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_29
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_3
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_30
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_31
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_32
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_33
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_34
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_35
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_36
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_37
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_38
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_39
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_4
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_40
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_5
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_6
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_7
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_8
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.regs_9
+TOP.SimTop.l_soc.socMisc.debugModule.dtm.dmiAccessChain.reset

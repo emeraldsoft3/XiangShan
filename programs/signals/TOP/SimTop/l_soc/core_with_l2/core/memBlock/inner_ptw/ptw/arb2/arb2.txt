@@ -1,0 +1,34 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_chosen [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_0_bits_hptwId [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_0_bits_req_info_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_0_bits_req_info_vpn [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_0_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_1_bits_req_info_s2xlate [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_1_bits_req_info_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_1_bits_req_info_vpn [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_1_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_2_bits_hptwId [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_2_bits_isHptwReq
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_2_bits_req_info_s2xlate [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_2_bits_req_info_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_2_bits_req_info_vpn [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_2_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_3_bits_req_info_s2xlate [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_3_bits_req_info_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_3_bits_req_info_vpn [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_3_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_4_bits_req_info_s2xlate [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_4_bits_req_info_vpn [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_4_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_in_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_out_bits_hptwId [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_out_bits_isHptwReq
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_out_bits_req_info_s2xlate [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_out_bits_req_info_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_out_bits_req_info_vpn [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_out_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.arb2.io_out_valid

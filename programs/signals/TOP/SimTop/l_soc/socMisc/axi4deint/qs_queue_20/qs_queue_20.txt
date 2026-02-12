@@ -1,0 +1,24 @@
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.clock
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.do_deq
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.do_enq
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.full
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.io_deq_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.io_deq_bits_echo_tl_state_size [3:0]
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.io_deq_bits_echo_tl_state_source [5:0]
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.io_deq_bits_id [5:0]
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.io_deq_bits_last
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.io_deq_bits_resp [1:0]
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.io_deq_ready
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.io_enq_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.io_enq_bits_echo_tl_state_size [3:0]
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.io_enq_bits_echo_tl_state_source [5:0]
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.io_enq_bits_id [5:0]
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.io_enq_bits_last
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.io_enq_bits_resp [1:0]
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.io_enq_ready
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.io_enq_valid
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.maybe_full
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.ptr_match
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.reset
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.wrap
+TOP.SimTop.l_soc.socMisc.axi4deint.qs_queue_20.wrap_1

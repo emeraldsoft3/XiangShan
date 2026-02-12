@@ -1,0 +1,24 @@
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.clock
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.do_deq
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.do_enq
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.empty
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.full
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.io_deq_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.io_deq_bits_corrupt
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.io_deq_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.io_deq_bits_mask [31:0]
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.io_deq_bits_opcode [2:0]
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.io_deq_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.io_deq_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.io_deq_ready
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.io_deq_valid
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.io_enq_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.io_enq_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.io_enq_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.io_enq_ready
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.io_enq_valid
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.maybe_full
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.ptr_match
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.reset
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.wrap
+TOP.SimTop.l_soc.socMisc.buffer.nodeIn_b_q.wrap_1

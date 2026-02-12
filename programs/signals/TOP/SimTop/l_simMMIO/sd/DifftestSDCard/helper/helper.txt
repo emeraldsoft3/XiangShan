@@ -1,0 +1,5 @@
+TOP.SimTop.l_simMMIO.sd.DifftestSDCard.helper.clock
+TOP.SimTop.l_simMMIO.sd.DifftestSDCard.helper.io_addr [31:0]
+TOP.SimTop.l_simMMIO.sd.DifftestSDCard.helper.io_data [31:0]
+TOP.SimTop.l_simMMIO.sd.DifftestSDCard.helper.io_ren
+TOP.SimTop.l_simMMIO.sd.DifftestSDCard.helper.io_setAddr

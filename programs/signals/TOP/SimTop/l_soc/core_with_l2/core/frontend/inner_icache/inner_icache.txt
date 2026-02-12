@@ -1,0 +1,143 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_client_out_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_client_out_a_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_client_out_a_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_client_out_a_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_client_out_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_client_out_d_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_client_out_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_client_out_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_client_out_d_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_client_out_d_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_ctrlUnitOpt_in_a_bits_address [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_ctrlUnitOpt_in_a_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_ctrlUnitOpt_in_a_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_ctrlUnitOpt_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_ctrlUnitOpt_in_a_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_ctrlUnitOpt_in_a_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_ctrlUnitOpt_in_a_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_ctrlUnitOpt_in_a_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_ctrlUnitOpt_in_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_ctrlUnitOpt_in_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_ctrlUnitOpt_in_d_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_ctrlUnitOpt_in_d_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_ctrlUnitOpt_in_d_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.auto_ctrlUnitOpt_in_d_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.errors_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_csr_pf_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_error_bits_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_error_bits_r_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_error_bits_r_report_to_beu
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_error_bits_report_to_beu
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_error_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_error_valid_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fencei
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fencei_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_bits_backendException
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_bits_pcMemRead_0_nextlineStart [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_bits_pcMemRead_0_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_bits_pcMemRead_1_nextlineStart [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_bits_pcMemRead_1_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_bits_pcMemRead_2_nextlineStart [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_bits_pcMemRead_2_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_bits_pcMemRead_3_nextlineStart [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_bits_pcMemRead_3_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_bits_pcMemRead_4_nextlineStart [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_bits_pcMemRead_4_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_bits_readValid_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_bits_readValid_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_bits_readValid_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_bits_readValid_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_bits_readValid_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_resp_bits_backendException
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_resp_bits_data [511:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_resp_bits_doubleline
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_resp_bits_exception_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_resp_bits_exception_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_resp_bits_gpaddr [55:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_resp_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_resp_bits_itlb_pbmt_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_resp_bits_itlb_pbmt_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_resp_bits_paddr_0 [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_resp_bits_pmp_mmio_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_resp_bits_pmp_mmio_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_resp_bits_vaddr_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_resp_bits_vaddr_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_topdownIcacheMiss
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_fetch_topdownItlbMiss
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_flush
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_ftqPrefetch_backendException [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_ftqPrefetch_flushFromBpu_s2_bits_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_ftqPrefetch_flushFromBpu_s2_bits_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_ftqPrefetch_flushFromBpu_s2_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_ftqPrefetch_flushFromBpu_s3_bits_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_ftqPrefetch_flushFromBpu_s3_bits_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_ftqPrefetch_flushFromBpu_s3_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_ftqPrefetch_req_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_ftqPrefetch_req_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_ftqPrefetch_req_bits_nextlineStart [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_ftqPrefetch_req_bits_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_ftqPrefetch_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_ftqPrefetch_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_hartId [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlbFlushPipe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_0_req_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_0_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_0_resp_bits_excp_0_af_instr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_0_resp_bits_excp_0_gpf_instr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_0_resp_bits_excp_0_pf_instr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_0_resp_bits_gpaddr_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_0_resp_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_0_resp_bits_miss
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_0_resp_bits_paddr_0 [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_0_resp_bits_pbmt_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_1_req_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_1_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_1_resp_bits_excp_0_af_instr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_1_resp_bits_excp_0_gpf_instr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_1_resp_bits_excp_0_pf_instr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_1_resp_bits_gpaddr_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_1_resp_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_1_resp_bits_miss
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_1_resp_bits_paddr_0 [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_itlb_1_resp_bits_pbmt_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_perfInfo_bank_hit_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_perfInfo_bank_hit_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_perfInfo_except_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_perfInfo_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_perfInfo_hit_0_except_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_perfInfo_hit_0_hit_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_perfInfo_hit_0_miss_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_perfInfo_miss_0_except_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_perfInfo_miss_0_hit_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_perfInfo_miss_0_miss_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_perfInfo_only_0_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_perfInfo_only_0_miss
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_pmp_0_req_bits_addr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_pmp_0_resp_instr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_pmp_0_resp_mmio
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_pmp_1_req_bits_addr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_pmp_1_resp_instr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_pmp_1_resp_mmio
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_pmp_2_req_bits_addr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_pmp_2_resp_instr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_pmp_2_resp_mmio
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_pmp_3_req_bits_addr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_pmp_3_resp_instr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_pmp_3_resp_mmio
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_softPrefetch_0_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_softPrefetch_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_softPrefetch_1_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_softPrefetch_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_softPrefetch_2_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_softPrefetch_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_stop
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.io_toIFU
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.softPrefetchValid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.softPrefetch_isSoftPrefetch
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.softPrefetch_nextlineStart [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.softPrefetch_startAddr [49:0]
