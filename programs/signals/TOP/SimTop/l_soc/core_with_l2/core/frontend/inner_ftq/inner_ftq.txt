@@ -1,0 +1,1413 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_11 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_12 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_14 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_15 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_16
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_17 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_18 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_19
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_20 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_21 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_22
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_23 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_24 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_25
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_26 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_27 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_28
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_29 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_30 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_31
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_32 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_33 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_34
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_35 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_36 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_37
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_38 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_39 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_40
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_41 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_42 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_43
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_44 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_45 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_46
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_47 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_48 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_49
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_50 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_51 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_52
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_53 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_54 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_55
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_6 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_7 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.REG_9 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.aheadValid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.allowBpuIn
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.allowToIfu
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendException [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendFlush_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendPcFaultPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendPcFaultPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendRedirectReg_bits_r_cfiUpdate_backendIAF
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendRedirectReg_bits_r_cfiUpdate_backendIGPF
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendRedirectReg_bits_r_cfiUpdate_backendIPF
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendRedirectReg_bits_r_cfiUpdate_isMisPred
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendRedirectReg_bits_r_cfiUpdate_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendRedirectReg_bits_r_cfiUpdate_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendRedirectReg_bits_r_cfiUpdate_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendRedirectReg_bits_r_debugIsCtrl
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendRedirectReg_bits_r_debugIsMemVio
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendRedirectReg_bits_r_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendRedirectReg_bits_r_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendRedirectReg_bits_r_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendRedirectReg_bits_r_level
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.backendRedirectReg_valid_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpuPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpuPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_ftb_update_stall [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_in_bypass_buf_fallThruError
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_in_bypass_buf_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_in_bypass_buf_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_in_bypass_ptr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_in_bypass_ptr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_in_fire
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_in_resp_full_pred_0_predCycle [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_in_resp_full_pred_3_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_in_resp_full_pred_3_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_in_resp_full_pred_3_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_in_resp_full_pred_3_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_in_resp_pc_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_in_resp_ptr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_in_resp_ptr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_in_stage [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_s2_redirect
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.bpu_s3_redirect
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.br_correct_stage_map_0_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.br_correct_stage_map_1_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.br_correct_stage_map_2_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.br_mispred_stage_map_0_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.br_mispred_stage_map_1_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.br_mispred_stage_map_2_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.canCommit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.canCommit_compare
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.canCommit_differentFlag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.canMoveCommPtr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.can_commit_cfi_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_bits_wen
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_bits_wen_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_valid_wen
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_valid_wen_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_vec_0_bits [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_vec_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_vec_1_bits [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_vec_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_vec_2_bits [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_vec_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_vec_3_bits [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_vec_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_vec_4_bits [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_vec_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_vec_5_bits [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_vec_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_vec_6_bits [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_vec_6_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_vec_7_bits [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.cfiIndex_vec_7_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commPtrPlus1_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commPtrPlus1_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.comm_stq_wen_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.comm_stq_wen_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.comm_stq_wen_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.comm_stq_wen_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.comm_stq_wen_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.comm_stq_wen_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.comm_stq_wen_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.comm_stq_wen_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.comm_stq_wen_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.comm_stq_wen_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.comm_stq_wen_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.comm_stq_wen_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.comm_stq_wen_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.comm_stq_wen_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.comm_stq_wen_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.comm_stq_wen_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_0_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_0_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_0_10 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_0_11 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_0_12 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_0_13 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_0_14 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_0_15 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_0_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_0_3 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_0_4 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_0_5 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_0_6 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_0_7 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_0_8 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_0_9 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_1_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_1_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_1_10 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_1_11 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_1_12 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_1_13 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_1_14 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_1_15 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_1_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_1_3 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_1_4 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_1_5 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_1_6 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_1_7 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_1_8 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_1_9 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_2_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_2_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_2_10 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_2_11 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_2_12 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_2_13 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_2_14 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_2_15 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_2_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_2_3 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_2_4 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_2_5 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_2_6 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_2_7 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_2_8 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_2_9 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_3_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_3_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_3_10 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_3_11 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_3_12 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_3_13 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_3_14 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_3_15 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_3_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_3_3 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_3_4 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_3_5 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_3_6 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_3_7 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_3_8 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_3_9 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_4_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_4_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_4_10 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_4_11 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_4_12 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_4_13 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_4_14 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_4_15 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_4_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_4_3 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_4_4 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_4_5 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_4_6 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_4_7 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_4_8 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_4_9 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_5_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_5_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_5_10 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_5_11 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_5_12 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_5_13 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_5_14 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_5_15 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_5_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_5_3 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_5_4 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_5_5 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_5_6 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_5_7 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_5_8 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_5_9 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_6_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_6_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_6_10 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_6_11 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_6_12 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_6_13 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_6_14 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_6_15 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_6_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_6_3 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_6_4 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_6_5 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_6_6 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_6_7 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_6_8 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_6_9 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_7_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_7_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_7_10 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_7_11 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_7_12 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_7_13 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_7_14 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_7_15 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_7_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_7_3 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_7_4 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_7_5 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_7_6 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_7_7 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_7_8 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commitStateQueueReg_7_9 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_br_mask [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_cfi_bits [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_cfi_mask [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_cfi_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_hit [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispred_mask [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_r_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_r_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_r_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_r_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_r_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_r_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_r_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_r_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_r_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_r_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_r_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_r_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_r_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_r_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_r_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_mispredict_r_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_not_mispred_mask [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_pred_stage [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_real_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_state_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_state_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_state_10 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_state_11 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_state_12 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_state_13 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_state_14 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_state_15 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_state_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_state_3 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_state_4 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_state_5 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_state_6 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_state_7 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_state_8 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_state_9 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_target_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_target_REG_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.commit_target_r [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_buf_r_1_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_buf_r_1_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_buf_r_2_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_buf_r_2_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_buf_r_3_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_buf_r_3_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_buf_r_4_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_buf_r_4_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_buf_r_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_buf_r_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_ptr_r_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_ptr_r_1_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_ptr_r_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_ptr_r_2_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_ptr_r_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_ptr_r_3_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_ptr_r_4_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_ptr_r_4_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_ptr_r_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_in_bypass_ptr_r_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_ptr_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_ptr_0_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_ptr_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_ptr_1_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_ptr_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_ptr_2_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_ptr_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_ptr_3_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_ptr_4_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_bpu_ptr_4_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_plus1_to_send_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_plus1_to_send_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_plus1_to_send_REG_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_plus1_to_send_REG_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_plus1_to_send_REG_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_plus1_to_send_REG_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_plus1_to_send_REG_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_plus1_to_send_REG_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_plus1_to_send_REG_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_plus1_to_send_REG_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_0_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_1_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_2_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_3_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_4_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_4_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_to_send_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_to_send_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_to_send_REG_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_to_send_REG_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_to_send_REG_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_to_send_REG_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_to_send_REG_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_to_send_REG_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_to_send_REG_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_ifu_ptr_to_send_REG_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_last_cycle_bpu_in_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_last_cycle_bpu_in_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_last_cycle_bpu_in_REG_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_last_cycle_bpu_in_REG_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_last_cycle_bpu_in_REG_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_last_cycle_bpu_in_REG_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_last_cycle_bpu_in_REG_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_last_cycle_bpu_in_ptr_for_ftq_r_1_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_last_cycle_bpu_in_ptr_for_ftq_r_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_last_cycle_to_ifu_fire_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_last_cycle_to_ifu_fire_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_last_cycle_to_ifu_fire_REG_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_last_cycle_to_ifu_fire_REG_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.copied_last_cycle_to_ifu_fire_REG_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.correct_stage_map_0_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.correct_stage_map_1_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.correct_stage_map_2_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.data_0_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.data_1_probe [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.data_2_probe [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.data_3_probe [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.diff_commit_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.do_commit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.do_commit_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.do_commit_ptr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_fetch_status_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_fetch_status_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_fetch_status_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_fetch_status_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_fetch_status_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_fetch_status_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_fetch_status_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_fetch_status_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_hit_status_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_hit_status_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_hit_status_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_hit_status_3 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_hit_status_4 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_hit_status_5 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_hit_status_6 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_hit_status_7 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_is_to_send
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_is_to_send_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_is_to_send_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_is_to_send_REG_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_is_to_send_REG_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_next_addr_REG [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.entry_next_addr_REG_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.flushItSelf_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromBackendRedirect_bits_cfiUpdate_backendIAF
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromBackendRedirect_bits_cfiUpdate_backendIGPF
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromBackendRedirect_bits_cfiUpdate_backendIPF
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromBackendRedirect_bits_cfiUpdate_br_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromBackendRedirect_bits_cfiUpdate_isMisPred
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromBackendRedirect_bits_cfiUpdate_jr_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromBackendRedirect_bits_cfiUpdate_pd_pd_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromBackendRedirect_bits_cfiUpdate_pd_pd_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromBackendRedirect_bits_cfiUpdate_sc_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromBackendRedirect_bits_cfiUpdate_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromBackendRedirect_bits_cfiUpdate_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromBackendRedirect_bits_debugIsCtrl
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromBackendRedirect_bits_debugIsMemVio
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromBackendRedirect_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromBackendRedirect_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromBackendRedirect_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromBackendRedirect_valid_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.fromIfuRedirect_valid_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftb_false_hit_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftb_hit_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftb_modified_entry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftb_modified_entry_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftb_modified_entry_probe_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftb_new_entry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftb_new_entry_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftb_new_entry_probe_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftb_old_entry_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.gen_ftb_entry_len_probe [48:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.has_false_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.hit_pd_mispred_reg
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.hit_pd_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuFlush
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuPtrPlus1_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuPtrPlus1_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuPtrPlus2_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuPtrPlus2_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuPtr_write_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuPtr_write_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuRedirectReg_next_bits_r_cfiUpdate_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuRedirectReg_next_bits_r_cfiUpdate_pd_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuRedirectReg_next_bits_r_cfiUpdate_pd_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuRedirectReg_next_bits_r_cfiUpdate_pd_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuRedirectReg_next_bits_r_cfiUpdate_pd_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuRedirectReg_next_bits_r_cfiUpdate_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuRedirectReg_next_bits_r_cfiUpdate_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuRedirectReg_next_bits_r_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuRedirectReg_next_bits_r_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuRedirectReg_next_bits_r_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuRedirectReg_next_valid_last_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuRedirectToBpu_bits_cfiUpdate_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuWbPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ifuWbPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_ControlBTBMissBubble
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_ITTAGEMissBubble
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_RASMissBubble
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_SCMissBubble
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_TAGEMissBubble
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_ftqIdxAhead_0_bits_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_ftqIdxAhead_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_ftqIdxAhead_0_valid_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_ftqIdxSelOH_bits [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_redirect_bits_cfiUpdate_backendIAF
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_redirect_bits_cfiUpdate_backendIGPF
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_redirect_bits_cfiUpdate_backendIPF
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_redirect_bits_cfiUpdate_isMisPred
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_redirect_bits_cfiUpdate_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_redirect_bits_cfiUpdate_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_redirect_bits_cfiUpdate_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_redirect_bits_debugIsCtrl
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_redirect_bits_debugIsMemVio
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_redirect_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_redirect_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_redirect_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_redirect_bits_level
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_redirect_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_redirect_valid_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_0_bits_commitType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_0_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_0_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_0_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_1_bits_commitType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_1_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_1_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_1_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_2_bits_commitType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_2_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_2_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_2_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_3_bits_commitType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_3_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_3_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_3_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_4_bits_commitType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_4_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_4_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_4_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_5_bits_commitType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_5_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_5_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_5_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_6_bits_commitType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_6_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_6_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_6_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_6_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_7_bits_commitType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_7_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_7_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_7_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBackend_rob_commits_7_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_brSlots_0_lower [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_brSlots_0_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_brSlots_0_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_brSlots_0_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_brSlots_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_carry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_pftAddr [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_tailSlot_lower [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_tailSlot_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_tailSlot_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_tailSlot_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_tailSlot_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_ftb_entry_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_meta [515:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_spec_info_NOS_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_spec_info_NOS_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_spec_info_TOSR_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_spec_info_TOSR_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_spec_info_TOSW_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_spec_info_TOSW_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_spec_info_histPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_spec_info_histPtr_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_spec_info_sc_disagree_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_spec_info_sc_disagree_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_spec_info_sctr [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_spec_info_ssp [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_last_stage_spec_info_topAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s1_full_pred_0_predCycle [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s1_full_pred_3_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s1_full_pred_3_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s1_full_pred_3_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s1_full_pred_3_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s1_full_pred_3_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s1_full_pred_3_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s1_full_pred_3_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s1_full_pred_3_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s1_full_pred_3_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s1_full_pred_3_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s1_full_pred_3_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s1_full_pred_3_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s1_pc_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_ftq_idx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_ftq_idx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_full_pred_0_predCycle [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_full_pred_3_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_full_pred_3_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_full_pred_3_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_full_pred_3_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_full_pred_3_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_full_pred_3_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_full_pred_3_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_full_pred_3_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_full_pred_3_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_full_pred_3_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_full_pred_3_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_full_pred_3_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_hasRedirect_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_pc_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s2_valid_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_ftq_idx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_ftq_idx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_full_pred_0_predCycle [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_full_pred_3_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_full_pred_3_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_full_pred_3_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_full_pred_3_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_full_pred_3_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_full_pred_3_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_full_pred_3_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_full_pred_3_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_full_pred_3_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_full_pred_3_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_full_pred_3_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_full_pred_3_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_hasRedirect_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_pc_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_pc_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_s3_valid_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_topdown_info_reasons_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_topdown_info_reasons_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_topdown_info_reasons_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_topdown_info_reasons_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_topdown_info_reasons_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_topdown_info_reasons_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_topdown_info_reasons_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_topdown_info_reasons_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_topdown_info_reasons_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_bits_topdown_info_reasons_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromBpu_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_cfiOffset_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_instrRange_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_instrRange_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_instrRange_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_instrRange_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_instrRange_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_instrRange_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_instrRange_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_instrRange_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_instrRange_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_instrRange_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_instrRange_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_instrRange_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_instrRange_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_instrRange_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_instrRange_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_instrRange_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_jalTarget [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_misOffset_bits [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_misOffset_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pc_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pc_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pc_10 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pc_11 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pc_12 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pc_13 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pc_14 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pc_15 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pc_2 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pc_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pc_4 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pc_5 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pc_6 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pc_7 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pc_8 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pc_9 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_0_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_0_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_0_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_0_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_10_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_10_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_10_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_10_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_10_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_11_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_11_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_11_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_11_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_11_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_12_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_12_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_12_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_12_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_12_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_13_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_13_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_13_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_13_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_13_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_14_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_14_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_14_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_14_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_14_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_15_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_15_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_15_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_15_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_15_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_1_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_1_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_1_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_1_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_2_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_2_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_2_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_2_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_3_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_3_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_3_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_3_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_4_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_4_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_4_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_4_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_5_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_5_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_5_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_5_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_6_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_6_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_6_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_6_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_6_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_7_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_7_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_7_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_7_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_7_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_8_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_8_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_8_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_8_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_8_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_9_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_9_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_9_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_9_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_pd_9_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_bits_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_fromIfu_pdWb_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_icacheFlush
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_icacheFlush_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_mmioCommitRead_mmioFtqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_mmioCommitRead_mmioFtqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_mmioCommitRead_mmioLastCommit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_mmioCommitRead_mmioLastCommit_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_0_value_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_0_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_10_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_10_value_REG [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_10_value_REG_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_11_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_11_value_REG [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_11_value_REG_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_12_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_12_value_REG [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_12_value_REG_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_13_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_13_value_REG [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_13_value_REG_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_14_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_14_value_REG [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_14_value_REG_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_15_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_15_value_REG [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_15_value_REG_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_16_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_16_value_REG [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_16_value_REG_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_17_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_17_value_REG [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_17_value_REG_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_18_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_18_value_REG [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_18_value_REG_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_19_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_19_value_REG [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_19_value_REG_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_1_value_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_1_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_20_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_20_value_REG [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_20_value_REG_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_21_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_21_value_REG [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_21_value_REG_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_22_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_22_value_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_22_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_23_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_23_value_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_23_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_2_value_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_2_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_3_value_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_3_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_4_value_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_4_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_5_value_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_5_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_6_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_6_value_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_6_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_7_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_7_value_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_7_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_8_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_8_value_REG [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_8_value_REG_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_9_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_9_value_REG [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_perf_9_value_REG_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBackend_newest_entry_en
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBackend_newest_entry_en_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBackend_newest_entry_ptr_r_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBackend_newest_entry_ptr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBackend_newest_entry_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBackend_newest_entry_target_r [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBackend_pc_mem_waddr [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBackend_pc_mem_waddr_r [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBackend_pc_mem_wdata_r_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBackend_pc_mem_wdata_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBackend_pc_mem_wen
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBackend_pc_mem_wen_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_enq_ptr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_enq_ptr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirctFromIFU
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_BTBMissBubble
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_NOS_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_NOS_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_TOSR_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_TOSR_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_TOSW_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_TOSW_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_addIntoHist
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_br_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_histPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_histPtr_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_jr_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_pd_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_pd_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_pd_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_pd_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_sc_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_sctr [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_shift [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_ssp [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_cfiUpdate_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_debugIsCtrl
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_debugIsMemVio
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_bits_level
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_redirect_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_cfi_idx_bits [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_cfi_idx_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_false_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_false_hit_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_brSlots_0_lower [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_brSlots_0_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_brSlots_0_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_brSlots_0_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_brSlots_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_carry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_pftAddr [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_tailSlot_lower [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_tailSlot_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_tailSlot_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_tailSlot_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_tailSlot_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_ftb_entry_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_full_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_jmp_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_meta [515:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_mispred_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_mispred_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_mispred_mask_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_old_entry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_bits_spec_info_histPtr_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toBpu_update_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toICache_req_bits_backendException
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toICache_req_bits_pcMemRead_0_nextlineStart [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toICache_req_bits_pcMemRead_0_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toICache_req_bits_pcMemRead_1_nextlineStart [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toICache_req_bits_pcMemRead_1_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toICache_req_bits_pcMemRead_2_nextlineStart [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toICache_req_bits_pcMemRead_2_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toICache_req_bits_pcMemRead_3_nextlineStart [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toICache_req_bits_pcMemRead_3_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toICache_req_bits_pcMemRead_4_nextlineStart [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toICache_req_bits_pcMemRead_4_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toICache_req_bits_readValid_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toICache_req_bits_readValid_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toICache_req_bits_readValid_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toICache_req_bits_readValid_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toICache_req_bits_readValid_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toICache_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_flushFromBpu_s2_bits_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_flushFromBpu_s2_bits_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_flushFromBpu_s2_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_flushFromBpu_s3_bits_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_flushFromBpu_s3_bits_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_flushFromBpu_s3_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_redirect_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_redirect_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_redirect_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_redirect_bits_level
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_redirect_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_ftqOffset_bits [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_ftqOffset_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_nextStartAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_nextlineStart [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_16
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_17
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_18
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_19
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_20
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_21
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_22
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_23
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_24
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_25
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_26
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_27
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_28
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_29
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_30
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_31
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_32
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_33
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_34
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_35
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_36
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_37
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_bits_topdown_info_reasons_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_req_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_topdown_redirect_bits_cfiUpdate_br_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_topdown_redirect_bits_cfiUpdate_jr_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_topdown_redirect_bits_cfiUpdate_pd_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_topdown_redirect_bits_cfiUpdate_sc_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_topdown_redirect_bits_debugIsCtrl
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_topdown_redirect_bits_debugIsMemVio
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toIfu_topdown_redirect_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toPrefetch_backendException [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toPrefetch_flushFromBpu_s2_bits_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toPrefetch_flushFromBpu_s2_bits_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toPrefetch_flushFromBpu_s2_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toPrefetch_flushFromBpu_s3_bits_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toPrefetch_flushFromBpu_s3_bits_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toPrefetch_flushFromBpu_s3_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toPrefetch_req_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toPrefetch_req_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toPrefetch_req_bits_nextlineStart [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toPrefetch_req_bits_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toPrefetch_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toPrefetch_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.io_toPrefetch_req_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.jalr_correct_stage_map_0_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.jalr_correct_stage_map_1_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.jalr_correct_stage_map_2_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.jalr_mispred_stage_map_0_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.jalr_mispred_stage_map_1_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.jalr_mispred_stage_map_2_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.last_cycle_bpu_in
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.last_cycle_bpu_in_ptr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.last_cycle_bpu_in_ptr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.last_cycle_bpu_in_stage [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.last_cycle_bpu_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.last_cycle_cfiIndex_bits [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.last_cycle_cfiIndex_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.last_cycle_to_ifu_fire
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mbpInstrs [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispred_stage_map_0_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispred_stage_map_1_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispred_stage_map_2_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_0_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_0_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_0_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_0_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_0_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_0_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_0_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_0_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_0_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_0_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_0_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_0_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_0_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_0_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_0_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_0_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_1_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_1_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_1_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_1_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_1_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_1_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_1_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_1_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_1_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_1_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_1_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_1_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_1_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_1_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_1_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_1_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_2_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_2_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_2_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_2_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_2_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_2_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_2_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_2_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_2_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_2_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_2_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_2_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_2_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_2_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_2_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_2_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_3_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_3_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_3_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_3_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_3_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_3_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_3_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_3_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_3_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_3_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_3_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_3_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_3_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_3_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_3_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_3_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_4_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_4_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_4_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_4_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_4_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_4_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_4_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_4_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_4_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_4_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_4_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_4_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_4_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_4_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_4_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_4_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_5_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_5_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_5_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_5_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_5_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_5_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_5_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_5_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_5_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_5_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_5_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_5_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_5_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_5_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_5_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_5_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_6_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_6_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_6_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_6_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_6_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_6_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_6_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_6_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_6_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_6_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_6_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_6_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_6_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_6_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_6_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_6_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_7_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_7_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_7_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_7_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_7_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_7_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_7_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_7_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_7_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_7_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_7_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_7_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_7_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_7_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_7_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.mispredict_vec_7_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.new_entry_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.newest_entry_en
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.newest_entry_ptr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.newest_entry_ptr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.newest_entry_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.newest_entry_target_modified
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_plus1_rdata_REG_1_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_plus1_rdata_REG_1_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_plus1_rdata_REG_2_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_plus1_rdata_REG_2_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_plus1_rdata_REG_3_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_plus1_rdata_REG_3_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_plus1_rdata_REG_4_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_plus1_rdata_REG_4_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_plus1_rdata_REG_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_plus1_rdata_REG_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_ptr_rdata_REG_1_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_ptr_rdata_REG_1_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_ptr_rdata_REG_2_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_ptr_rdata_REG_2_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_ptr_rdata_REG_3_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_ptr_rdata_REG_3_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_ptr_rdata_REG_4_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_ptr_rdata_REG_4_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_ptr_rdata_REG_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pc_mem_ifu_ptr_rdata_REG_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_0_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_0_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_0_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_10_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_10_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_10_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_10_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_11_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_11_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_11_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_11_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_12_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_12_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_12_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_12_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_13_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_13_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_13_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_13_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_14_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_14_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_14_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_14_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_15_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_15_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_15_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_15_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_1_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_1_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_1_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_2_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_2_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_2_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_3_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_3_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_3_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_4_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_4_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_4_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_5_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_5_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_5_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_6_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_6_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_6_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_6_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_7_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_7_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_7_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_7_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_8_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_8_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_8_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_8_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_9_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_9_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_9_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pd_reg_9_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_0_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_10_2_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_11_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_16_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_18_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_22_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_24_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_26_2_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_29_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_2_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_31_2_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_32_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_34_2_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_35_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_36_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_38_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_3_2_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_41_2_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_42_2_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_6_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.perfCountsMap_8_2_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pfPtrPlus1_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pfPtrPlus1_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pfPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pfPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pfPtr_write_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pred_s1_cycle_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pred_s1_cycle_1 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pred_s1_cycle_2 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pred_s1_cycle_3 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pred_s1_cycle_4 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pred_s1_cycle_5 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pred_s1_cycle_6 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pred_s1_cycle_7 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pred_stage_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pred_stage_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pred_stage_2 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pred_stage_3 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pred_stage_4 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pred_stage_5 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pred_stage_6 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.pred_stage_7 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.r [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.r_2_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.r_2_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.realAhdValid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.realAhdValid_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.redirect_latency_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.redirect_latency_probe [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.robCommPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.robCommPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.s3_ftb_entry_len_probe [48:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.toIfuPcBundle_REG_1_fallThruError
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.toIfuPcBundle_REG_1_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.toIfuPcBundle_REG_1_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.toIfuPcBundle_REG_fallThruError
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.toIfuPcBundle_REG_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.toIfuPcBundle_REG_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.toPrefetchEntryToSend
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.toPrefetchPcBundle_nextLineAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.toPrefetchPcBundle_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_16
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_17
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_18
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_19
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_20
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_21
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_22
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_23
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_24
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_25
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_26
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_27
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_28
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_29
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_30
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_31
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_32
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_33
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_34
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_35
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_36
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_37
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.topdown_stage_reasons_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.update_latency_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.update_latency_probe [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.update_target_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.update_target_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.update_target_2 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.update_target_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.update_target_4 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.update_target_5 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.update_target_6 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.update_target_7 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.v
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.v_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.v_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.v_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.v_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.v_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.v_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.v_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.v_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.v_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.v_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.v_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.v_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.v_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.v_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.v_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.validEntries_probe [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.validInstructions_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.validInstructions_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.validInstructions_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.validInstructions_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.validInstructions_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.validInstructions_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.validInstructions_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.validInstructions_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.validInstructions_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.validInstructions_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.validInstructions_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.validInstructions_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.validInstructions_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.validInstructions_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.validInstructions_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.wb_idx_reg [2:0]

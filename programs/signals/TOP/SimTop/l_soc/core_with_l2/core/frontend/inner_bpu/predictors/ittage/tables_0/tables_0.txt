@@ -1,0 +1,39 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_req_bits_folded_hist_hist_3_folded_hist [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_req_bits_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_resp_bits_ctr [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_resp_bits_target_offset_offset [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_resp_bits_target_offset_pointer [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_resp_bits_target_offset_usePCRegion
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_resp_bits_u
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_update_alloc
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_update_correct
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_update_ghist [43:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_update_oldCtr [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_update_old_target_offset_offset [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_update_old_target_offset_pointer [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_update_old_target_offset_usePCRegion
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_update_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_update_reset_u
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_update_target_offset_offset [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_update_target_offset_pointer [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_update_target_offset_usePCRegion
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_update_u
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_update_uValid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.io_update_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.needReset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.old_ctr [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.powerOnResetState
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.read_write_conflict_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.resetSet [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.s1_read_write_conflict
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.s1_tag [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.s1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.update_idx [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.update_wdata_ctr [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.update_wdata_ctr_oldSatNotTaken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_0.useful_can_reset

@@ -1,0 +1,201 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.commitNeeded_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.commitNeeded_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.commitNeeded_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.commitNeeded_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.commitNeeded_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.commitNeeded_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.commitNeeded_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.commitNeeded_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.currentIdx [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.hasReadRf_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.hasReadRf_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.hasReadRf_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.hasReadRf_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.hasReadRf_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.hasReadRf_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.hasReadRf_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.hasReadRf_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromExceptionGen_bits_isIndexed
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromExceptionGen_bits_isStride
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromExceptionGen_bits_isVlm
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromExceptionGen_bits_isWhole
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromExceptionGen_bits_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromExceptionGen_bits_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromExceptionGen_bits_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromExceptionGen_bits_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromExceptionGen_bits_vstart [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromExceptionGen_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_0_bits_lreg [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_0_bits_preg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_1_bits_lreg [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_1_bits_preg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_2_bits_lreg [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_2_bits_preg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_3_bits_lreg [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_3_bits_preg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_4_bits_lreg [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_4_bits_preg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_5_bits_lreg [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_5_bits_preg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRab_logicPhyRegMap_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_v0OldVdPdest_0_bits [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_v0OldVdPdest_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_v0OldVdPdest_1_bits [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_v0OldVdPdest_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_v0OldVdPdest_2_bits [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_v0OldVdPdest_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_v0OldVdPdest_3_bits [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_v0OldVdPdest_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_v0OldVdPdest_4_bits [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_v0OldVdPdest_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_v0OldVdPdest_5_bits [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_v0OldVdPdest_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_vecOldVdPdest_0_bits [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_vecOldVdPdest_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_vecOldVdPdest_1_bits [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_vecOldVdPdest_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_vecOldVdPdest_2_bits [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_vecOldVdPdest_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_vecOldVdPdest_3_bits [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_vecOldVdPdest_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_vecOldVdPdest_4_bits [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_vecOldVdPdest_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_vecOldVdPdest_5_bits [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromRat_vecOldVdPdest_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromVprf_rdata_0_bits [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromVprf_rdata_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromVprf_rdata_1_bits [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromVprf_rdata_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromVprf_rdata_2_bits [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromVprf_rdata_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromVprf_rdata_3_bits [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromVprf_rdata_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromVprf_rdata_4_bits [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromVprf_rdata_5_bits [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromVprf_rdata_6_bits [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.i_fromVprf_rdata_7_bits [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.mergedVd_0_rawData [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.mergedVd_1_rawData [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.mergedVd_2_rawData [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.mergedVd_3_rawData [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.mvFinished
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.newVdLocVec_0 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.newVdLocVec_1 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.newVdLocVec_2 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.newVdLocVec_3 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_status_busy
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_0_bits_addr [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_0_bits_isV0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_1_bits_addr [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_2_bits_addr [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_3_bits_addr [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_4_bits_addr [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_4_bits_isV0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_5_bits_addr [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_6_bits_addr [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_6_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_7_bits_addr [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_r_7_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_w_0_bits_isV0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_w_0_bits_newVdAddr [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_w_0_bits_newVdData [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_w_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_w_0_valid_REG
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_w_1_bits_newVdAddr [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_w_1_bits_newVdData [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_w_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_w_1_valid_REG
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_w_2_bits_newVdAddr [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_w_2_bits_newVdData [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_w_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_w_2_valid_REG
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_w_3_bits_newVdAddr [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_w_3_bits_newVdData [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_w_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.o_toVPRF_w_3_valid_REG
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.oldPregVecFromRat_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.oldPregVecFromRat_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.oldPregVecFromRat_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.oldPregVecFromRat_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.oldPregVecFromRat_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.oldPregVecFromRat_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.oldVdLocVec_0 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.oldVdLocVec_1 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.oldVdLocVec_2 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.oldVdLocVec_3 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.rabCommitted_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.rabCommitted_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.rabCommitted_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.rabCommitted_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.rabCommitted_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.rabCommitted_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.rabCommitted_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.rabCommitted_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.ratCommitted_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.ratCommitted_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.ratCommitted_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.ratCommitted_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.ratCommitted_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.ratCommitted_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.ratCommitted_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.ratCommitted_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_0_lreg [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_0_newPreg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_0_oldPreg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_1_lreg [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_1_newPreg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_1_oldPreg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_2_lreg [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_2_newPreg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_2_oldPreg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_3_lreg [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_3_newPreg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_3_oldPreg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_4_lreg [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_4_newPreg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_4_oldPreg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_5_lreg [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_5_newPreg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_5_oldPreg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_6_lreg [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_6_newPreg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_6_oldPreg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_7_lreg [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_7_newPreg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.regMaps_7_oldPreg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sNoExcp_deewOH [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sNoExcp_dvemul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sNoExcp_ivemul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sNoExcp_maxVdIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sNoExcp_useNewVdUntil [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sNoExcp_vemul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sWaitRab_dvemulNoLessThanM1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sWaitRab_e8offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sWaitRab_handleUntil [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sWaitRab_needMergeUntil [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sWaitRab_nonSegIndexed
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sWaitRab_rabWriteOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sWaitRab_ratWriteOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sWaitRab_useNewVdUntil [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sWaitRab_vecExcpInfo_next_bits_r_isStride
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sWaitRab_vecExcpInfo_next_bits_r_isWhole
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sWaitRab_vecExcpInfo_next_bits_r_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sWaitRab_vemul_i_d_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sWaitRab_vemul_i_d_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sWaitRab_vemul_i_d_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.sWaitRab_vemul_i_d_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.state [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vecExcpMod.stateNext [2:0]

@@ -1,0 +1,21 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.doing_reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.io_req_bits [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.io_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.io_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.io_s1_cnt_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.io_s1_cnt_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.io_update_cnt_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.io_update_cnt_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.io_update_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.io_update_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.io_update_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.io_update_takens_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.io_update_takens_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.newCtrs_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.newCtrs_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.oldCtrs_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.oldCtrs_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.resetRow [10:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.bt.s1_idx [10:0]

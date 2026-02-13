@@ -1,0 +1,37 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.enq_idx [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.ever_written_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.ever_written_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.ever_written_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.ever_written_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.ever_written_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.ever_written_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.ever_written_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.ever_written_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.hit_idx [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.hits_oh_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.hits_oh_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.hits_oh_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.hits_oh_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.hits_oh_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.hits_oh_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.hits_oh_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.hits_oh_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.io_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.io_hit_data_0_bits [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.io_hit_data_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.io_wen
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.io_write_data_0 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.io_write_idx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.state_reg [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.state_reg_touch_way_sized [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.valids_0_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.valids_1_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.valids_2_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.valids_3_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.valids_4_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.valids_5_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.valids_6_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.bank_wrbypasses_2_1.valids_7_0

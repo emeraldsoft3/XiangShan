@@ -1,0 +1,85 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.deqPtr_new_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.deqPtr_new_value_3 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.deqPtr_new_value_5 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.deqPtr_reverse_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.deqPtr_reverse_flag_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.deqPtr_reverse_flag_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.deqPtr_reverse_flag_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.deqPtr_reverse_flag_4
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.deqPtr_reverse_flag_5
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.enqPtr_new_value_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.enqPtr_new_value_2 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.enqPtr_new_value_3 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_0 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_10 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_11 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_12 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_13 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_14 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_15 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_16 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_17 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_18 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_19 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_2 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_20 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_21 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_22 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_23 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_3 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_4 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_5 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_6 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_7 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_8 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeList_9 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeMask [23:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeReq_next_nextVec_0_r
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeReq_next_nextVec_1_r
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeReq_next_nextVec_2_r
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeReq_next_nextVec_3_r
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeSlotCnt [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeSlotOH_next_nextVec_0_r [23:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeSlotOH_next_nextVec_1_r [23:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeSlotOH_next_nextVec_2_r [23:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.freeSlotOH_next_nextVec_3_r [23:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.headPtrNext_reverse_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.headPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.headPtr_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.io_allocateSlot_0 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.io_allocateSlot_0_r [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.io_allocateSlot_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.io_allocateSlot_1_r [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.io_allocateSlot_2 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.io_allocateSlot_2_r [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.io_canAllocate_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.io_canAllocate_0_r
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.io_canAllocate_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.io_canAllocate_1_r
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.io_canAllocate_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.io_canAllocate_2_r
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.io_doAllocate_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.io_doAllocate_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.io_doAllocate_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.io_empty
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.io_free [23:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.offset [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.remFreeSelIndexOHVec_0 [23:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.remFreeSelIndexOHVec_1 [23:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.remFreeSelIndexOHVec_2 [23:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.remFreeSelIndexOHVec_3 [23:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.remFreeSelIndexOHVec_highIndexOH [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.remFreeSelIndexOHVec_highIndexOH_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.remFreeSelIndexOHVec_highIndexOH_2 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.remFreeSelIndexOHVec_highIndexOH_3 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.remFreeSelMaskVec_0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.remFreeSelMaskVec_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.remFreeSelMaskVec_2 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.remFreeSelMaskVec_3 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.tailPtrNext_new_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.tailPtrNext_reverse_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.tailPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_lsq.loadQueue.loadQueueReplay.freeList.tailPtr_value [4:0]

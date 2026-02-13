@@ -1,0 +1,15 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.ram_ext.Memory[0] [317:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.ram_ext.Memory[1] [317:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.ram_ext.Memory[2] [317:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.ram_ext.Memory[3] [317:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.ram_ext.Memory[4] [317:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.ram_ext.Memory[5] [317:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.ram_ext.Memory[6] [317:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.ram_ext.R0_addr [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.ram_ext.R0_clk
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.ram_ext.R0_data [317:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.ram_ext.R0_en
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.ram_ext.W0_addr [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.ram_ext.W0_clk
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.ram_ext.W0_data [317:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceC.queue.ram_ext.W0_en

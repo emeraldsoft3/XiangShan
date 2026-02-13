@@ -1,0 +1,144 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_b_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_b_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_b_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_b_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_b_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_b_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_b_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_0_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_0_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_0_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_0_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_0_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_0_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_0_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_0_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_10_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_10_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_10_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_10_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_10_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_10_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_10_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_10_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_11_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_11_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_11_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_11_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_11_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_11_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_11_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_11_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_12_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_12_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_12_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_12_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_12_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_12_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_12_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_12_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_13_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_13_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_13_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_13_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_13_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_13_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_13_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_13_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_14_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_14_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_14_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_14_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_14_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_14_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_14_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_14_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_15_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_15_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_15_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_15_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_15_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_15_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_15_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_15_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_1_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_1_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_1_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_1_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_1_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_1_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_1_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_1_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_2_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_2_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_2_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_2_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_2_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_2_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_2_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_2_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_3_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_3_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_3_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_3_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_3_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_3_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_3_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_3_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_4_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_4_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_4_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_4_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_4_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_4_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_4_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_4_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_5_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_5_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_5_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_5_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_5_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_5_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_5_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_5_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_6_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_6_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_6_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_6_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_6_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_6_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_6_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_6_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_7_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_7_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_7_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_7_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_7_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_7_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_7_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_7_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_8_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_8_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_8_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_8_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_8_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_8_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_8_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_8_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_9_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_9_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_9_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_9_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_9_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_9_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_9_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_msInfo_9_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_task_bits_needProbeAckData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_task_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_task_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_task_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_task_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_task_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_task_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_task_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sinkB.io_task_valid

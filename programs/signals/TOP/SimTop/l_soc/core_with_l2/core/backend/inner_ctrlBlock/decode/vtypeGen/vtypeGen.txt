@@ -1,0 +1,58 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.firstVsetInstField_inst [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.firstVsetOH_enc [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_canUpdateVType
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_commitVType_hasVsetvl
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_commitVType_vtype_bits_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_commitVType_vtype_bits_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_commitVType_vtype_bits_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_commitVType_vtype_bits_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_commitVType_vtype_bits_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_commitVType_vtype_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_insts_0_bits [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_insts_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_insts_1_bits [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_insts_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_insts_2_bits [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_insts_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_insts_3_bits [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_insts_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_insts_4_bits [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_insts_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_insts_5_bits [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_insts_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_vsetvlVType_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_vsetvlVType_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_vsetvlVType_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_vsetvlVType_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_vsetvlVType_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_vtype_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_vtype_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_vtype_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_vtype_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_vtype_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_walkToArchVType
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_walkVType_bits_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_walkVType_bits_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_walkVType_bits_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_walkVType_bits_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_walkVType_bits_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.io_walkVType_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.isVsetVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.isVsetVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.isVsetVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.isVsetVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.isVsetVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.isVsetVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.isVsetvli
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.vtypeArch_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.vtypeArch_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.vtypeArch_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.vtypeArch_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.vtypeArch_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.vtypeSpec_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.vtypeSpec_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.vtypeSpec_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.vtypeSpec_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.decode.vtypeGen.vtypeSpec_vta

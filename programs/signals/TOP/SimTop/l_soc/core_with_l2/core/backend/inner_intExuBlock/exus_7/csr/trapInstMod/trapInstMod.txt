@@ -1,0 +1,25 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_currentTrapInst_bits [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_currentTrapInst_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_faultCsrUop_bits_ftqInfo_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_faultCsrUop_bits_ftqInfo_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_faultCsrUop_bits_ftqInfo_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_faultCsrUop_bits_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_faultCsrUop_bits_imm [21:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_faultCsrUop_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_fromDecode_trapInstInfo_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_fromDecode_trapInstInfo_bits_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_fromDecode_trapInstInfo_bits_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_fromDecode_trapInstInfo_bits_instr [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_fromDecode_trapInstInfo_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_fromRob_flush_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_fromRob_flush_bits_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_fromRob_flush_bits_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_fromRob_flush_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.io_readClear
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.trapInstInfo_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.trapInstInfo_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.trapInstInfo_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.trapInstInfo_instr [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapInstMod.valid

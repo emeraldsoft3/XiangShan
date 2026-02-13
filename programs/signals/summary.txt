@@ -1,0 +1,25 @@
+Total signals: 707289
+Unique modules: 15667
+Files created: 15663
+
+Top 20 modules by signal count:
+  1. TOP/SimTop/logEndpoint: 29760 signals
+  2. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_ctrlBlock/dispatch: 17631 signals
+  3. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_ctrlBlock/rob: 13610 signals
+  4. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_ctrlBlock: 10266 signals
+  5. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_wbDataPath: 9731 signals
+  6. TOP/SimTop/l_soc/core_with_l2/core/memBlock/inner_lsq/loadQueue/loadQueueReplay: 6768 signals
+  7. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_memScheduler: 5599 signals
+  8. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_fpScheduler/IssueQueueFaluFcvtF2vFmacFdiv/entries: 5023 signals
+  9. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_memScheduler/IssueQueueVlduVstuVseglduVsegstu/entries: 5023 signals
+ 10. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_memScheduler/IssueQueueVlduVstu/entries: 5013 signals
+ 11. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_fpScheduler/IssueQueueFaluFmacFdiv/entries: 5009 signals
+ 12. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_fpScheduler/IssueQueueFaluFmac/entries: 4948 signals
+ 13. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_vfScheduler/IssueQueueVfmaVialuFixVimacVppuVfaluVfcvtVipuVsetrvfwvf/entries: 4864 signals
+ 14. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_vfScheduler/IssueQueueVfmaVialuFixVfalu/entries: 4812 signals
+ 15. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_memScheduler/IssueQueueLdu/entries: 4425 signals
+ 16. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_memScheduler/IssueQueueLdu_1/entries: 4425 signals
+ 17. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_memScheduler/IssueQueueLdu_2/entries: 4425 signals
+ 18. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_memScheduler/IssueQueueStdMoud/entries: 4419 signals
+ 19. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_memScheduler/IssueQueueStdMoud_1/entries: 4419 signals
+ 20. TOP/SimTop/l_soc/core_with_l2/core/backend/inner_memScheduler/IssueQueueStaMou/entries: 4382 signals

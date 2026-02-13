@@ -1,0 +1,93 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.alu_uop_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.alu_uop_reg_s1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.cout_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.cout_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.cout_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.cout_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.cout_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.cout_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.cout_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.cout_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.cout_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.cout_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.cout_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.cout_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.cout_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.cout_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.cout_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.cout_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.eewVs2_reg_s1 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.ele16 [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.ele32 [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.ele64 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.ele8 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.fire_reg_s1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.hi_vs [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.io_in_bits_info_ta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.io_in_bits_info_uopIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.io_in_bits_info_vl [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.io_in_bits_info_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.io_in_bits_info_vm
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.io_in_bits_mask [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.io_in_bits_old_vd [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.io_in_bits_opcode_op [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.io_in_bits_srcType_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.io_in_bits_vdType [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.io_in_bits_vs1 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.io_in_bits_vs2 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.io_in_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.io_out_vd [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.isVredmax_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.isVredmax_reg_s1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.isVredmin_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.isVredmin_reg_s1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.old_vd_reg [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.old_vd_reg_s1 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.red_vd [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.reg_vredand_vs
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.reg_vredor_vs
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.reg_vredxor_vs
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.sel_lo_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.sel_lo_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.sel_lo_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.sel_lo_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.sel_lo_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.sel_lo_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.sel_lo_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.sel_lo_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.shift [12:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.signed_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.signed_reg_s1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.sub_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.ta_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.ta_reg_s1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vdType_reg [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vdType_reg_s1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vd_logical_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vd_logical_1 [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vd_logical_2 [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vd_reg [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vd_vsew_bits_reg [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vd_vsew_reg [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vd_vsew_reg_s1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vlRemainBytes [10:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vl_reg [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vl_reg_s1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vmask_bits [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vredand_vs
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vredand_vs_reg_s1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vredmax_vs
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vredmin_vs
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vredor_vs_reg_s1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vredxor_vs_reg_s1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vs12m_bits_reg_s1 [255:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vs1_zero_logical_reg_s1 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vs1_zero_reg_s1 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.vs_lo_adjust [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.widen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.widen_alu_uop_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.widen_alu_uop_reg_s1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.widen_reduction_uop
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vReduAlu.widen_reduction_uop_reg_s1

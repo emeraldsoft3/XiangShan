@@ -1,0 +1,16 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l0.array_0_1_3.array.array.array_12_ext.RW0_addr [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l0.array_0_1_3.array.array.array_12_ext.RW0_clk
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l0.array_0_1_3.array.array.array_12_ext.RW0_en
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l0.array_0_1_3.array.array.array_12_ext.RW0_random [479:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l0.array_0_1_3.array.array.array_12_ext.RW0_rdata [455:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l0.array_0_1_3.array.array.array_12_ext.RW0_wdata [455:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l0.array_0_1_3.array.array.array_12_ext.RW0_wmask [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l0.array_0_1_3.array.array.array_12_ext.RW0_wmode
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l0.array_0_1_3.array.array.array_12_ext.i [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l0.array_0_1_3.array.array.array_12_ext.initvar [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l0.array_0_1_3.array.array.array_12_ext.ram[0] [455:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l0.array_0_1_3.array.array.array_12_ext.ram[1] [455:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l0.array_0_1_3.array.array.array_12_ext.ram[2] [455:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l0.array_0_1_3.array.array.array_12_ext.ram[3] [455:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l0.array_0_1_3.array.array.array_12_ext.reg_RW0_addr [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_ptw.ptw.cache.l0.array_0_1_3.array.array.array_12_ext.reg_RW0_ren

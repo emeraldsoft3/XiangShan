@@ -1,0 +1,103 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.chosenOH [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.clock
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_chosen [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_bits_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_bits_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_bits_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_bits_fromCmoHelper
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_bits_fromProbeHelper
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_bits_isHit
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_bits_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_bits_needProbeAckData
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_bits_off [5:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_bits_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_bits_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_bits_preferCache
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_bits_reqSource [4:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_bits_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_bits_source [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_bits_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_0_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_bits_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_bits_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_bits_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_bits_fromCmoHelper
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_bits_fromProbeHelper
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_bits_isHit
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_bits_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_bits_needProbeAckData
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_bits_off [5:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_bits_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_bits_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_bits_preferCache
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_bits_reqSource [4:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_bits_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_bits_source [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_bits_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_1_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_bits_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_bits_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_bits_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_bits_fromCmoHelper
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_bits_fromProbeHelper
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_bits_isHit
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_bits_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_bits_needProbeAckData
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_bits_off [5:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_bits_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_bits_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_bits_preferCache
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_bits_reqSource [4:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_bits_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_bits_source [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_bits_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_2_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_bits_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_bits_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_bits_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_bits_fromCmoHelper
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_bits_fromProbeHelper
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_bits_isHit
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_bits_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_bits_needProbeAckData
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_bits_off [5:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_bits_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_bits_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_bits_preferCache
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_bits_reqSource [4:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_bits_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_bits_source [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_bits_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_in_3_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_bits_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_bits_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_bits_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_bits_fromCmoHelper
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_bits_fromProbeHelper
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_bits_isHit
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_bits_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_bits_needProbeAckData
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_bits_off [5:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_bits_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_bits_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_bits_preferCache
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_bits_reqSource [4:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_bits_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_bits_source [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_bits_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.io_out_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.pendingMask [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.reset
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.rrGrantMask [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.rrSelOH [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.issue_arb.valids [3:0]

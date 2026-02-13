@@ -1,0 +1,734 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.currentValid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_crossPageIPFFix
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_isEnqExcp
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_isFetchMalAddr
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_isIndexed
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_isStrided
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_isVecLoad
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_isVlm
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_isWhole
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_replayInst
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_singleStep
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_vstart [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.current_vstartEn
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s0_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s0_valid_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s0_valid_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s0_valid_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s0_valid_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s0_valid_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_bits_crossPageIPFFix
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_bits_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_bits_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_bits_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_bits_isFetchMalAddr
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_bits_singleStep
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.enq_s1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.in_wb_valids_1_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.in_wb_valids_1_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.in_wb_valids_1_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.in_wb_valids_2_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.in_wb_valids_2_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.in_wb_valids_3_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.in_wb_valids_3_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.in_wb_valids_4_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.in_wb_valids_4_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_bits_crossPageIPFFix
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_bits_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_bits_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_bits_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_bits_isFetchMalAddr
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_bits_singleStep
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_bits_crossPageIPFFix
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_bits_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_bits_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_bits_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_bits_isFetchMalAddr
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_bits_singleStep
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_bits_crossPageIPFFix
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_bits_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_bits_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_bits_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_bits_isFetchMalAddr
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_bits_singleStep
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_bits_crossPageIPFFix
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_bits_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_bits_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_bits_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_bits_isFetchMalAddr
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_bits_singleStep
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_bits_crossPageIPFFix
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_bits_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_bits_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_bits_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_bits_isFetchMalAddr
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_bits_singleStep
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_bits_crossPageIPFFix
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_bits_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_bits_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_bits_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_bits_isFetchMalAddr
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_bits_singleStep
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_enq_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_flush
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_redirect_bits_level
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_redirect_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_redirect_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_redirect_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_crossPageIPFFix
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_isEnqExcp
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_isFetchMalAddr
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_isIndexed
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_isStrided
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_isVecLoad
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_isVlm
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_isWhole
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_replayInst
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_singleStep
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_vstart [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_bits_vstartEn
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_state_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_0_bits_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_0_bits_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_0_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_0_bits_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_0_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_0_bits_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_0_bits_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_0_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_0_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_0_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_0_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_replayInst
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_10_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_isIndexed
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_isStrided
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_isVecLoad
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_isVlm
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_isWhole
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_replayInst
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_vstart [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_vstartEn
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_bits_vuopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_11_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_isIndexed
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_isStrided
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_isVecLoad
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_isVlm
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_isWhole
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_replayInst
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_vstart [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_vstartEn
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_bits_vuopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_12_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_1_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_1_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_1_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_1_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_2_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_2_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_2_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_2_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_3_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_3_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_4_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_4_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_5_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_5_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_6_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_7_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_replayInst
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_8_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_replayInst
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.io_wb_9_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.lastCycleFlush
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_0_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_replayInst
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_1_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_2_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_3_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_isIndexed
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_isStrided
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_isVecLoad
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_isVlm
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_isWhole
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_replayInst
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_vstart [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_vstartEn
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_bits_4_vuopIdx [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_valid_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_valid_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_valid_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s0_out_valid_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_flush
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_17
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_18
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_19
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_22
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_exceptionVec_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_hasException
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_isIndexed
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_isStrided
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_isVecLoad
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_isVlm
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_isWhole
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_nf [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_replayInst
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_res_0_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_res_0_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_res_1_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_res_1_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_right_res_1_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_right_res_1_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_right_res_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_veew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_vstart [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_bits_vstartEn
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_out_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_valid_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_valid_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_valid_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.s1_valid_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.wb_bits_res_1_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.wb_bits_res_1_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.wb_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.wb_valid_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.wb_valid_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.exceptionGen.wb_valid_4

@@ -1,0 +1,7 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.table_banks_2.array.array_0_0_0.array.array.RW0_addr [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.table_banks_2.array.array_0_0_0.array.array.RW0_clk
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.table_banks_2.array.array_0_0_0.array.array.RW0_en
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.table_banks_2.array.array_0_0_0.array.array.RW0_rdata [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.table_banks_2.array.array_0_0_0.array.array.RW0_wdata [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.table_banks_2.array.array_0_0_0.array.array.RW0_wmask [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage.tables_2.table_banks_2.array.array_0_0_0.array.array.RW0_wmode

@@ -1,0 +1,23 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.io_clear
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.io_fromCtrlBlock_flush_bits_cfiUpdate_backendIAF
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.io_fromCtrlBlock_flush_bits_cfiUpdate_backendIGPF
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.io_fromCtrlBlock_flush_bits_cfiUpdate_backendIPF
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.io_fromCtrlBlock_flush_bits_fullTarget [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.io_fromCtrlBlock_flush_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.io_fromCtrlBlock_flush_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.io_fromCtrlBlock_flush_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.io_fromCtrlBlock_robDeqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.io_fromCtrlBlock_robDeqPtr_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.io_targetPc_bits_pc [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.io_targetPc_bits_raiseIAF
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.io_targetPc_bits_raiseIGPF
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.io_targetPc_bits_raiseIPF
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.io_targetPc_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.io_tval [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.tval [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.updateFromFlush
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.trapTvalMod.valid

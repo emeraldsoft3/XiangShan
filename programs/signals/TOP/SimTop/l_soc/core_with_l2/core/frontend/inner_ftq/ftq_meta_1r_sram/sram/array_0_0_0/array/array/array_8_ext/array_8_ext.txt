@@ -1,0 +1,22 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.R0_addr [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.R0_clk
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.R0_data [287:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.R0_en
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.R0_random [287:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.W0_addr [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.W0_clk
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.W0_data [287:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.W0_en
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.W0_mask [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.i [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.initvar [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.ram[0] [287:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.ram[1] [287:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.ram[2] [287:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.ram[3] [287:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.ram[4] [287:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.ram[5] [287:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.ram[6] [287:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.ram[7] [287:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.reg_R0_addr [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.sram.array_0_0_0.array.array.array_8_ext.reg_R0_ren

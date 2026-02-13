@@ -1,0 +1,24 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.Memory[0] [116:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.Memory[1] [116:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.Memory[2] [116:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.Memory[3] [116:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.R0_addr [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.R0_clk
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.R0_data [116:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.R0_en
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.R1_addr [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.R1_clk
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.R1_data [116:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.R1_en
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.R2_addr [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.R2_clk
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.R2_data [116:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.R2_en
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.R3_addr [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.R3_clk
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.R3_data [116:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.R3_en
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.W0_addr [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.W0_clk
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.W0_data [116:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.buffer_ext.W0_en

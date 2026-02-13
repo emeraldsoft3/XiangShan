@@ -1,0 +1,16 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage_io_ctrl_delay.REG_btb_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage_io_ctrl_delay.REG_ras_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage_io_ctrl_delay.REG_sc_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage_io_ctrl_delay.REG_tage_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage_io_ctrl_delay.REG_ubtb_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage_io_ctrl_delay.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage_io_ctrl_delay.io_in_btb_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage_io_ctrl_delay.io_in_ras_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage_io_ctrl_delay.io_in_sc_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage_io_ctrl_delay.io_in_tage_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage_io_ctrl_delay.io_in_ubtb_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage_io_ctrl_delay.io_out_btb_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage_io_ctrl_delay.io_out_ras_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage_io_ctrl_delay.io_out_sc_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage_io_ctrl_delay.io_out_tage_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.tage_io_ctrl_delay.io_out_ubtb_enable

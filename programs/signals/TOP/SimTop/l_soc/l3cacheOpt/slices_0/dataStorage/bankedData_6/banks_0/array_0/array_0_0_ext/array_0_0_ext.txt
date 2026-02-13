@@ -1,0 +1,11 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bankedData_6.banks_0.array_0.array_0_0_ext.RW0_addr [12:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bankedData_6.banks_0.array_0.array_0_0_ext.RW0_clk
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bankedData_6.banks_0.array_0.array_0_0_ext.RW0_en
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bankedData_6.banks_0.array_0.array_0_0_ext.RW0_random [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bankedData_6.banks_0.array_0.array_0_0_ext.RW0_rdata [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bankedData_6.banks_0.array_0.array_0_0_ext.RW0_wdata [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bankedData_6.banks_0.array_0.array_0_0_ext.RW0_wmode
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bankedData_6.banks_0.array_0.array_0_0_ext.i [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bankedData_6.banks_0.array_0.array_0_0_ext.initvar [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bankedData_6.banks_0.array_0.array_0_0_ext.reg_RW0_addr [12:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bankedData_6.banks_0.array_0.array_0_0_ext.reg_RW0_ren

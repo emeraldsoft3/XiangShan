@@ -1,0 +1,132 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.br_recorded_vec_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.br_recorded_vec_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.cfi_is_br
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.cfi_is_jalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.init_entry_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_cfiIndex_bits [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_cfiIndex_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_is_br_full
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_is_init_entry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_is_jalr_target_modified
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_is_new_br
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_is_new_br_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_is_old_entry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_is_strong_bias_modified
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_jmp_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispred_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispred_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispred_mask_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispredict_vec_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispredict_vec_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispredict_vec_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispredict_vec_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispredict_vec_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispredict_vec_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispredict_vec_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispredict_vec_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispredict_vec_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispredict_vec_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispredict_vec_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispredict_vec_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispredict_vec_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispredict_vec_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispredict_vec_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_mispredict_vec_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_brSlots_0_lower [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_brSlots_0_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_brSlots_0_offset_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_brSlots_0_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_brSlots_0_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_brSlots_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_brSlots_0_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_carry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_pftAddr [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_tailSlot_lower [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_tailSlot_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_tailSlot_offset_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_tailSlot_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_tailSlot_sharing_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_tailSlot_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_tailSlot_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_tailSlot_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_new_entry_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_brSlots_0_lower [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_brSlots_0_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_brSlots_0_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_brSlots_0_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_brSlots_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_carry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_pftAddr [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_tailSlot_lower [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_tailSlot_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_tailSlot_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_tailSlot_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_tailSlot_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_old_entry_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_brMask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_brMask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_brMask_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_brMask_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_brMask_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_brMask_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_brMask_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_brMask_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_brMask_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_brMask_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_brMask_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_brMask_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_brMask_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_brMask_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_brMask_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_brMask_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_jalTarget [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_jmpInfo_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_jmpInfo_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_jmpInfo_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_jmpInfo_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_jmpOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_rvcMask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_rvcMask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_rvcMask_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_rvcMask_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_rvcMask_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_rvcMask_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_rvcMask_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_rvcMask_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_rvcMask_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_rvcMask_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_rvcMask_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_rvcMask_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_rvcMask_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_rvcMask_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_rvcMask_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_pd_rvcMask_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_start_addr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.io_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.is_new_br
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.jalr_target_modified
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.jmpPft [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.last_jmp_rvi
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.may_have_to_replace
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.new_br_insert_onehot_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.new_br_insert_onehot_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.new_pft_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.old_entry_strong_bias_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.old_entry_strong_bias_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.pft_need_to_change
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.FTBEntryGen.strong_bias_modified

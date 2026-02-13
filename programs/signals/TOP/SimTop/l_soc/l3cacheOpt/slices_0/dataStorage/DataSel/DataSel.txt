@@ -1,0 +1,24 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.clock
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.en
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.en_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.io_en_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.io_en_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.io_in_0 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.io_in_1 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.io_out_0 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.io_out_0_REG
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.io_out_0_r [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.io_out_1 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.io_out_1_REG
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.io_out_1_r [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.io_sel_0 [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.io_sel_1 [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.odata_0 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.odata_1 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.odata_1_0 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.odata_1_1 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.reset
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.sel_r [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.sel_r_1 [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.sel_r_REG [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.DataSel.sel_r_REG_1 [1:0]

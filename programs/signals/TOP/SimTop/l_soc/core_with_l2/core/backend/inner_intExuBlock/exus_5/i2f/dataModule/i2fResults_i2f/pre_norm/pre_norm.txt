@@ -1,0 +1,12 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_5.i2f.dataModule.i2fResults_i2f.pre_norm.in_abs [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_5.i2f.dataModule.i2fResults_i2f.pre_norm.in_raw [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_5.i2f.dataModule.i2fResults_i2f.pre_norm.in_sign
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_5.i2f.dataModule.i2fResults_i2f.pre_norm.io_in_int [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_5.i2f.dataModule.i2fResults_i2f.pre_norm.io_in_long
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_5.i2f.dataModule.i2fResults_i2f.pre_norm.io_in_sign
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_5.i2f.dataModule.i2fResults_i2f.pre_norm.io_out_is_zero
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_5.i2f.dataModule.i2fResults_i2f.pre_norm.io_out_lzc [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_5.i2f.dataModule.i2fResults_i2f.pre_norm.io_out_norm_int [62:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_5.i2f.dataModule.i2fResults_i2f.pre_norm.io_out_sign
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_5.i2f.dataModule.i2fResults_i2f.pre_norm.lzc [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_5.i2f.dataModule.i2fResults_i2f.pre_norm.lzc_error

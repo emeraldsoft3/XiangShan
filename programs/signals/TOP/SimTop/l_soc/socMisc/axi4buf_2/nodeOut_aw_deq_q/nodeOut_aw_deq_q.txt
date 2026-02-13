@@ -1,0 +1,32 @@
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.clock
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.do_deq
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.do_enq
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.empty
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.full
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_deq_bits_addr [47:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_deq_bits_burst [1:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_deq_bits_cache [3:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_deq_bits_id [13:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_deq_bits_len [7:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_deq_bits_lock
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_deq_bits_prot [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_deq_bits_qos [3:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_deq_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_deq_ready
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_deq_valid
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_enq_bits_addr [47:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_enq_bits_burst [1:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_enq_bits_cache [3:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_enq_bits_id [13:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_enq_bits_len [7:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_enq_bits_lock
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_enq_bits_prot [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_enq_bits_qos [3:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_enq_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_enq_ready
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.io_enq_valid
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.maybe_full
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.ptr_match
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.reset
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.wrap
+TOP.SimTop.l_soc.socMisc.axi4buf_2.nodeOut_aw_deq_q.wrap_1

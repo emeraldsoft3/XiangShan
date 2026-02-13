@@ -1,0 +1,32 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_in_0_bits_data [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_in_0_bits_pdest [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_in_0_bits_vlWen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_in_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_in_1_bits_data [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_in_1_bits_pdest [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_in_1_bits_vlWen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_in_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_in_2_bits_data [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_in_2_bits_pdest [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_in_2_bits_vlWen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_in_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_in_3_bits_data [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_in_3_bits_pdest [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_in_3_bits_vlWen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_in_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_out_0_bits_data [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_out_0_bits_pdest [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_out_0_bits_vlWen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_out_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_out_1_bits_data [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_out_1_bits_pdest [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_out_1_bits_vlWen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_out_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_out_2_bits_data [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_out_2_bits_pdest [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_out_2_bits_vlWen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_out_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_out_3_bits_data [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_out_3_bits_pdest [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_out_3_bits_vlWen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_wbDataPath.vlWbArbiter.io_out_3_valid

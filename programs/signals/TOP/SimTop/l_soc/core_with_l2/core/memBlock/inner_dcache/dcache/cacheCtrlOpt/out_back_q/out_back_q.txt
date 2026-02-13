@@ -1,0 +1,21 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.do_enq
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.full
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.io_deq_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.io_deq_bits_extra_tlrr_extra_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.io_deq_bits_extra_tlrr_extra_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.io_deq_bits_index [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.io_deq_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.io_deq_bits_read
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.io_deq_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.io_deq_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.io_enq_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.io_enq_bits_extra_tlrr_extra_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.io_enq_bits_extra_tlrr_extra_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.io_enq_bits_index [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.io_enq_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.io_enq_bits_read
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.io_enq_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.io_enq_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.ram [80:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_back_q.reset

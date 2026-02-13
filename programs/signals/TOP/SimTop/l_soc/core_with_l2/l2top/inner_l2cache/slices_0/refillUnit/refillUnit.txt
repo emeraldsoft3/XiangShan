@@ -1,0 +1,31 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.clock
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.grantDataBuf [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_refillBufWrite_bits_data_data [511:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_refillBufWrite_bits_id [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_refillBufWrite_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_refillBufWrite_valid_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_resp_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_resp_respInfo_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_resp_respInfo_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_resp_respInfo_isHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_resp_respInfo_last
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_resp_respInfo_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_resp_respInfo_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_resp_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_sinkD_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_sinkD_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_sinkD_bits_echo_blockisdirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_sinkD_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_sinkD_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_sinkD_bits_sink [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_sinkD_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_sinkD_bits_source [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_sinkD_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_sourceE_bits_sink [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_sourceE_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.io_sourceE_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.last
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.r_beats1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.r_counter
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.reset
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.refillUnit.zero

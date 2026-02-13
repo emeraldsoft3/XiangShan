@@ -1,0 +1,265 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.addrAligned
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.atom_override_xtval
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.backendTriggerCanFireVec_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.backendTriggerCanFireVec_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.backendTriggerCanFireVec_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.backendTriggerCanFireVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.backendTriggerHitVec_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.backendTriggerHitVec_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.backendTriggerHitVec_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.data_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.dcache_resp_data [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.dcache_resp_error
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.dcache_resp_id [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.difftest_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.difftest_addr_r [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.difftest_coreid [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.difftest_fuop_r [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.difftest_mask_r [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.difftest_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.exception_pa_mmio_nc
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.have_sent_first_tlb_req
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_csrCtrl_cache_error_enable
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_csrCtrl_mem_trigger_debugMode
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_csrCtrl_mem_trigger_tEnableVec_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_csrCtrl_mem_trigger_tEnableVec_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_csrCtrl_mem_trigger_tEnableVec_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_csrCtrl_mem_trigger_tEnableVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_csrCtrl_mem_trigger_tUpdate_bits_addr [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_csrCtrl_mem_trigger_tUpdate_bits_tdata_action [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_csrCtrl_mem_trigger_tUpdate_bits_tdata_chain
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_csrCtrl_mem_trigger_tUpdate_bits_tdata_load
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_csrCtrl_mem_trigger_tUpdate_bits_tdata_matchType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_csrCtrl_mem_trigger_tUpdate_bits_tdata_select
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_csrCtrl_mem_trigger_tUpdate_bits_tdata_store
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_csrCtrl_mem_trigger_tUpdate_bits_tdata_tdata2 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_csrCtrl_mem_trigger_tUpdate_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_csrCtrl_mem_trigger_triggerCanRaiseBpExp
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dcache_block_lr
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dcache_req_bits_addr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dcache_req_bits_amo_cmp [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dcache_req_bits_amo_data [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dcache_req_bits_amo_mask [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dcache_req_bits_cmd [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dcache_req_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dcache_req_bits_word_idx [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dcache_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dcache_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dcache_req_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dcache_resp_bits_data [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dcache_resp_bits_error
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dcache_resp_bits_id [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dcache_resp_bits_miss
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dcache_resp_bits_replay
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dcache_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_req_bits_cmd [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_req_bits_debug_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_req_bits_debug_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_req_bits_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_req_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_req_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_resp_bits_excp_0_af_ld
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_resp_bits_excp_0_af_st
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_resp_bits_excp_0_gpf_ld
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_resp_bits_excp_0_gpf_st
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_resp_bits_excp_0_pf_ld
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_resp_bits_excp_0_pf_st
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_resp_bits_fullva [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_resp_bits_gpaddr_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_resp_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_resp_bits_miss
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_resp_bits_paddr_0 [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_resp_bits_pbmt_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_dtlb_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_exceptionInfo_bits_gpaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_exceptionInfo_bits_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_exceptionInfo_bits_vaddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_exceptionInfo_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_feedbackSlow_bits_lqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_feedbackSlow_bits_lqIdx_r_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_feedbackSlow_bits_lqIdx_r_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_feedbackSlow_bits_lqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_feedbackSlow_bits_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_feedbackSlow_bits_robIdx_r_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_feedbackSlow_bits_robIdx_r_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_feedbackSlow_bits_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_feedbackSlow_bits_sqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_feedbackSlow_bits_sqIdx_r_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_feedbackSlow_bits_sqIdx_r_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_feedbackSlow_bits_sqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_feedbackSlow_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_feedbackSlow_valid_last_REG
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_feedbackSlow_valid_last_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_flush_sbuffer_empty
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_flush_sbuffer_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_hartId [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_src_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_debugInfo_dispatchTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_debugInfo_eliminatedMove
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_debugInfo_enqRsTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_debugInfo_issueTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_debugInfo_renameTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_debugInfo_runahead_checkpoint_id [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_debugInfo_selectTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_debugInfo_tlbFirstReqTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_debugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_debugInfo_writebackTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_lqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_lqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_pdest [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_sqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_bits_uop_sqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_ready_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_in_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_debug_isMMIO
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_debug_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_debugInfo_dispatchTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_debugInfo_eliminatedMove
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_debugInfo_enqRsTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_debugInfo_issueTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_debugInfo_renameTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_debugInfo_runahead_checkpoint_id [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_debugInfo_selectTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_debugInfo_tlbFirstReqTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_debugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_debugInfo_writebackTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_exceptionVec_13
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_exceptionVec_15
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_exceptionVec_21
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_exceptionVec_23
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_exceptionVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_exceptionVec_4
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_exceptionVec_5
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_exceptionVec_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_exceptionVec_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_lqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_lqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_pdest [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_robIdx_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_bits_uop_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_out_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_pmpResp_ld
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_pmpResp_mmio
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_pmpResp_st
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_redirect_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_storeDataIn_0_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_storeDataIn_0_bits_uop_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_storeDataIn_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_storeDataIn_1_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_storeDataIn_1_bits_uop_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.io_storeDataIn_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.isAMOCAS
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.isLr
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.isSc
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.is_mmio
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.out_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.pbmtReg [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.pdest1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.pdest1Valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.pdest2 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.pdest2Valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.r_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.r_1 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.r_1_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.r_1_1 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.rd_h [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.rd_l [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.rdataSel [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.resp_data [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.resp_data_wire [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.rs1 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.rs2_h [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.rs2_l [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.sels_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.sels_0_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.sels_0_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.sels_0_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.sels_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.sels_1_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.sels_1_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.sels_1_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.state [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.stdCnt [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.success
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tEnableVec_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tEnableVec_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tEnableVec_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tEnableVec_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_0_action [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_0_chain
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_0_load
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_0_matchType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_0_select
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_0_store
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_0_tdata2 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_0_timing
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_1_action [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_1_chain
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_1_load
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_1_matchType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_1_select
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_1_store
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_1_tdata2 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_1_timing
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_2_action [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_2_chain
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_2_load
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_2_matchType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_2_select
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_2_store
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_2_tdata2 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_2_timing
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_3_action [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_3_chain
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_3_load
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_3_matchType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_3_select
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_3_store
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_3_tdata2 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.tdata_3_timing
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.triggerAction [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.triggerBreakpoint
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.triggerFireAction [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.triggerFireOH_enc [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.uop_debugInfo_dispatchTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.uop_debugInfo_eliminatedMove
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.uop_debugInfo_enqRsTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.uop_debugInfo_issueTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.uop_debugInfo_renameTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.uop_debugInfo_runahead_checkpoint_id [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.uop_debugInfo_selectTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.uop_debugInfo_tlbFirstReqTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.uop_debugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.uop_debugInfo_writebackTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.uop_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.uop_lqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.uop_lqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.uop_rfWen
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.uop_robIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_atomicsUnit.uop_robIdx_value [5:0]

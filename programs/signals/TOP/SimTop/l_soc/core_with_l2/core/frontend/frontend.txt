@@ -1,0 +1,518 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_client_out_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_client_out_a_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_client_out_a_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_client_out_a_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_client_out_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_client_out_d_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_client_out_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_client_out_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_client_out_d_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_client_out_d_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_ctrlUnitOpt_in_a_bits_address [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_ctrlUnitOpt_in_a_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_ctrlUnitOpt_in_a_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_ctrlUnitOpt_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_ctrlUnitOpt_in_a_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_ctrlUnitOpt_in_a_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_ctrlUnitOpt_in_a_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_ctrlUnitOpt_in_a_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_ctrlUnitOpt_in_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_ctrlUnitOpt_in_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_ctrlUnitOpt_in_d_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_ctrlUnitOpt_in_d_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_ctrlUnitOpt_in_d_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_icache_ctrlUnitOpt_in_d_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_instrUncache_client_out_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_instrUncache_client_out_a_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_instrUncache_client_out_a_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_instrUncache_client_out_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_instrUncache_client_out_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_instrUncache_client_out_d_bits_source
+TOP.SimTop.l_soc.core_with_l2.core.frontend.auto_inner_instrUncache_client_out_d_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_FlushControlRedirect
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_FlushMemVioRedirect
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__16
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__17
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__18
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__19
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__20
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__21
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__22
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__23
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__24
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__25
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__26
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__27
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__28
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__29
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__30
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__31
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_16
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_17
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_18
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_19
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_20
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner__probe_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_cg_cgen
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_checkPcMem_0_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_checkPcMem_1_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_checkPcMem_2_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_checkPcMem_3_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_checkPcMem_4_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_checkPcMem_5_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_checkPcMem_6_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_checkPcMem_7_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache_io_csr_pf_enable_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache_io_fencei_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_error_REG_1_bits_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_error_REG_1_bits_report_to_beu
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_error_REG_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_error_REG_bits_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_error_REG_bits_report_to_beu
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_error_REG_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_perf_0_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_perf_0_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_perf_1_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_perf_1_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_perf_2_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_perf_2_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_perf_3_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_perf_3_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_perf_4_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_perf_4_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_perf_5_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_perf_5_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_perf_6_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_perf_6_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_perf_7_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_io_perf_7_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_needFlush
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_prevIsRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_prevNotTakenPC [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_prevNotTakenValid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_prevTakenFtqPtr_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_prevTakenFtqPtr_1_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_prevTakenFtqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_prevTakenFtqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_prevTakenValid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_prevTakenValid_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_sfence_REG_bits_addr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_sfence_REG_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_sfence_REG_bits_hg
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_sfence_REG_bits_hv
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_sfence_REG_bits_id [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_sfence_REG_bits_rs1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_sfence_REG_bits_rs2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_sfence_REG_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_sfence_bits_addr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_sfence_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_sfence_bits_hg
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_sfence_bits_hv
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_sfence_bits_id [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_sfence_bits_rs1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_sfence_bits_rs2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_sfence_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_canAccept
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_backendException
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_crossPageIPFFix
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_foldpc [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_instr [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_isLastInFtqEntry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_pd_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_pd_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_pd_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_pd_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_pd_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_pred_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_backendException
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_crossPageIPFFix
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_foldpc [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_instr [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_isLastInFtqEntry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_pd_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_pd_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_pd_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_pd_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_pd_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_pred_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_backendException
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_crossPageIPFFix
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_foldpc [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_instr [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_isLastInFtqEntry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_pd_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_pd_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_pd_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_pd_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_pd_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_pred_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_backendException
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_crossPageIPFFix
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_foldpc [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_instr [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_isLastInFtqEntry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_pd_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_pd_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_pd_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_pd_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_pd_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_pred_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_backendException
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_crossPageIPFFix
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_foldpc [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_instr [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_isLastInFtqEntry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_pd_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_pd_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_pd_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_pd_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_pd_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_pred_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_backendException
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_crossPageIPFFix
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_exceptionVec_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_exceptionVec_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_exceptionVec_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_exceptionVec_20
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_foldpc [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_ftqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_ftqPtr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_instr [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_isLastInFtqEntry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_pd_brType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_pd_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_pd_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_pd_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_pd_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_pred_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_bits_trigger [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_cfVec_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_fromFtq_newest_entry_en
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_fromFtq_newest_entry_ptr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_fromFtq_newest_entry_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_fromFtq_pc_mem_waddr [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_fromFtq_pc_mem_wdata_startAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_fromFtq_pc_mem_wen
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_fromIfu_gpaddrMem_waddr [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_fromIfu_gpaddrMem_wdata_gpaddr [55:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_fromIfu_gpaddrMem_wdata_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_fromIfu_gpaddrMem_wen
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_stallReason_backReason_bits [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_stallReason_backReason_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_stallReason_reason_0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_stallReason_reason_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_stallReason_reason_2 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_stallReason_reason_3 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_stallReason_reason_4 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_stallReason_reason_5 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_ftqIdxAhead_0_bits_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_ftqIdxAhead_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_ftqIdxSelOH_bits [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_redirect_bits_cfiUpdate_backendIAF
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_redirect_bits_cfiUpdate_backendIGPF
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_redirect_bits_cfiUpdate_backendIPF
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_redirect_bits_cfiUpdate_isMisPred
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_redirect_bits_cfiUpdate_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_redirect_bits_cfiUpdate_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_redirect_bits_cfiUpdate_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_redirect_bits_debugIsCtrl
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_redirect_bits_debugIsMemVio
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_redirect_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_redirect_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_redirect_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_redirect_bits_level
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_redirect_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_redirect_valid_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_0_bits_commitType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_0_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_0_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_0_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_1_bits_commitType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_1_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_1_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_1_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_2_bits_commitType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_2_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_2_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_2_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_3_bits_commitType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_3_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_3_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_3_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_4_bits_commitType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_4_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_4_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_4_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_5_bits_commitType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_5_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_5_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_5_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_6_bits_commitType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_6_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_6_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_6_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_6_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_7_bits_commitType [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_7_bits_ftqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_7_bits_ftqIdx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_7_bits_ftqOffset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_backend_toFtq_rob_commits_7_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_bp_ctrl_btb_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_bp_ctrl_ras_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_bp_ctrl_sc_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_bp_ctrl_tage_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_bp_ctrl_ubtb_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_cache_error_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_distribute_csr_w_bits_addr [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_distribute_csr_w_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_distribute_csr_w_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_frontend_trigger_debugMode
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_frontend_trigger_tEnableVec_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_frontend_trigger_tEnableVec_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_frontend_trigger_tEnableVec_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_frontend_trigger_tEnableVec_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_frontend_trigger_tUpdate_bits_addr [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_frontend_trigger_tUpdate_bits_tdata_action [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_frontend_trigger_tUpdate_bits_tdata_chain
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_frontend_trigger_tUpdate_bits_tdata_matchType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_frontend_trigger_tUpdate_bits_tdata_select
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_frontend_trigger_tUpdate_bits_tdata_tdata2 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_frontend_trigger_tUpdate_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_frontend_trigger_triggerCanRaiseBpExp
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_fsIsOff
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_hd_misalign_ld_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_hd_misalign_st_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_ldld_vio_check_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_mem_trigger_debugMode
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_mem_trigger_tEnableVec_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_mem_trigger_tEnableVec_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_mem_trigger_tEnableVec_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_mem_trigger_tEnableVec_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_mem_trigger_tUpdate_bits_addr [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_mem_trigger_tUpdate_bits_tdata_action [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_mem_trigger_tUpdate_bits_tdata_chain
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_mem_trigger_tUpdate_bits_tdata_load
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_mem_trigger_tUpdate_bits_tdata_matchType [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_mem_trigger_tUpdate_bits_tdata_select
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_mem_trigger_tUpdate_bits_tdata_store
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_mem_trigger_tUpdate_bits_tdata_tdata2 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_mem_trigger_tUpdate_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_mem_trigger_triggerCanRaiseBpExp
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_csrCtrl_pf_ctrl_l1I_pf_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_error_bits_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_error_bits_report_to_beu
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_error_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_fencei
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_hartId [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_perf_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_perf_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_perf_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_perf_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_perf_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_perf_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_perf_6_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_perf_7_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_req_0_bits_s2xlate [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_req_0_bits_vpn [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_req_0_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_req_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_addr_low [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_af
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_entry_asid [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_entry_level [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_entry_n
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_entry_pbmt [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_entry_perm_a
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_entry_perm_d
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_entry_perm_g
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_entry_perm_r
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_entry_perm_u
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_entry_perm_w
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_entry_perm_x
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_entry_ppn [40:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_entry_tag [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_entry_v
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_entry_vmid [13:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_pf
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_ppn_low_0 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_ppn_low_1 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_ppn_low_2 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_ppn_low_3 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_ppn_low_4 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_ppn_low_5 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_ppn_low_6 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_ppn_low_7 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_pteidx_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_pteidx_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_pteidx_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_pteidx_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_pteidx_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_pteidx_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_pteidx_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_pteidx_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_valididx_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_valididx_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_valididx_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_valididx_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_valididx_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_valididx_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_valididx_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s1_valididx_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s2_entry_level [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s2_entry_n
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s2_entry_pbmt [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s2_entry_perm_a
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s2_entry_perm_d
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s2_entry_perm_g
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s2_entry_perm_r
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s2_entry_perm_u
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s2_entry_perm_w
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s2_entry_perm_x
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s2_entry_ppn [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s2_entry_tag [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s2_entry_vmid [13:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s2_gaf
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s2_gpf
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_bits_s2xlate [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_ptw_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_resetInFrontend
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_reset_vector [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_sfence_bits_addr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_sfence_bits_flushPipe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_sfence_bits_hg
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_sfence_bits_hv
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_sfence_bits_id [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_sfence_bits_rs1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_sfence_bits_rs2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_sfence_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_softPrefetch_0_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_softPrefetch_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_softPrefetch_1_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_softPrefetch_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_softPrefetch_2_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_softPrefetch_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_hgatp_changed
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_hgatp_mode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_hgatp_ppn [43:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_hgatp_vmid [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_pmm_henvcfg [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_pmm_hstatus [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_pmm_menvcfg [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_pmm_mseccfg [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_pmm_senvcfg [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_priv_dmode [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_priv_imode [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_priv_mxr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_priv_spvp
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_priv_sum
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_priv_virt
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_priv_vmxr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_priv_vsum
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_satp_asid [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_satp_changed
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_satp_mode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_satp_ppn [43:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_vsatp_asid [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_vsatp_changed
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_vsatp_mode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.io_tlbCsr_vsatp_ppn [43:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.reset

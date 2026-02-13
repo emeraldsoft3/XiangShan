@@ -1,0 +1,77 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_a_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_a_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_a_bits_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_a_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_a_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_d_bits_sink
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_d_bits_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_d_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_in_d_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_a_bits_address [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_a_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_a_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_a_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_a_bits_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_a_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_a_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_d_bits_sink
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_d_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_d_bits_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_d_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_0_d_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_a_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_a_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_a_bits_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_a_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_a_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_d_bits_sink
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_d_bits_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_d_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.auto_out_1_d_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.beatsLeft [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.idle
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.in_0_d_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.latch
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.muxState_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.muxState_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.readys_mask [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.readys_readys [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.readys_valid [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.requestAIO_0_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.requestAIO_0_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.state_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.state_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.winner_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_xbar.winner_1

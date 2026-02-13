@@ -1,0 +1,42 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_1_coreid [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_1_index [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_1_isAtomic
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_1_isLoad
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_1_isVLoad
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_1_opType [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_1_paddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_2_coreid [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_2_index [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_2_isAtomic
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_2_isLoad
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_2_isVLoad
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_2_opType [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_2_paddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_coreid [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_index [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_isAtomic
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_isLoad
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_isVLoad
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_opType [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_paddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.REG_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.i_coreid [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.i_index [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.i_isAtomic
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.i_isLoad
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.i_isVLoad
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.i_opType [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.i_paddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.i_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.o_coreid [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.o_index [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.o_isAtomic
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.o_isLoad
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.o_isVLoad
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.o_opType [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.o_paddr [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.o_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.difftestLoadEvent_delayer.reset

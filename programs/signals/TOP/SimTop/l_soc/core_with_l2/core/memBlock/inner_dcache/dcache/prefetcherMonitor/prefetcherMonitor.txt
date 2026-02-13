@@ -1,0 +1,18 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.back_off_cnt [17:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.back_off_reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.bad_prefetch_cnt [10:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.enable
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.good_prefetch_cnt [10:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.io_timely_late_hit_prefetch
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.io_timely_late_miss_prefetch
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.io_timely_total_prefetch
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.io_validity_bad_prefetch
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.io_validity_good_prefetch
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.late_hit_prefetch_cnt [10:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.late_miss_prefetch_cnt [10:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.timely_reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.total_prefetch_cnt [10:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.trigger_disable_probe
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.prefetcherMonitor.validity_reset

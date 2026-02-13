@@ -1,0 +1,46 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.REG
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.alloc
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.busy
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.data [511:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_block_addr_bits [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_block_addr_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_id [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_mem_grant_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_mem_grant_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_mem_release_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_mem_release_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_mem_release_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_mem_release_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_mem_release_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_mem_release_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_mem_release_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_mem_release_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_primary_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_primary_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_req_bits_addr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_req_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_req_bits_dirty
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_req_bits_hasData
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_req_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_req_bits_voluntary
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_req_data_data [511:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.io_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.paddr_dup_1 [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.paddr_dup_2 [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.release_done_r_counter
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.remain [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.remain_clr [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.remain_dup_0 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.remain_dup_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.remain_set [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.req_addr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.req_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.req_dirty
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.req_hasData
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.req_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.req_voluntary
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.s_data_override
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.wb.entries_2.state [1:0]

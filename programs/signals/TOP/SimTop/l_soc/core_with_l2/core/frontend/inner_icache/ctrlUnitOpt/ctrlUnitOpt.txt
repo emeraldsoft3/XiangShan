@@ -1,0 +1,54 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.auto_in_a_bits_address [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.auto_in_a_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.auto_in_a_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.auto_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.auto_in_a_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.auto_in_a_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.auto_in_a_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.auto_in_a_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.auto_in_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.auto_in_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.auto_in_d_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.auto_in_d_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.auto_in_d_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.auto_in_d_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.eccctrl_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.eccctrl_ierror [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.eccctrl_istatus [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.eccctrl_itarget [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.ecciaddr_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_dataWrite_bits_virIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_dataWrite_bits_waymask [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_dataWrite_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_dataWrite_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_dataWrite_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_ecc_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_injecting
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_injecting_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaReadResp_entryValid_0_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaReadResp_entryValid_0_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaReadResp_entryValid_0_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaReadResp_entryValid_0_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaReadResp_metas_0_0_tag [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaReadResp_metas_0_1_tag [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaReadResp_metas_0_2_tag [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaReadResp_metas_0_3_tag [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaRead_bits_vSetIdx_0 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaRead_bits_vSetIdx_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaRead_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaRead_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaRead_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaWrite_bits_bankIdx
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaWrite_bits_phyTag [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaWrite_bits_virIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaWrite_bits_waymask [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaWrite_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaWrite_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.io_metaWrite_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.istate [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.iwaymask [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.out_backMask [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.out_f_woready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.ctrlUnitOpt.waymask [3:0]

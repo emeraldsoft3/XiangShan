@@ -1,0 +1,27 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.chn_Grant_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.clock
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.enqValid_s3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_l1Hint_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_l1Hint_bits_sourceId [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_l1Hint_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_l1Hint_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_s1_bits_aMergeTask_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_s1_bits_aMergeTask_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_s1_bits_aMergeTask_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_s1_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_s1_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_s1_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_s1_bits_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_s1_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_s1_bits_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_s1_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_s3_need_mshr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_s3_task_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_s3_task_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_s3_task_bits_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_s3_task_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_s3_task_bits_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.io_s3_task_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.mshr_GrantData_s1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.mshr_Grant_s1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.reset

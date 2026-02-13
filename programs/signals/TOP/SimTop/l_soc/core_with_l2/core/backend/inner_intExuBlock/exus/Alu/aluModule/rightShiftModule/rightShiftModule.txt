@@ -1,0 +1,7 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus.Alu.aluModule.rightShiftModule.io_revShamt [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus.Alu.aluModule.rightShiftModule.io_revSrl [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus.Alu.aluModule.rightShiftModule.io_shamt [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus.Alu.aluModule.rightShiftModule.io_sra [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus.Alu.aluModule.rightShiftModule.io_sraSrc [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus.Alu.aluModule.rightShiftModule.io_srl [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus.Alu.aluModule.rightShiftModule.io_srlSrc [63:0]

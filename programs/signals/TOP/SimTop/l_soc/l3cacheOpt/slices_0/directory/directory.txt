@@ -1,0 +1,69 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.REG
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.REG_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.REG_2
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.REG_3
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.REG_4
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.REG_5
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.REG_6
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.REG_7
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clock
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_clientDirWReq_bits_data_0_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_clientDirWReq_bits_set [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_clientDirWReq_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_clientDirWReq_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_clientTagWreq_bits_set [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_clientTagWreq_bits_tag [33:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_clientTagWreq_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_clientTagWreq_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_dirWReq_bits_data_clientStates_0 [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_dirWReq_bits_data_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_dirWReq_bits_data_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_dirWReq_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_dirWReq_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_dirWReq_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_read_bits_idOH [15:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_read_bits_replacerInfo_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_read_bits_replacerInfo_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_read_bits_replacerInfo_reqSource [4:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_read_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_read_bits_source [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_read_bits_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_read_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_read_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_bits_clients_states_0_hit
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_bits_clients_states_0_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_bits_clients_tag [33:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_bits_clients_tag_match
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_bits_clients_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_bits_idOH [15:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_bits_replacerInfo_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_bits_replacerInfo_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_bits_replacerInfo_reqSource [4:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_bits_self_clientStates_0 [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_bits_self_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_bits_self_hit
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_bits_self_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_bits_self_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_bits_self_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_bits_sourceId [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_result_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_tagWReq_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_tagWReq_bits_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_tagWReq_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.io_tagWReq_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.replacerInfoReg_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.replacerInfoReg_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.replacerInfoReg_r_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.replacerInfoReg_r_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.replacerInfoReg_r_reqSource [4:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.replacerInfoReg_reqSource [4:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.reqIdOHReg [15:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.reqValidReg
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.req_r_replacerInfo_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.reset
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.setReg [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.setReg_r [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.sourceIdReg [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.sourceIdReg_r [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.valids [1:0]

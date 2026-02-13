@@ -1,0 +1,16 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_dup_0_ppm.out_res_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_dup_0_ppm.out_res_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_dup_0_ppm.redirect_GHPtr_sel
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_dup_0_ppm.redirect_GHPtr_src_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_dup_0_ppm.redirect_GHPtr_src_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_dup_0_ppm.s1_GHPtr_sel
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_dup_0_ppm.s1_GHPtr_src_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_dup_0_ppm.s1_GHPtr_src_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_dup_0_ppm.s2_GHPtr_sel
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_dup_0_ppm.s2_GHPtr_src_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_dup_0_ppm.s2_GHPtr_src_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_dup_0_ppm.s3_GHPtr_sel
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_dup_0_ppm.s3_GHPtr_src_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_dup_0_ppm.s3_GHPtr_src_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_dup_0_ppm.stallGHPtr_src_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_dup_0_ppm.stallGHPtr_src_value [5:0]

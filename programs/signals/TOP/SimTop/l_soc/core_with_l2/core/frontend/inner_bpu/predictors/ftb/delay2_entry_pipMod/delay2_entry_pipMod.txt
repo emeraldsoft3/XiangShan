@@ -1,0 +1,80 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_brSlots_0_lower [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_brSlots_0_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_brSlots_0_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_brSlots_0_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_brSlots_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_carry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_pftAddr [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_tailSlot_lower [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_tailSlot_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_tailSlot_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_tailSlot_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_tailSlot_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.data_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_brSlots_0_lower [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_brSlots_0_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_brSlots_0_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_brSlots_0_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_brSlots_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_carry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_pftAddr [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_tailSlot_lower [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_tailSlot_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_tailSlot_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_tailSlot_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_tailSlot_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_bits_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_in_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_brSlots_0_lower [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_brSlots_0_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_brSlots_0_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_brSlots_0_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_brSlots_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_carry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_pftAddr [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_tailSlot_lower [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_tailSlot_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_tailSlot_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_tailSlot_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_tailSlot_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.io_out_bits_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_brSlots_0_lower [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_brSlots_0_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_brSlots_0_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_brSlots_0_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_brSlots_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_carry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_pftAddr [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_tailSlot_lower [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_tailSlot_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_tailSlot_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_tailSlot_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_tailSlot_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.res_bits_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ftb.delay2_entry_pipMod.valid_REG

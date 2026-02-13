@@ -1,0 +1,54 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.clock
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.do_enq
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.full
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_beat
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_counter
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_isReleaseAck
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_last
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_needPb
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_need_d
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_req_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_req_bypassPut
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_req_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_req_denied
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_req_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_req_isHit
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_req_off [5:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_req_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_req_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_req_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_req_sinkId [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_req_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_req_sourceId [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_req_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_req_useBypass
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_bits_req_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_deq_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_beat
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_counter
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_isReleaseAck
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_last
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_needPb
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_need_d
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_req_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_req_bypassPut
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_req_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_req_denied
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_req_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_req_isHit
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_req_off [5:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_req_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_req_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_req_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_req_sinkId [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_req_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_req_sourceId [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_req_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_req_useBypass
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_bits_req_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_ready_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.io_enq_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.ram [91:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pipe.stages_1.reset

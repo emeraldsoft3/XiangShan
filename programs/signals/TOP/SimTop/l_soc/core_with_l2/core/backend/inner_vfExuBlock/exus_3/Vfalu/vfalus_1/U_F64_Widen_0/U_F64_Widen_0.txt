@@ -1,0 +1,68 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.EOP
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.Efp_a_is_all_one
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.Efp_a_is_zero
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.Efp_b_is_all_one
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.Efp_b_is_zero
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.float_adder_result_r_1 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.float_adder_result_r_2 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.float_adder_result_r_3 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.float_adder_result_r_4 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_a_is_SNAN
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_a_is_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_a_is_infinite
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_a_is_zero
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_a_is_zero_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_a_to64 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_b_exponent_is_equal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_b_is_SNAN
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_b_is_equal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_b_is_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_b_is_greater
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_b_is_infinite
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_b_is_less
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_b_is_zero
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_b_is_zero_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_b_significand_is_equal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_b_significand_is_greater
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.fp_b_to64 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_fflags [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_fflags_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_fflags_r_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_fire
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_fp_a [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_fp_b [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_fp_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_fp_c_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_fp_c_r_1 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_is_sub
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_is_vfwredosum
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_mask
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_maskForReduction [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_op_code [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_opb_widening
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_res_widening
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_round_mode [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_widen_a [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.io_widen_b [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.is_far_path_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.is_feq
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.is_fge
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.is_fgt
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.is_fle
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.is_flt
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.is_fmax_re
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.is_fmin_re
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.is_fne
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.is_fsum_ore
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.is_fsum_ore_notmasked
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.is_fsum_ure
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.is_fsum_ure_notmasked
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.is_max
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.is_min
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.r_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.r_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.re_masked_one_out [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_1.U_F64_Widen_0.res_widening_reg

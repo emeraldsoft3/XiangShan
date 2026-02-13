@@ -1,0 +1,190 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_deq
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_deqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_deqPtr_value [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enq
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_isCFI_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_isCFI_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_isCFI_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_isCFI_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_isCFI_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_isCFI_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_robIdx_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_robIdx_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_robIdx_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_robIdx_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_robIdx_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_robIdx_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_robIdx_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_robIdx_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_robIdx_4_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_robIdx_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_robIdx_5_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqData_robIdx_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_enqPtr_value [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_flushVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_flushVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_flushVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_flushVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_redirect
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_isCFI_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_isCFI_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_isCFI_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_isCFI_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_isCFI_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_isCFI_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_robIdx_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_robIdx_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_robIdx_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_robIdx_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_robIdx_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_robIdx_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_robIdx_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_robIdx_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_robIdx_4_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_robIdx_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_robIdx_5_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_0_robIdx_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_isCFI_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_isCFI_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_isCFI_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_isCFI_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_isCFI_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_isCFI_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_robIdx_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_robIdx_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_robIdx_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_robIdx_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_robIdx_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_robIdx_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_robIdx_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_robIdx_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_robIdx_4_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_robIdx_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_robIdx_5_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_1_robIdx_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_isCFI_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_isCFI_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_isCFI_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_isCFI_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_isCFI_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_isCFI_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_robIdx_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_robIdx_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_robIdx_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_robIdx_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_robIdx_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_robIdx_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_robIdx_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_robIdx_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_robIdx_4_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_robIdx_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_robIdx_5_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_2_robIdx_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_isCFI_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_isCFI_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_isCFI_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_isCFI_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_isCFI_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_isCFI_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_robIdx_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_robIdx_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_robIdx_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_robIdx_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_robIdx_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_robIdx_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_robIdx_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_robIdx_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_robIdx_4_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_robIdx_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_robIdx_5_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_snapshots_3_robIdx_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_valids_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.io_valids_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.newEnqPtrQualified_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.newEnqPtrQualified_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.newEnqPtrQualified_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_isCFI_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_isCFI_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_isCFI_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_isCFI_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_isCFI_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_isCFI_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_robIdx_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_robIdx_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_robIdx_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_robIdx_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_robIdx_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_robIdx_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_robIdx_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_robIdx_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_robIdx_4_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_robIdx_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_robIdx_5_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_0_robIdx_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_isCFI_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_isCFI_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_isCFI_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_isCFI_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_isCFI_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_isCFI_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_robIdx_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_robIdx_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_robIdx_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_robIdx_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_robIdx_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_robIdx_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_robIdx_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_robIdx_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_robIdx_4_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_robIdx_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_robIdx_5_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_1_robIdx_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_isCFI_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_isCFI_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_isCFI_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_isCFI_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_isCFI_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_isCFI_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_robIdx_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_robIdx_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_robIdx_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_robIdx_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_robIdx_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_robIdx_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_robIdx_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_robIdx_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_robIdx_4_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_robIdx_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_robIdx_5_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_2_robIdx_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_isCFI_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_isCFI_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_isCFI_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_isCFI_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_isCFI_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_isCFI_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_robIdx_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_robIdx_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_robIdx_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_robIdx_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_robIdx_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_robIdx_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_robIdx_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_robIdx_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_robIdx_4_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_robIdx_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_robIdx_5_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snapshots_3_robIdx_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snptDeqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snptDeqPtr_value [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snptEnqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snptEnqPtr_value [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snptValids_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snptValids_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snptValids_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.snpt.snptValids_3

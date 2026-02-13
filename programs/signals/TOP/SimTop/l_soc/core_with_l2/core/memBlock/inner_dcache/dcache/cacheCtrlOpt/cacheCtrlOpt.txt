@@ -1,0 +1,54 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.auto_in_a_bits_address [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.auto_in_a_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.auto_in_a_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.auto_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.auto_in_a_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.auto_in_a_bits_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.auto_in_a_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.auto_in_a_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.auto_in_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.auto_in_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.auto_in_d_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.auto_in_d_bits_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.auto_in_d_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.auto_in_d_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.counterRegs_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.ctrlRegs_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.delayRegs_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_0_bits_0_mask [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_0_bits_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_0_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_0_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_bits_0_mask [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_bits_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_bits_1_mask [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_bits_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_bits_2_mask [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_bits_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_bits_3_mask [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_bits_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_bits_4_mask [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_bits_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_bits_5_mask [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_bits_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_bits_6_mask [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_bits_6_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_bits_7_mask [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_bits_7_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.io_pseudoError_1_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.maskRegs_0 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.maskRegs_1 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.maskRegs_2 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.maskRegs_3 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.maskRegs_4 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.maskRegs_5 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.maskRegs_6 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.maskRegs_7 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.newCtrlReg_1_ese
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.newCtrlReg_ese
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.out_backMask [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.cacheCtrlOpt.reset

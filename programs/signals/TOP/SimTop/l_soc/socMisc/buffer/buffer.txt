@@ -1,0 +1,83 @@
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_a_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_a_bits_corrupt
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_a_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_a_bits_echo_blockisdirty
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_a_bits_mask [31:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_a_bits_param [2:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_a_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_a_bits_source [8:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_a_ready
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_a_valid
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_b_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_b_bits_corrupt
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_b_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_b_bits_mask [31:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_b_bits_opcode [2:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_b_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_b_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_b_ready
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_b_valid
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_c_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_c_bits_corrupt
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_c_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_c_bits_echo_blockisdirty
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_c_bits_opcode [2:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_c_bits_param [2:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_c_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_c_bits_source [8:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_c_ready
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_c_valid
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_d_bits_corrupt
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_d_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_d_bits_denied
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_d_bits_echo_blockisdirty
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_d_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_d_bits_sink [3:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_d_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_d_bits_source [8:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_d_ready
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_d_valid
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_e_bits_sink [3:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_e_ready
+TOP.SimTop.l_soc.socMisc.buffer.auto_in_e_valid
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_a_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_a_bits_corrupt
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_a_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_a_bits_mask [31:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_a_bits_param [2:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_a_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_a_bits_source [8:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_a_ready
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_a_valid
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_b_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_b_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_b_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_b_ready
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_b_valid
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_c_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_c_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_c_bits_echo_blockisdirty
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_c_bits_opcode [2:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_c_bits_param [2:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_c_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_c_bits_source [8:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_c_ready
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_c_valid
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_d_bits_corrupt
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_d_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_d_bits_denied
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_d_bits_echo_blockisdirty
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_d_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_d_bits_sink [3:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_d_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_d_bits_source [8:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_d_ready
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_d_valid
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_e_bits_sink [3:0]
+TOP.SimTop.l_soc.socMisc.buffer.auto_out_e_valid
+TOP.SimTop.l_soc.socMisc.buffer.clock
+TOP.SimTop.l_soc.socMisc.buffer.reset

@@ -1,0 +1,44 @@
+TOP.SimTop.l_soc.socMisc.clint.auto_in_a_bits_address [29:0]
+TOP.SimTop.l_soc.socMisc.clint.auto_in_a_bits_data [63:0]
+TOP.SimTop.l_soc.socMisc.clint.auto_in_a_bits_mask [7:0]
+TOP.SimTop.l_soc.socMisc.clint.auto_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.clint.auto_in_a_bits_size [1:0]
+TOP.SimTop.l_soc.socMisc.clint.auto_in_a_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.clint.auto_in_a_ready
+TOP.SimTop.l_soc.socMisc.clint.auto_in_a_valid
+TOP.SimTop.l_soc.socMisc.clint.auto_in_d_bits_data [63:0]
+TOP.SimTop.l_soc.socMisc.clint.auto_in_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.clint.auto_in_d_bits_size [1:0]
+TOP.SimTop.l_soc.socMisc.clint.auto_in_d_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.clint.auto_in_d_ready
+TOP.SimTop.l_soc.socMisc.clint.auto_in_d_valid
+TOP.SimTop.l_soc.socMisc.clint.auto_int_out_0
+TOP.SimTop.l_soc.socMisc.clint.auto_int_out_1
+TOP.SimTop.l_soc.socMisc.clint.clock
+TOP.SimTop.l_soc.socMisc.clint.in_bits_read
+TOP.SimTop.l_soc.socMisc.clint.io_rtcTick
+TOP.SimTop.l_soc.socMisc.clint.io_time_bits [63:0]
+TOP.SimTop.l_soc.socMisc.clint.io_time_valid
+TOP.SimTop.l_soc.socMisc.clint.io_time_valid_REG
+TOP.SimTop.l_soc.socMisc.clint.ipi_0
+TOP.SimTop.l_soc.socMisc.clint.out_woready_17
+TOP.SimTop.l_soc.socMisc.clint.out_woready_9
+TOP.SimTop.l_soc.socMisc.clint.pad [63:0]
+TOP.SimTop.l_soc.socMisc.clint.reset
+TOP.SimTop.l_soc.socMisc.clint.time_0 [63:0]
+TOP.SimTop.l_soc.socMisc.clint.valids_0
+TOP.SimTop.l_soc.socMisc.clint.valids_1
+TOP.SimTop.l_soc.socMisc.clint.valids_1_0
+TOP.SimTop.l_soc.socMisc.clint.valids_1_1
+TOP.SimTop.l_soc.socMisc.clint.valids_1_2
+TOP.SimTop.l_soc.socMisc.clint.valids_1_3
+TOP.SimTop.l_soc.socMisc.clint.valids_1_4
+TOP.SimTop.l_soc.socMisc.clint.valids_1_5
+TOP.SimTop.l_soc.socMisc.clint.valids_1_6
+TOP.SimTop.l_soc.socMisc.clint.valids_1_7
+TOP.SimTop.l_soc.socMisc.clint.valids_2
+TOP.SimTop.l_soc.socMisc.clint.valids_3
+TOP.SimTop.l_soc.socMisc.clint.valids_4
+TOP.SimTop.l_soc.socMisc.clint.valids_5
+TOP.SimTop.l_soc.socMisc.clint.valids_6
+TOP.SimTop.l_soc.socMisc.clint.valids_7

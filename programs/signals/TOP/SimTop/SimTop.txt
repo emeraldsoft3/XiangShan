@@ -1,0 +1,18 @@
+TOP.SimTop.clock
+TOP.SimTop.difftest_exit [63:0]
+TOP.SimTop.difftest_logCtrl_begin [63:0]
+TOP.SimTop.difftest_logCtrl_end [63:0]
+TOP.SimTop.difftest_logCtrl_level [63:0]
+TOP.SimTop.difftest_log_enable
+TOP.SimTop.difftest_perfCtrl_clean
+TOP.SimTop.difftest_perfCtrl_dump
+TOP.SimTop.difftest_step [63:0]
+TOP.SimTop.difftest_timer [63:0]
+TOP.SimTop.difftest_uart_in_ch [7:0]
+TOP.SimTop.difftest_uart_in_valid
+TOP.SimTop.difftest_uart_out_ch [7:0]
+TOP.SimTop.difftest_uart_out_valid
+TOP.SimTop.reset
+TOP.SimTop.rtcClock
+TOP.SimTop.rtcCounter [5:0]
+TOP.SimTop.timer [63:0]

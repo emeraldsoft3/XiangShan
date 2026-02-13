@@ -1,0 +1,25 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.data_0_gpaddr [55:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.data_0_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.data_1_gpaddr [55:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.data_1_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.data_2_gpaddr [55:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.data_2_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.data_3_gpaddr [55:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.data_3_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.data_4_gpaddr [55:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.data_4_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.data_5_gpaddr [55:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.data_5_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.data_6_gpaddr [55:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.data_6_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.data_7_gpaddr [55:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.data_7_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.io_raddr_0 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.io_rdata_0_gpaddr [55:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.io_rdata_0_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.io_waddr_0 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.io_wdata_0_gpaddr [55:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.io_wdata_0_isForVSnonLeafPTE
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.io_wen_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.gpaMem.mem.dataBanks_0.read_by_0

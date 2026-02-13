@@ -1,0 +1,67 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_brSlots_0_lower [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_brSlots_0_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_brSlots_0_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_brSlots_0_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_brSlots_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_carry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_pftAddr [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_tailSlot_lower [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_tailSlot_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_tailSlot_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_tailSlot_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_tailSlot_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.data_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_req_tag [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_brSlots_0_lower [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_brSlots_0_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_brSlots_0_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_brSlots_0_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_brSlots_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_carry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_pftAddr [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_tailSlot_lower [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_tailSlot_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_tailSlot_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_tailSlot_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_tailSlot_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_update_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_update_req_tag [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_brSlots_0_lower [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_brSlots_0_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_brSlots_0_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_brSlots_0_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_brSlots_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_carry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_pftAddr [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_tailSlot_lower [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_tailSlot_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_tailSlot_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_tailSlot_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_tailSlot_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_entry_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_tag [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.io_write_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.tag [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.uftb.ways_30.valid

@@ -1,0 +1,427 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.REG_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.REG_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.REG_3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.REG_4
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.REG_5
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.REG_6
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.REG_7
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.alloc_probe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.bufferTimer_0 [15:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.bufferTimer_0_probe [15:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.bufferTimer_1 [15:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.bufferTimer_1_probe [15:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.bufferTimer_2 [15:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.bufferTimer_2_probe [15:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.bufferTimer_3 [15:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.bufferTimer_3_probe [15:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_rdy
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_rdy_sameSetCnt [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_rdy_sameSet_s3_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_rdy_sameSet_s3_r [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_task_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_task_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_task_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_task_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_task_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_task_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_task_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_task_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_task_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_task_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_task_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_waitMP [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_0_waitMS [15:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_rdy
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_rdy_sameSetCnt [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_rdy_sameSet_s3_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_rdy_sameSet_s3_r [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_task_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_task_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_task_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_task_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_task_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_task_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_task_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_task_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_task_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_task_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_task_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_waitMP [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_1_waitMS [15:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_rdy
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_rdy_sameSetCnt [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_rdy_sameSet_s3_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_rdy_sameSet_s3_r [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_task_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_task_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_task_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_task_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_task_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_task_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_task_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_task_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_task_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_task_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_task_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_waitMP [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_2_waitMS [15:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_rdy
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_rdy_sameSetCnt [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_rdy_sameSet_s3_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_rdy_sameSet_s3_r [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_task_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_task_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_task_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_task_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_task_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_task_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_task_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_task_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_task_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_task_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_task_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_waitMP [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_3_waitMS [15:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_rdy_sameSetCnt [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_rdy_sameSet_s3_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.buffer_rdy_sameSet_s3_r [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.canFlow
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.canFlow_sameSetCnt [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.canFlow_sameSet_s3_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.canFlow_sameSet_s3_r [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.clock
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.cntEnable_1_probe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.cntEnable_2_probe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.cntEnable_3_probe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.cntEnable_probe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.doFlow
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.dup
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.enable_1_probe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.enable_2_probe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.enable_3_probe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.enable_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.enable_REG_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.enable_REG_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.enable_REG_3
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.enable_probe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.full_probe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.insertIdx [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_ASet [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_ATag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_aMergeTask_bits_id [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_aMergeTask_bits_task_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_aMergeTask_bits_task_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_aMergeTask_bits_task_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_aMergeTask_bits_task_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_aMergeTask_bits_task_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_aMergeTask_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_hasLatePF
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_hasLatePF_REG_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_hasLatePF_REG_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_hasMergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_hasMergeA_REG_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_hasMergeA_REG_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_in_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_in_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_in_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_in_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_in_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_in_bits_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_in_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_in_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_in_bits_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_in_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_in_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_in_ready_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_in_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mainPipeBlock_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mainPipeBlock_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_0_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_0_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_0_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_0_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_0_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_0_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_0_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_0_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_0_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_0_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_0_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_0_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_0_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_10_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_10_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_10_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_10_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_10_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_10_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_10_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_10_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_10_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_10_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_10_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_10_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_10_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_11_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_11_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_11_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_11_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_11_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_11_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_11_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_11_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_11_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_11_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_11_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_11_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_11_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_12_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_12_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_12_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_12_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_12_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_12_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_12_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_12_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_12_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_12_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_12_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_12_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_12_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_13_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_13_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_13_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_13_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_13_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_13_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_13_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_13_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_13_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_13_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_13_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_13_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_13_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_14_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_14_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_14_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_14_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_14_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_14_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_14_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_14_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_14_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_14_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_14_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_14_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_14_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_15_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_15_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_15_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_15_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_15_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_15_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_15_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_15_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_15_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_15_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_15_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_15_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_15_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_1_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_1_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_1_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_1_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_1_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_1_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_1_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_1_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_1_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_1_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_1_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_1_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_1_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_2_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_2_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_2_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_2_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_2_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_2_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_2_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_2_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_2_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_2_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_2_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_2_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_2_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_3_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_3_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_3_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_3_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_3_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_3_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_3_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_3_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_3_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_3_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_3_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_3_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_3_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_4_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_4_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_4_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_4_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_4_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_4_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_4_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_4_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_4_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_4_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_4_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_4_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_4_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_5_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_5_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_5_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_5_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_5_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_5_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_5_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_5_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_5_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_5_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_5_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_5_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_5_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_6_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_6_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_6_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_6_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_6_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_6_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_6_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_6_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_6_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_6_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_6_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_6_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_6_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_7_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_7_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_7_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_7_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_7_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_7_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_7_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_7_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_7_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_7_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_7_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_7_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_7_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_8_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_8_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_8_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_8_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_8_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_8_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_8_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_8_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_8_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_8_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_8_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_8_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_8_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_9_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_9_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_9_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_9_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_9_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_9_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_9_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_9_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_9_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_9_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_9_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_9_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_mshrInfo_9_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_aMergeTask_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_aMergeTask_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_aMergeTask_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_aMergeTask_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_aMergeTask_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_aMergeTask_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_aMergeTask_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_aMergeTask_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_aMergeTask_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_aMergeTask_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_aMergeTask_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_bufIdx [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_cmoAll
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_cmoTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_dsWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_metaWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_mshrRetry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_needProbeAckData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_readProbeDataDown
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_replTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_set_0 [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_snpHitRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_snpHitReleaseIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_snpHitReleaseMeta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_snpHitReleaseMeta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_snpHitReleaseMeta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_snpHitReleaseMeta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_snpHitReleaseMeta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_snpHitReleaseMeta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_snpHitReleaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_snpHitReleaseToInval
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_snpHitReleaseWithData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_tagWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_txChannel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_useProbeData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_out_valid_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_s1Entrance_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_s1Entrance_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_taskFromArb_s2_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_taskFromArb_s2_bits_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_taskFromArb_s2_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.io_taskFromArb_s2_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.mergeAMask [15:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.mshrConflictMask [15:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.mshrConflictMaskFromA [15:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.reset
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.s1Block
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.s1_Block
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.s1_Block_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.s1_Block_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.a_reqBuf.s1_Block_3

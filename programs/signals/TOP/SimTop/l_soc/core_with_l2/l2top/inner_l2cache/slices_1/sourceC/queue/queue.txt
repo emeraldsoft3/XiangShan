@@ -1,0 +1,81 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.clock
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.deq_ptr_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.do_deq
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.do_enq
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.empty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.enq_ptr_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.full
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_count [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_deq_bits_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_deq_bits_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_deq_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_deq_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_deq_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_deq_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_deq_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_deq_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_deq_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_deq_valid_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_aMergeTask_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_aMergeTask_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_aMergeTask_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_aMergeTask_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_aMergeTask_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_aMergeTask_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_aMergeTask_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_aMergeTask_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_aMergeTask_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_aMergeTask_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_aMergeTask_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_bufIdx [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_cmoAll
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_cmoTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_dsWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_metaWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_mshrRetry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_mshrTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_needProbeAckData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_readProbeDataDown
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_replTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_snpHitRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_snpHitReleaseIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_snpHitReleaseMeta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_snpHitReleaseMeta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_snpHitReleaseMeta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_snpHitReleaseMeta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_snpHitReleaseMeta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_snpHitReleaseMeta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_snpHitReleaseToClean
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_snpHitReleaseToInval
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_snpHitReleaseWithData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_tagWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_txChannel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_useProbeData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_bits_wayMask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.io_enq_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.maybe_full
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.ptr_match
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.sourceC.queue.reset

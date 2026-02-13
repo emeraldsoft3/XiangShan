@@ -1,0 +1,13 @@
+TOP.clock
+TOP.difftest_exit [63:0]
+TOP.difftest_logCtrl_begin [63:0]
+TOP.difftest_logCtrl_end [63:0]
+TOP.difftest_logCtrl_level [63:0]
+TOP.difftest_perfCtrl_clean
+TOP.difftest_perfCtrl_dump
+TOP.difftest_step [63:0]
+TOP.difftest_uart_in_ch [7:0]
+TOP.difftest_uart_in_valid
+TOP.difftest_uart_out_ch [7:0]
+TOP.difftest_uart_out_valid
+TOP.reset

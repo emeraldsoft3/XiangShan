@@ -1,0 +1,10 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_pc_dup_1_ppm.out_res [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_pc_dup_1_ppm.redirect_target_sel
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_pc_dup_1_ppm.redirect_target_src [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_pc_dup_1_ppm.s1_target_sel
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_pc_dup_1_ppm.s1_target_src [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_pc_dup_1_ppm.s2_target_sel
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_pc_dup_1_ppm.s2_target_src [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_pc_dup_1_ppm.s3_target_sel
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_pc_dup_1_ppm.s3_target_src [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_pc_dup_1_ppm.stallPC_src [49:0]

@@ -1,0 +1,30 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.data_0_probe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_in_bits_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_in_bits_fuType [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_in_bits_perfDebugInfo_dispatchTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_in_bits_perfDebugInfo_eliminatedMove
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_in_bits_perfDebugInfo_enqRsTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_in_bits_perfDebugInfo_issueTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_in_bits_perfDebugInfo_renameTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_in_bits_perfDebugInfo_runahead_checkpoint_id [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_in_bits_perfDebugInfo_selectTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_in_bits_perfDebugInfo_tlbFirstReqTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_in_bits_perfDebugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_in_bits_perfDebugInfo_writebackTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_in_ready
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_in_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_out_0_bits_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_out_0_bits_perfDebugInfo_dispatchTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_out_0_bits_perfDebugInfo_eliminatedMove
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_out_0_bits_perfDebugInfo_enqRsTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_out_0_bits_perfDebugInfo_issueTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_out_0_bits_perfDebugInfo_renameTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_out_0_bits_perfDebugInfo_runahead_checkpoint_id [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_out_0_bits_perfDebugInfo_selectTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_out_0_bits_perfDebugInfo_tlbFirstReqTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_out_0_bits_perfDebugInfo_tlbRespTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_out_0_bits_perfDebugInfo_writebackTime [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_out_0_ready
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.io_out_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_4.in1ToN.reset

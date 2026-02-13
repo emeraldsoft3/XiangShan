@@ -1,0 +1,30 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.io_in_info_dstMask
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.io_in_info_eew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.io_in_info_ma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.io_in_info_narrow
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.io_in_info_ta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.io_in_info_vdIdx [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.io_in_info_vl [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.io_in_info_vstart [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.io_in_mask [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.io_in_oldVd [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.io_in_vd [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.io_out_active [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.io_out_vd [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.maskVecByte_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.maskVecByte_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.maskVecByte_10
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.maskVecByte_11
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.maskVecByte_12
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.maskVecByte_13
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.maskVecByte_14
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.maskVecByte_15
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.maskVecByte_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.maskVecByte_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.maskVecByte_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.maskVecByte_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.maskVecByte_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.maskVecByte_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.maskVecByte_8
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.maskVecByte_9
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.mgu.vdIdx [2:0]

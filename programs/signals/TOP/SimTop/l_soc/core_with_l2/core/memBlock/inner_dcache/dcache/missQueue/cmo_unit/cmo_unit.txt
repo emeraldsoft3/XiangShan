@@ -1,0 +1,23 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.io_req_bits_address [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.io_req_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.io_req_chanA_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.io_req_chanA_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.io_req_chanA_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.io_req_chanA_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.io_req_chanA_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.io_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.io_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.io_resp_chanD_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.io_resp_chanD_bits_denied
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.io_resp_chanD_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.io_resp_chanD_ready_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.io_resp_chanD_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.io_resp_to_lsq_bits_nderr
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.io_resp_to_lsq_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.io_resp_to_lsq_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.nderr
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.req_address [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.req_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.missQueue.cmo_unit.state [1:0]

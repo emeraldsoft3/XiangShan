@@ -1,0 +1,353 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_a_bits_echo_isKeyword
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_a_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_a_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_a_bits_user_needHint
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_a_bits_user_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_a_bits_user_vaddr [43:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_a_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_a_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_b_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_b_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_b_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_b_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_b_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_b_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_c_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_c_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_c_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_c_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_c_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_c_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_c_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_c_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_c_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_d_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_d_bits_echo_isKeyword
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_d_bits_sink [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_d_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_d_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_d_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_e_bits_sink [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_e_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_client_out_e_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_uncache_in_a_bits_address [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_uncache_in_a_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_uncache_in_a_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_uncache_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_uncache_in_a_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_uncache_in_a_bits_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_uncache_in_a_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_uncache_in_a_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_uncache_in_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_uncache_in_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_uncache_in_d_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_uncache_in_d_bits_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_uncache_in_d_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.auto_uncache_in_d_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_cmoOpReq_bits_address [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_cmoOpReq_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_cmoOpReq_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_cmoOpReq_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_cmoOpResp_bits_nderr
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_cmoOpResp_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_cmoOpResp_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_debugTopDown_robHeadMissInDCache
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_debugTopDown_robHeadVaddr_bits [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_debugTopDown_robHeadVaddr_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_error_bits_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_error_bits_report_to_beu
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_error_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_hartId [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_l1Miss
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_l2_hint_bits_sourceId [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_l2_hint_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_l2_pf_store_only
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lqEmpty
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_atomics_block_lr
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_atomics_req_bits_addr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_atomics_req_bits_amo_cmp [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_atomics_req_bits_amo_data [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_atomics_req_bits_amo_mask [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_atomics_req_bits_cmd [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_atomics_req_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_atomics_req_bits_word_idx [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_atomics_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_atomics_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_atomics_resp_bits_data [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_atomics_resp_bits_error
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_atomics_resp_bits_id [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_atomics_resp_bits_miss
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_atomics_resp_bits_replay
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_atomics_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_D_0_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_D_0_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_D_0_last
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_D_0_mshrid [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_D_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_D_1_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_D_1_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_D_1_last
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_D_1_mshrid [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_D_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_D_2_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_D_2_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_D_2_last
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_D_2_mshrid [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_D_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forwardData_0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forwardData_1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forwardData_10 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forwardData_11 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forwardData_12 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forwardData_13 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forwardData_14 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forwardData_15 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forwardData_2 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forwardData_3 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forwardData_4 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forwardData_5 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forwardData_6 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forwardData_7 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forwardData_8 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forwardData_9 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forward_mshr
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_forward_result_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_mshrid [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forwardData_0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forwardData_1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forwardData_10 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forwardData_11 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forwardData_12 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forwardData_13 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forwardData_14 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forwardData_15 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forwardData_2 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forwardData_3 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forwardData_4 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forwardData_5 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forwardData_6 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forwardData_7 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forwardData_8 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forwardData_9 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forward_mshr
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_forward_result_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_mshrid [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_corrupt
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forwardData_0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forwardData_1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forwardData_10 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forwardData_11 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forwardData_12 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forwardData_13 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forwardData_14 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forwardData_15 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forwardData_2 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forwardData_3 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forwardData_4 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forwardData_5 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forwardData_6 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forwardData_7 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forwardData_8 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forwardData_9 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forward_mshr
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_forward_result_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_mshrid [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_forward_mshr_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_is128Req
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_req_bits_cmd [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_req_bits_instrtype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_req_bits_isFirstIssue
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_req_bits_lqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_req_bits_lqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_req_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_req_bits_vaddr_dup [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_resp_bits_data [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_resp_bits_data_delayed [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_resp_bits_error_delayed
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_resp_bits_handled
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_resp_bits_miss
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_resp_bits_mshr_id [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_s1_kill
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_s1_paddr_dup_dcache [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_s1_paddr_dup_lsu [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_s2_bank_conflict
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_s2_kill
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_0_s2_mq_nack
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_is128Req
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_req_bits_cmd [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_req_bits_instrtype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_req_bits_isFirstIssue
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_req_bits_lqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_req_bits_lqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_req_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_req_bits_vaddr_dup [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_resp_bits_data [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_resp_bits_error_delayed
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_resp_bits_handled
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_resp_bits_miss
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_resp_bits_mshr_id [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_s1_kill
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_s1_paddr_dup_dcache [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_s1_paddr_dup_lsu [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_s2_bank_conflict
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_s2_kill
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_1_s2_mq_nack
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_is128Req
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_req_bits_cmd [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_req_bits_instrtype [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_req_bits_isFirstIssue
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_req_bits_lqIdx_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_req_bits_lqIdx_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_req_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_req_bits_vaddr_dup [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_resp_bits_data [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_resp_bits_error_delayed
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_resp_bits_handled
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_resp_bits_miss
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_resp_bits_mshr_id [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_s1_kill
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_s1_paddr_dup_dcache [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_s1_paddr_dup_lsu [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_s2_bank_conflict
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_s2_kill
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_load_2_s2_mq_nack
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_release_bits_paddr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_release_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_sta_0_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_sta_1_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_store_main_pipe_hit_resp_bits_id [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_store_main_pipe_hit_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_store_replay_resp_bits_id [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_store_replay_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_store_req_bits_addr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_store_req_bits_data [511:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_store_req_bits_id [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_store_req_bits_mask [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_store_req_bits_vaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_store_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_store_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_tl_d_channel_mshrid [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_lsu_tl_d_channel_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_0_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_0_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_10_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_10_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_10_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_11_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_11_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_11_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_12_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_12_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_12_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_13_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_13_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_13_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_14_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_14_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_14_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_15_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_15_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_15_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_16_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_16_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_16_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_17_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_17_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_17_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_18_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_18_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_18_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_19_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_19_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_19_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_1_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_1_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_20_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_20_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_20_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_21_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_21_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_21_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_22_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_22_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_22_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_23_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_23_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_23_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_24_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_24_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_24_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_25_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_25_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_25_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_26_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_26_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_26_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_27_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_27_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_27_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_28_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_28_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_28_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_29_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_29_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_29_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_2_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_2_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_30_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_30_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_30_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_31_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_31_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_31_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_3_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_3_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_4_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_4_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_5_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_5_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_6_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_6_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_6_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_7_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_7_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_7_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_8_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_8_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_8_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_9_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_9_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.io_perf_9_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.reset

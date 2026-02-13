@@ -1,0 +1,6 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.dataWriteArb_dup_7.io_in_0_bits_addr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.dataWriteArb_dup_7.io_in_0_bits_way_en [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.dataWriteArb_dup_7.io_in_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.dataWriteArb_dup_7.io_out_bits_addr [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.dataWriteArb_dup_7.io_out_bits_way_en [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.dataWriteArb_dup_7.io_out_valid

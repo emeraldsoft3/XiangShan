@@ -1,0 +1,157 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.beatsLeft
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.busy
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.clock
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bs_raddr_bits_beat
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bs_raddr_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bs_raddr_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bs_raddr_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bs_raddr_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bs_raddr_valid_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bs_rdata_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bs_waddr_bits_beat
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bs_waddr_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bs_waddr_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bs_waddr_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bs_waddr_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bs_waddr_valid_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bs_wdata_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bypass_read_beat
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bypass_read_buffer_data_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bypass_read_buffer_data_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bypass_read_id [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bypass_read_last
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bypass_read_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bypass_read_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_bypass_read_valid_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_d_bits_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_d_bits_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_d_bits_denied
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_d_bits_echo_blockisdirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_d_bits_param [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_d_bits_sink [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_d_bits_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_d_bits_source [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_d_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_d_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_d_valid_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_pb_beat_corrupt
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_pb_beat_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_pb_beat_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_pb_pop_bits_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_pb_pop_bits_count
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_pb_pop_bits_last
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_pb_pop_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_pb_pop_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_pb_pop_valid_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_resp_bits_sink [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_resp_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_sourceD_r_hazard_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_sourceD_r_hazard_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_sourceD_r_hazard_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_bits_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_bits_bypassPut
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_bits_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_bits_denied
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_bits_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_bits_isHit
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_bits_off [5:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_bits_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_bits_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_bits_sinkId [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_bits_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_bits_sourceId [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_bits_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_bits_useBypass
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.io_task_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.muxState_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.muxState_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.pbQueue_io_enq_valid_REG
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.reset
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_beat
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_block_r
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_bypass_hit
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_counter
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_last
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_needData
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_need_pb
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_bypassPut
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_off [5:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_reg_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_reg_bypassPut
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_reg_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_reg_denied
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_reg_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_reg_isHit
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_reg_off [5:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_reg_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_reg_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_reg_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_reg_sinkId [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_reg_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_reg_sourceId [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_reg_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_reg_useBypass
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_reg_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_useBypass
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_req_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s1_valid_r
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_beat
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_can_go
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_counter
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_d_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_d_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_full
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_last
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_latch
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_needData
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_need_d
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_need_pb
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_releaseAck
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_req_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_req_bypassPut
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_req_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_req_denied
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_req_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_req_isHit
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_req_off [5:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_req_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_req_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_req_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_req_sinkId [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_req_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_req_sourceId [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_req_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_req_useBypass
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_req_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s2_valid_pb
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_d_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue_io_enq_valid_REG
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue_io_enq_valid_REG_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_queue_io_enq_valid_REG_2
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s3_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s4_beat
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s4_full
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s4_last
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s4_latch
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s4_need_pb
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s4_pbdata_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s4_pbdata_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s4_rdata [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s4_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s4_req_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s4_req_sinkId [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.s4_req_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.state_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.state_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.winner_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceD.winner_1

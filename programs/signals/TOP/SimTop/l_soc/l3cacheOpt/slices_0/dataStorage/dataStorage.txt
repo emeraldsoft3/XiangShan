@@ -1,0 +1,155 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bank_en_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bank_en_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bank_en_2
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bank_en_3
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bank_en_4
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bank_en_5
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bank_en_6
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.bank_en_7
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.clock
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.debug_stack_used [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sinkC_waddr_bits_beat
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sinkC_waddr_bits_noop
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sinkC_waddr_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sinkC_waddr_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sinkC_waddr_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sinkC_waddr_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sinkC_wdata_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sinkD_waddr_bits_beat
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sinkD_waddr_bits_noop
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sinkD_waddr_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sinkD_waddr_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sinkD_waddr_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sinkD_waddr_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sinkD_wdata_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceC_raddr_bits_beat
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceC_raddr_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceC_raddr_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceC_raddr_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceC_raddr_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceC_rdata_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceD_raddr_bits_beat
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceD_raddr_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceD_raddr_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceD_raddr_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceD_raddr_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceD_rdata_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceD_waddr_bits_beat
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceD_waddr_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceD_waddr_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceD_waddr_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceD_waddr_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.io_sourceD_wdata_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.reset
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_0_bankEn [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_0_bankSel [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_0_bankSum [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_0_data_0 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_0_data_1 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_0_data_2 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_0_data_3 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_0_data_4 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_0_data_5 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_0_data_6 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_0_data_7 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_0_index [511:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_0_wen
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_1_bankEn [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_1_bankSel [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_1_bankSum [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_1_data_0 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_1_data_1 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_1_data_2 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_1_data_3 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_1_data_4 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_1_data_5 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_1_data_6 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_1_data_7 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_1_index [511:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_1_wen
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_2_bankEn [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_2_bankSel [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_2_bankSum [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_2_data_0 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_2_data_1 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_2_data_2 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_2_data_3 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_2_data_4 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_2_data_5 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_2_data_6 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_2_data_7 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_2_index [511:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_2_wen
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_3_bankEn [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_3_bankSel [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_3_bankSum [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_3_data_0 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_3_data_1 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_3_data_2 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_3_data_3 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_3_data_4 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_3_data_5 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_3_data_6 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_3_data_7 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_3_index [511:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_3_wen
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_4_bankEn [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_4_bankSel [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_4_bankSum [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_4_data_0 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_4_data_1 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_4_data_2 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_4_data_3 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_4_data_4 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_4_data_5 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_4_data_6 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_4_data_7 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_4_index [511:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_4_wen
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_5_bankEn [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_5_bankSel [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_5_bankSum [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_5_data_0 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_5_data_1 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_5_data_2 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_5_data_3 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_5_data_4 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_5_data_5 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_5_data_6 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_5_data_7 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_5_index [511:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_5_wen
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_6_bankEn [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_6_bankSel [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_6_bankSum [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_6_data_0 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_6_data_1 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_6_data_2 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_6_data_3 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_6_data_4 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_6_data_5 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_6_data_6 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_6_data_7 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_6_index [511:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_6_wen
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_7_bankEn [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_7_bankSel [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_7_bankSum [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_7_data_0 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_7_data_1 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_7_data_2 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_7_data_3 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_7_data_4 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_7_data_5 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_7_data_6 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_7_data_7 [63:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_7_index [511:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sel_req_7_wen
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sinkC_req_bankEn [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sinkC_req_bankSum [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sinkD_wreq_bankEn [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sinkD_wreq_bankSum [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sourceD_rreq_bankEn [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sourceD_rreq_bankSum [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sourceD_wreq_bankEn [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.dataStorage.sourceD_wreq_bankSum [7:0]

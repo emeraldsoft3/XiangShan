@@ -27,6 +27,7 @@ test_run_dir/*
 *.twr
 *.twx
 *.unroutes
+*.vcd
 *.ut
 *.xpi
 *.xst

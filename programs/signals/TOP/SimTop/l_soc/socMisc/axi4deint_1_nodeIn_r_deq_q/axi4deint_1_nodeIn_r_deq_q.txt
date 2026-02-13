@@ -1,0 +1,26 @@
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.clock
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.do_deq
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.do_enq
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.empty
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.full
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.io_deq_bits_data [63:0]
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.io_deq_bits_echo_tl_state_size [3:0]
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.io_deq_bits_echo_tl_state_source [2:0]
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.io_deq_bits_id [2:0]
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.io_deq_bits_last
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.io_deq_bits_resp [1:0]
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.io_deq_ready
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.io_deq_valid
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.io_enq_bits_data [63:0]
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.io_enq_bits_echo_tl_state_size [3:0]
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.io_enq_bits_echo_tl_state_source [2:0]
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.io_enq_bits_id [2:0]
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.io_enq_bits_last
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.io_enq_bits_resp [1:0]
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.io_enq_ready
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.io_enq_valid
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.maybe_full
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.ptr_match
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.reset
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.wrap
+TOP.SimTop.l_soc.socMisc.axi4deint_1_nodeIn_r_deq_q.wrap_1

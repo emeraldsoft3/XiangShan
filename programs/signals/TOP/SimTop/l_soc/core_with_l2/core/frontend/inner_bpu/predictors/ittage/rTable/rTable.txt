@@ -1,0 +1,106 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_req_pointer_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_req_pointer_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_req_pointer_2 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_resp_hit_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_resp_hit_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_resp_hit_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_resp_region_0 [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_resp_region_1 [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_resp_region_2 [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_update_hit_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_update_hit_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_update_pointer_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_update_pointer_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_update_region_0 [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_update_region_1 [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_write_pointer [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_write_region [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.io_write_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_0_region [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_10_region [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_10_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_11_region [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_11_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_12_region [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_12_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_13_region [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_13_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_14_region [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_14_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_15_region [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_15_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_1_region [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_2_region [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_3_region [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_4_region [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_5_region [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_6_region [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_6_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_7_region [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_7_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_8_region [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_8_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_9_region [29:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.regions_9_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.state_reg [14:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_bypass
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_bypass_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_1_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_1_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_1_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_1_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_1_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_1_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_1_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_1_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_1_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_1_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_1_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_1_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_1_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_1_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_1_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_1_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.u_total_hits_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_pointer [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_total_hits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_total_hits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_total_hits_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_total_hits_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_total_hits_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_total_hits_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_total_hits_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_total_hits_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_total_hits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_total_hits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_total_hits_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_total_hits_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_total_hits_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_total_hits_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_total_hits_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.rTable.w_total_hits_9

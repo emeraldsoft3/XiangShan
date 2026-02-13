@@ -1,0 +1,347 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_beu_int_out_0
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_beu_local_int_source_out_0
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_a_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_a_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_a_bits_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_d_bits_sink
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_d_bits_source [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_in_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_a_bits_address [29:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_a_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_a_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_a_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_a_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_d_bits_sink
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_d_bits_size [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_d_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_buffers_out_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_clint_int_in_0
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_clint_int_in_1
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_clint_int_out_0
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_clint_int_out_1
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_debug_int_in_0
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_debug_int_out_0
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_i_mmio_buffer_in_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_i_mmio_buffer_in_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_i_mmio_buffer_in_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_i_mmio_buffer_in_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_i_mmio_buffer_in_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_i_mmio_buffer_in_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_i_mmio_buffer_in_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_i_mmio_buffer_in_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_i_mmio_buffer_in_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_i_mmio_buffer_in_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_i_mmio_buffer_in_d_bits_sink
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_i_mmio_buffer_in_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_i_mmio_buffer_in_d_bits_source
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_i_mmio_buffer_in_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_i_mmio_buffer_in_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_a_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_a_bits_echo_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_a_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_a_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_a_bits_user_needHint
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_a_bits_user_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_a_bits_user_vaddr [43:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_b_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_b_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_b_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_b_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_b_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_b_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_b_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_b_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_b_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_b_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_c_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_c_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_c_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_c_bits_echo_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_c_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_c_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_c_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_c_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_c_bits_user_needHint
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_c_bits_user_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_c_bits_user_vaddr [43:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_c_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_c_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_d_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_d_bits_echo_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_d_bits_sink [8:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_d_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_e_bits_sink [8:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_e_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_0_e_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_a_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_a_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_a_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_a_bits_user_needHint
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_a_bits_user_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_d_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_d_bits_sink [8:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_d_bits_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_logger_in_1_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_a_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_a_bits_echo_blockisdirty
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_a_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_a_bits_source [8:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_b_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_b_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_b_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_b_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_b_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_b_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_b_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_b_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_b_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_c_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_c_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_c_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_c_bits_echo_blockisdirty
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_c_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_c_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_c_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_c_bits_source [8:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_c_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_c_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_d_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_d_bits_echo_blockisdirty
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_d_bits_sink [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_d_bits_source [8:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_e_bits_sink [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_e_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_memory_port_out_e_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_a_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_a_bits_mask [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_a_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_d_bits_data [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_d_bits_sink
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_d_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_mmio_port_out_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_nmi_int_in_0
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_nmi_int_in_1
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_nmi_int_out_0
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_nmi_int_out_1
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_plic_int_in_0_0
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_plic_int_in_1_0
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_plic_int_out_0_0
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_plic_int_out_1_0
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_a_bits_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_a_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_a_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_a_bits_mask [31:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_a_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_a_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_a_bits_user_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_d_bits_data [255:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_d_bits_denied
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_d_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_d_bits_sink [8:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_d_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_d_bits_source [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_d_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.auto_inner_ptw_to_l2_buffer_in_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.clock
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_hartIsInReset
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_cpu_critical_error_fromCore
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_cpu_critical_error_toTile
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_cpu_halt_fromCore
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_cpu_halt_toTile
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_hartId_fromTile [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_hartId_toCore [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_traceCoreInterface_fromCore_fromEncoder_REG_enable
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_traceCoreInterface_fromCore_fromEncoder_REG_stall
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_traceCoreInterface_toTile_toEncoder_groups_0_bits_iaddr_r [49:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_traceCoreInterface_toTile_toEncoder_groups_0_bits_ilastsize_r
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_traceCoreInterface_toTile_toEncoder_groups_0_bits_iretire_REG [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_traceCoreInterface_toTile_toEncoder_groups_0_bits_itype_REG [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_traceCoreInterface_toTile_toEncoder_groups_1_bits_iaddr_r [49:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_traceCoreInterface_toTile_toEncoder_groups_1_bits_ilastsize_r
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_traceCoreInterface_toTile_toEncoder_groups_1_bits_iretire_REG [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_traceCoreInterface_toTile_toEncoder_groups_1_bits_itype_REG [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_traceCoreInterface_toTile_toEncoder_groups_2_bits_iaddr_r [49:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_traceCoreInterface_toTile_toEncoder_groups_2_bits_ilastsize_r
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_traceCoreInterface_toTile_toEncoder_groups_2_bits_iretire_REG [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_traceCoreInterface_toTile_toEncoder_groups_2_bits_itype_REG [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_traceCoreInterface_toTile_toEncoder_priv_r [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_traceCoreInterface_toTile_toEncoder_trap_r_cause [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_io_traceCoreInterface_toTile_toEncoder_trap_r_tval [49:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_beu_errors_dcache_ecc_error_bits [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_beu_errors_dcache_ecc_error_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.io_beu_errors_icache_ecc_error_bits [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_beu_errors_icache_ecc_error_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.io_clintTime_fromTile_bits [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_clintTime_fromTile_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.io_clintTime_toCore_bits [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_clintTime_toCore_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.io_cpu_critical_error_fromCore
+TOP.SimTop.l_soc.core_with_l2.l2top.io_cpu_critical_error_toTile
+TOP.SimTop.l_soc.core_with_l2.l2top.io_cpu_halt_fromCore
+TOP.SimTop.l_soc.core_with_l2.l2top.io_cpu_halt_toTile
+TOP.SimTop.l_soc.core_with_l2.l2top.io_debugTopDown_l2MissMatch
+TOP.SimTop.l_soc.core_with_l2.l2top.io_debugTopDown_robHeadPaddr_bits [35:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_debugTopDown_robHeadPaddr_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.io_hartId_fromTile [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_hartId_toCore [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_hartIsInReset_resetInFrontend
+TOP.SimTop.l_soc.core_with_l2.l2top.io_hartIsInReset_toTile
+TOP.SimTop.l_soc.core_with_l2.l2top.io_l2Miss
+TOP.SimTop.l_soc.core_with_l2.l2top.io_l2_hint_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.io_l2_hint_bits_sourceId [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_l2_hint_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.io_l3Miss_fromTile
+TOP.SimTop.l_soc.core_with_l2.l2top.io_l3Miss_toCore
+TOP.SimTop.l_soc.core_with_l2.l2top.io_msiInfo_fromTile_bits_info [16:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_msiInfo_fromTile_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.io_msiInfo_toCore_bits_info [16:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_msiInfo_toCore_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_10_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_11_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_12_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_13_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_14_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_15_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_16_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_17_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_18_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_19_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_20_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_21_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_22_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_23_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_24_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_6_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_7_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_8_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_perfEvents_9_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_reset_vector_fromTile [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_reset_vector_toCore [47:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_fromEncoder_enable
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_fromEncoder_stall
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_groups_0_bits_iaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_groups_0_bits_ilastsize
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_groups_0_bits_iretire [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_groups_0_bits_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_groups_0_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_groups_1_bits_iaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_groups_1_bits_ilastsize
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_groups_1_bits_iretire [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_groups_1_bits_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_groups_1_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_groups_2_bits_iaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_groups_2_bits_ilastsize
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_groups_2_bits_iretire [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_groups_2_bits_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_groups_2_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_priv [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_trap_cause [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_fromCore_toEncoder_trap_tval [49:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_toTile_fromEncoder_enable
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_toTile_fromEncoder_stall
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_toTile_toEncoder_groups_0_bits_iaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_toTile_toEncoder_groups_0_bits_ilastsize
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_toTile_toEncoder_groups_0_bits_iretire [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_toTile_toEncoder_groups_0_bits_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_toTile_toEncoder_groups_1_bits_iaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_toTile_toEncoder_groups_1_bits_ilastsize
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_toTile_toEncoder_groups_1_bits_iretire [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_toTile_toEncoder_groups_1_bits_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_toTile_toEncoder_groups_2_bits_iaddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_toTile_toEncoder_groups_2_bits_ilastsize
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_toTile_toEncoder_groups_2_bits_iretire [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_toTile_toEncoder_groups_2_bits_itype [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_toTile_toEncoder_priv [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_toTile_toEncoder_trap_cause [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.io_traceCoreInterface_toTile_toEncoder_trap_tval [49:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.reset

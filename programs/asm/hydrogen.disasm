@@ -1,0 +1,32 @@
+
+elf/hydrogen_asm.elf:     file format elf64-littleriscv
+
+
+Disassembly of section .text:
+
+0000000080000000 <_start>:
+    80000000:	00008137          	lui	sp,0x8                 //these 3 instructions are initializing stack pointer, ignore these
+    80000004:	2105                	addiw	sp,sp,1              // Add immediate word: sp = sp + 1 = 0x8001
+    80000006:	0142                	slli	sp,sp,0x10         // Shift left logical immediate: sp = sp << 16  // Final sp = 0x80010000 (stack pointer setup, can be ignored)
+    80000008:	11111537          	lui	a0,0x11111               // Load 0x11111000 into a0 (likely for demo, unused)
+    8000000c:	1115051b          	addiw	a0,a0,273              // Add 273: a0 = 0x11111111 (demo value, unused)
+    80000010:	0001                	nop                      // No operation (3 times, for timing or padding)
+    80000012:	0001                	nop
+    80000014:	0001                	nop
+    80000016:	4281                	li	t0,0               //initialize loop variables  // Initialize t0 (counter) = 0
+    80000018:	4329                	li	t1,10                      // Initialize t1 (limit) = 10
+    8000001a:	4381                	li	t2,0                        // Initialize t2 (sum) = 0
+
+000000008000001c <loop>:
+    8000001c:	9396                	add	t2,t2,t0                        // sum = sum + counter
+    8000001e:	0285                	addi	t0,t0,1                         // counter = counter + 1
+    80000020:	fe62cee3          	blt	t0,t1,8000001c <loop>               // Branch if less than: if (counter < limit) goto loop // This computes sum = 0+1+2+...+9 = 45
+    80000024:	00080e37          	lui	t3,0x80                              // Load 0x80000 into t3 (upper bits)
+    80000028:	2e05                	addiw	t3,t3,1                          // Add 1: t3 = 0x80001
+    8000002a:	0e32                	slli	t3,t3,0xc                        // Shift left 12 bits: t3 = 0x80001000?
+    8000002c:	007e2023          	sw	t2,0(t3) # 80000 <_start-0x7ff80000>        // This stores result at memory address 0x80000
+    80000030:	333335b7          	lui	a1,0x33333                                 // Load 0x33333000 into a1
+    80000034:	3335859b          	addiw	a1,a1,819                                  // a1 = 0x33333333 (another demo value)
+
+0000000080000038 <halt>:
+    80000038:	a001                	j	80000038 <halt>                                 // Infinite jump to itself (halt)

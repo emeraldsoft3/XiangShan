@@ -1,0 +1,10 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_ptw_to_l2_buffer.nodeIn_d_q.ram_ext.Memory[0] [278:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_ptw_to_l2_buffer.nodeIn_d_q.ram_ext.Memory[1] [278:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_ptw_to_l2_buffer.nodeIn_d_q.ram_ext.R0_addr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_ptw_to_l2_buffer.nodeIn_d_q.ram_ext.R0_clk
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_ptw_to_l2_buffer.nodeIn_d_q.ram_ext.R0_data [278:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_ptw_to_l2_buffer.nodeIn_d_q.ram_ext.R0_en
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_ptw_to_l2_buffer.nodeIn_d_q.ram_ext.W0_addr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_ptw_to_l2_buffer.nodeIn_d_q.ram_ext.W0_clk
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_ptw_to_l2_buffer.nodeIn_d_q.ram_ext.W0_data [278:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_ptw_to_l2_buffer.nodeIn_d_q.ram_ext.W0_en

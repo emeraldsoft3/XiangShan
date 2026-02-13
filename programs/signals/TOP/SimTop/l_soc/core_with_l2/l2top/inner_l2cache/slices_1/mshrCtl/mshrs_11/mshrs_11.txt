@@ -1,0 +1,235 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.acquire_period [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.acquire_ts
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.clock
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.dirResult_hit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.dirResult_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.dirResult_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.dirResult_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.dirResult_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.dirResult_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.dirResult_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.dirResult_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.dirResult_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.dirResult_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.gotDirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.gotGrantData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.gotT
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_aMergeTask_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_aMergeTask_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_aMergeTask_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_aMergeTask_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_aMergeTask_bits_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_aMergeTask_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_dirResult_hit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_dirResult_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_dirResult_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_dirResult_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_dirResult_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_dirResult_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_dirResult_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_dirResult_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_dirResult_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_dirResult_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_state_s_acquire
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_state_s_pprobe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_state_s_probeack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_state_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_state_s_rprobe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_state_w_grant
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_state_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_state_w_grantlast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_state_w_pprobeackfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_state_w_pprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_state_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_state_w_rprobeackfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_state_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_task_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_task_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_task_needProbeAckData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_task_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_task_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_task_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_task_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_task_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_task_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_task_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_bits_task_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_alloc_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_id [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_blockRefill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_blockRefill_REG
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_blockRefill_REG_1
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_blockRefill_REG_2
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_dirHit
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_isAcqOrPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_isPrefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_meta_dirty_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_needRelease
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_bits_willFree
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_msInfo_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_nestedwbData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_nestedwb_c_set_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_nestedwb_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_nestedwb_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_replResp_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_replResp_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_replResp_bits_meta_dataErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_replResp_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_replResp_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_replResp_bits_meta_tagErr
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_replResp_bits_retry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_replResp_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_replResp_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_replResp_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_resps_sink_c_bits_last
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_resps_sink_c_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_resps_sink_c_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_resps_sink_c_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_resps_sink_d_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_resps_sink_d_bits_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_resps_sink_d_bits_last
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_resps_sink_d_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_resps_sink_d_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_resps_sink_d_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_status_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_status_bits_is_miss
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_status_bits_is_prefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_status_bits_metaTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_status_bits_needsRepl
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_status_bits_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_status_bits_reqTag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_status_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_status_bits_w_c_resp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_status_bits_w_c_resp_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_status_bits_will_free
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_status_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_aMergeTask_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_aMergeTask_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_aMergeTask_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_aMergeTask_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_aMergeTask_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_aMergeTask_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_aMergeTask_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_aMergeTask_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_aMergeTask_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_corrupt
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_dsWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_metaWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_meta_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_meta_clients
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_meta_dirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_meta_state [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_mshrId [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_mshrRetry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_readProbeDataDown
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_replTask
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_tagWen
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_useProbeData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_mainpipe_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_source_a_bits_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_source_a_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_source_a_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_source_a_bits_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_source_a_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_source_a_bits_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_source_a_bits_source [7:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_source_a_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_source_a_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_source_a_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_source_b_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_source_b_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_source_b_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_source_b_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_source_b_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.io_tasks_source_b_valid_0
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.mergeA
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.mp_grant_task_merge_task_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.mp_grant_task_merge_task_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.mp_grant_task_merge_task_r_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.mp_grant_task_merge_task_r_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.mp_grant_task_merge_task_r_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.mp_grant_task_merge_task_r_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.mp_grant_task_merge_task_r_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.mp_grant_task_mp_grant_meta_entry_accessed
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.mp_grant_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.mp_probeack_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.mp_release_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.nestedwb_match
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.probeDirty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.probeGotN
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.probe_period [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.probe_ts
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.release_period [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.release_ts
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_acquire
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_acquirePerm
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_channel [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_get
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_needProbeAckData
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_needT
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_off [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_opcode [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_param [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_prefetch
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_promoteT
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_reqSource [4:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_size [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_sourceId [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.req_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.reset
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_s_acquire
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_s_cmometaw
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_s_cmoresp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_s_pprobe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_s_probeack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_s_refill
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_s_release
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_s_retry
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_s_rprobe
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_w_grant
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_w_grantfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_w_grantlast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_w_pprobeackfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_w_pprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_w_releaseack
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_w_replResp
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_w_rprobeackfirst
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.state_w_rprobeacklast
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.timer [63:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.mshrs_11.will_free

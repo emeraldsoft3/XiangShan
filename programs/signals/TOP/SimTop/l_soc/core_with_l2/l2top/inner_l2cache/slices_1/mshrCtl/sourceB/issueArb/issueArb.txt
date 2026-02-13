@@ -1,0 +1,37 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.chosenOH [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.clock
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_0_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_0_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_0_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_0_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_0_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_0_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_1_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_1_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_1_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_1_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_1_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_1_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_2_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_2_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_2_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_2_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_2_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_2_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_3_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_3_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_3_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_3_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_3_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_in_3_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_out_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_out_bits_param [1:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_out_bits_set [6:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_out_bits_tag [33:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_out_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.io_out_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.pendingMask [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.reset
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.rrGrantMask [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.rrSelOH [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_1.mshrCtl.sourceB.issueArb.valids [3:0]

@@ -1,0 +1,45 @@
+TOP.SimTop.l_soc.socMisc.fixer.a_first_counter
+TOP.SimTop.l_soc.socMisc.fixer.a_id
+TOP.SimTop.l_soc.socMisc.fixer.auto_in_a_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_in_a_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_in_a_bits_mask [31:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_in_a_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_in_a_bits_source [1:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_in_a_ready
+TOP.SimTop.l_soc.socMisc.fixer.auto_in_a_valid
+TOP.SimTop.l_soc.socMisc.fixer.auto_in_d_bits_corrupt
+TOP.SimTop.l_soc.socMisc.fixer.auto_in_d_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_in_d_bits_denied
+TOP.SimTop.l_soc.socMisc.fixer.auto_in_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_in_d_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_in_d_bits_source [1:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_in_d_ready
+TOP.SimTop.l_soc.socMisc.fixer.auto_in_d_valid
+TOP.SimTop.l_soc.socMisc.fixer.auto_out_a_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_out_a_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_out_a_bits_mask [31:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_out_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_out_a_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_out_a_bits_source [1:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_out_a_ready
+TOP.SimTop.l_soc.socMisc.fixer.auto_out_a_valid
+TOP.SimTop.l_soc.socMisc.fixer.auto_out_d_bits_corrupt
+TOP.SimTop.l_soc.socMisc.fixer.auto_out_d_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_out_d_bits_denied
+TOP.SimTop.l_soc.socMisc.fixer.auto_out_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_out_d_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_out_d_bits_source [1:0]
+TOP.SimTop.l_soc.socMisc.fixer.auto_out_d_ready
+TOP.SimTop.l_soc.socMisc.fixer.auto_out_d_valid
+TOP.SimTop.l_soc.socMisc.fixer.clock
+TOP.SimTop.l_soc.socMisc.fixer.d_first_counter
+TOP.SimTop.l_soc.socMisc.fixer.flight_0
+TOP.SimTop.l_soc.socMisc.fixer.flight_1
+TOP.SimTop.l_soc.socMisc.fixer.flight_2
+TOP.SimTop.l_soc.socMisc.fixer.flight_3
+TOP.SimTop.l_soc.socMisc.fixer.nodeIn_a_ready
+TOP.SimTop.l_soc.socMisc.fixer.reset
+TOP.SimTop.l_soc.socMisc.fixer.stall
+TOP.SimTop.l_soc.socMisc.fixer.stalls_id
+TOP.SimTop.l_soc.socMisc.fixer.stalls_id_1

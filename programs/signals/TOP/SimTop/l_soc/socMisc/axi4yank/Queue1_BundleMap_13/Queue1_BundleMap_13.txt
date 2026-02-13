@@ -1,0 +1,13 @@
+TOP.SimTop.l_soc.socMisc.axi4yank.Queue1_BundleMap_13.clock
+TOP.SimTop.l_soc.socMisc.axi4yank.Queue1_BundleMap_13.do_enq
+TOP.SimTop.l_soc.socMisc.axi4yank.Queue1_BundleMap_13.full
+TOP.SimTop.l_soc.socMisc.axi4yank.Queue1_BundleMap_13.io_deq_bits_tl_state_size [3:0]
+TOP.SimTop.l_soc.socMisc.axi4yank.Queue1_BundleMap_13.io_deq_bits_tl_state_source [5:0]
+TOP.SimTop.l_soc.socMisc.axi4yank.Queue1_BundleMap_13.io_deq_ready
+TOP.SimTop.l_soc.socMisc.axi4yank.Queue1_BundleMap_13.io_deq_valid
+TOP.SimTop.l_soc.socMisc.axi4yank.Queue1_BundleMap_13.io_enq_bits_tl_state_size [3:0]
+TOP.SimTop.l_soc.socMisc.axi4yank.Queue1_BundleMap_13.io_enq_bits_tl_state_source [5:0]
+TOP.SimTop.l_soc.socMisc.axi4yank.Queue1_BundleMap_13.io_enq_ready
+TOP.SimTop.l_soc.socMisc.axi4yank.Queue1_BundleMap_13.io_enq_valid
+TOP.SimTop.l_soc.socMisc.axi4yank.Queue1_BundleMap_13.ram [9:0]
+TOP.SimTop.l_soc.socMisc.axi4yank.Queue1_BundleMap_13.reset

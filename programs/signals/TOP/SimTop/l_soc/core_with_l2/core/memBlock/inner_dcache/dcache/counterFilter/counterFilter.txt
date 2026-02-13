@@ -1,0 +1,89 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.canAlloc_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.canAlloc_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.canAlloc_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.clock
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.deqPtrExt_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.deqPtrExt_0_new_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.deqPtrExt_0_reverse_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.deqPtrExt_0_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.deqPtrExt_1_new_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.deqPtrExt_1_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.deqPtrExt_2_new_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.deqPtrExt_2_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.enqPtrExt_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.enqPtrExt_0_new_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.enqPtrExt_0_reverse_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.enqPtrExt_0_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.enqPtrExt_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.enqPtrExt_1_new_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.enqPtrExt_1_reverse_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.enqPtrExt_1_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.enqPtrExt_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.enqPtrExt_2_new_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.enqPtrExt_2_reverse_flag
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.enqPtrExt_2_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_0_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_0_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_10_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_10_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_11_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_11_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_1_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_1_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_2_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_2_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_3_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_3_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_4_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_4_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_5_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_5_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_6_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_6_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_7_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_7_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_8_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_8_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_9_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.entries_9_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.index [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_ld_in_0_bits_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_ld_in_0_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_ld_in_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_ld_in_1_bits_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_ld_in_1_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_ld_in_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_ld_in_2_bits_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_ld_in_2_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_ld_in_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_query_0_req_bits_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_query_0_req_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_query_0_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_query_0_resp
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_query_0_resp_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_query_1_req_bits_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_query_1_req_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_query_1_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_query_1_resp
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_query_1_resp_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_query_2_req_bits_idx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_query_2_req_bits_way [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_query_2_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_query_2_resp
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.io_query_2_resp_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.last3CycleAlloc [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.last3CycleAlloc_REG [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.last3CycleAlloc_REG_1 [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.reset
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.valids_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.valids_1
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.valids_10
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.valids_11
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.valids_2
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.valids_3
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.valids_4
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.valids_5
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.valids_6
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.valids_7
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.valids_8
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.counterFilter.valids_9

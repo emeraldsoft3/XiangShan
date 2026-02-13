@@ -1,0 +1,43 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.clock
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.do_enq
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.full
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_bits_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_bits_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_bits_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_bits_fromCmoHelper
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_bits_fromProbeHelper
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_bits_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_bits_needProbeAckData
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_bits_off [5:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_bits_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_bits_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_bits_preferCache
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_bits_reqSource [4:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_bits_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_bits_source [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_bits_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_deq_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_bits_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_bits_channel [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_bits_dirty
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_bits_fromCmoHelper
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_bits_fromProbeHelper
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_bits_isHit
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_bits_mask [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_bits_needProbeAckData
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_bits_off [5:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_bits_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_bits_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_bits_preferCache
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_bits_reqSource [4:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_bits_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_bits_source [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_bits_tag [31:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_ready_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.io_enq_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.ram [116:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.a_req_buffer.output_pipe_q.reset

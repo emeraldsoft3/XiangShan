@@ -1,0 +1,6 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceE.io_e_bits_sink [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceE.io_e_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceE.io_e_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceE.io_task_bits_sink [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceE.io_task_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sourceE.io_task_valid

@@ -1,0 +1,30 @@
+TOP.SimTop.l_soc.socMisc.cork.q.clock
+TOP.SimTop.l_soc.socMisc.cork.q.do_deq
+TOP.SimTop.l_soc.socMisc.cork.q.do_enq
+TOP.SimTop.l_soc.socMisc.cork.q.empty
+TOP.SimTop.l_soc.socMisc.cork.q.full
+TOP.SimTop.l_soc.socMisc.cork.q.io_deq_bits_corrupt
+TOP.SimTop.l_soc.socMisc.cork.q.io_deq_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.cork.q.io_deq_bits_denied
+TOP.SimTop.l_soc.socMisc.cork.q.io_deq_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.cork.q.io_deq_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.cork.q.io_deq_bits_sink [2:0]
+TOP.SimTop.l_soc.socMisc.cork.q.io_deq_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.cork.q.io_deq_bits_source [3:0]
+TOP.SimTop.l_soc.socMisc.cork.q.io_deq_ready
+TOP.SimTop.l_soc.socMisc.cork.q.io_deq_valid
+TOP.SimTop.l_soc.socMisc.cork.q.io_enq_bits_corrupt
+TOP.SimTop.l_soc.socMisc.cork.q.io_enq_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.cork.q.io_enq_bits_denied
+TOP.SimTop.l_soc.socMisc.cork.q.io_enq_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.cork.q.io_enq_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.cork.q.io_enq_bits_sink [2:0]
+TOP.SimTop.l_soc.socMisc.cork.q.io_enq_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.cork.q.io_enq_bits_source [3:0]
+TOP.SimTop.l_soc.socMisc.cork.q.io_enq_ready
+TOP.SimTop.l_soc.socMisc.cork.q.io_enq_valid
+TOP.SimTop.l_soc.socMisc.cork.q.maybe_full
+TOP.SimTop.l_soc.socMisc.cork.q.ptr_match
+TOP.SimTop.l_soc.socMisc.cork.q.reset
+TOP.SimTop.l_soc.socMisc.cork.q.wrap
+TOP.SimTop.l_soc.socMisc.cork.q.wrap_1

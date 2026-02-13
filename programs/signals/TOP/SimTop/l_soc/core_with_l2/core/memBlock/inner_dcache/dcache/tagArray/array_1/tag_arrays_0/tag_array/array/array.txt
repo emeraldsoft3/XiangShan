@@ -1,0 +1,9 @@
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_1.tag_arrays_0.tag_array.array.RW0_addr [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_1.tag_arrays_0.tag_array.array.RW0_clk
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_1.tag_arrays_0.tag_array.array.RW0_en
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_1.tag_arrays_0.tag_array.array.RW0_rdata [85:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_1.tag_arrays_0.tag_array.array.RW0_wdata [85:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_1.tag_arrays_0.tag_array.array.RW0_wmask [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_1.tag_arrays_0.tag_array.array.RW0_wmode
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_1.tag_arrays_0.tag_array.array.array_RW0_rdata_MPORT_wmask_0
+TOP.SimTop.l_soc.core_with_l2.core.memBlock.inner_dcache.dcache.tagArray.array_1.tag_arrays_0.tag_array.array.array_RW0_rdata_MPORT_wmask_1

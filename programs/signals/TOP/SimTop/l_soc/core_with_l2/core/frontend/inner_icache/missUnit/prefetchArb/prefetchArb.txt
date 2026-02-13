@@ -1,0 +1,46 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_0_bits_acquire_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_0_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_0_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_1_bits_acquire_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_1_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_1_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_2_bits_acquire_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_2_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_2_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_3_bits_acquire_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_3_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_3_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_4_bits_acquire_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_4_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_4_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_5_bits_acquire_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_5_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_5_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_6_bits_acquire_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_6_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_6_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_6_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_7_bits_acquire_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_7_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_7_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_7_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_8_bits_acquire_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_8_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_8_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_8_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_9_bits_acquire_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_9_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_9_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_in_9_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_out_bits_acquire_address [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_out_bits_acquire_source [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_out_bits_vSetIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_out_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_out_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_icache.missUnit.prefetchArb.io_sel [3:0]

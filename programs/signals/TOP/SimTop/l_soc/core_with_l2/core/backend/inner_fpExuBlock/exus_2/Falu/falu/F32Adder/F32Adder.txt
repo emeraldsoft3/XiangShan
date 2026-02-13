@@ -1,0 +1,67 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.EOP
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.Efp_a_is_all_one
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.Efp_a_is_zero
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.Efp_b_is_all_one
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.Efp_b_is_zero
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fadd0_result0_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fadd0_result0_r_1 [16:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fadd0_result1_r [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fadd0_result1_r_1 [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.float_adder_result_r [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_aFix [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_a_16_or_32 [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_a_is_NAN
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_a_is_SNAN
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_a_is_infinite
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_a_is_zero
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_a_to32 [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_bFix [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_b_16_or_32 [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_b_exponent_is_equal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_b_is_NAN
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_b_is_equal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_b_is_greater
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_b_is_infinite
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_b_is_less
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_b_is_zero
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_b_significand_is_equal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_b_significand_is_greater
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.fp_b_to32 [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.in_NAN [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.io_fflags [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.io_fflags_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.io_fflags_r_1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.io_fire
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.io_fp_a [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.io_fp_aIsFpCanonicalNAN
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.io_fp_b [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.io_fp_bIsFpCanonicalNAN
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.io_fp_c [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.io_fp_c_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.io_fp_c_r_1 [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.io_fp_format [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.io_is_sub
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.io_op_code [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.io_round_mode [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.is_far_path_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.is_feq
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.is_fle
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.is_fleq
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.is_flt
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.is_fltq
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.is_fmaxm
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.is_fminm
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.is_max
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.is_min
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.out_NAN [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.out_fp32_reg [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.out_infinite_sign_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.r_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.r_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.r_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.r_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.r_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus_2.Falu.falu.F32Adder.res_is_f32_reg

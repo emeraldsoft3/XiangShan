@@ -1,0 +1,26 @@
+Comparision between clear test .c and j.c 
+
+
+TOP.SimTop.difftest_logCtrl_end[63:0]
+clear_test = 9C40 static
+j = C350
+
+
+
+🔍 Understanding the difftest_logCtrl_end Values
+The signal TOP.SimTop.difftest_logCtrl_end[63:0] is a simulation control variable used by XiangShan's difftest (differential testing) framework. Its value typically indicates a cycle count or instruction count at which the simulation or logging was configured to stop.
+
+The hex values you found convert to the following decimal numbers:
+
+C350 (hex) = 50,000 (decimal)
+
+9C40 (hex) = 40,000 (decimal)
+
+
+
+
+TOP.SimTop.timer[63:0] keeps track of debug time, and when it is equal to TOP.SimTop.difftest_logCtrl_end[63:0]
+the program ends after 2 cycles of rtc counter
+
+
+TOP.SimTop.difftest_timer[63:0] and TOP.SimTop.timer[63:0] looks same

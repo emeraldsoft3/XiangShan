@@ -1,0 +1,82 @@
+TOP.SimTop.l_simMMIO.flash.auto_in_ar_bits_addr [28:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_ar_bits_burst [1:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_ar_bits_cache [3:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_ar_bits_id [1:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_ar_bits_len [7:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_ar_bits_lock
+TOP.SimTop.l_simMMIO.flash.auto_in_ar_bits_prot [2:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_ar_bits_qos [3:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_ar_bits_size [2:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_ar_ready
+TOP.SimTop.l_simMMIO.flash.auto_in_ar_valid
+TOP.SimTop.l_simMMIO.flash.auto_in_aw_bits_addr [28:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_aw_bits_burst [1:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_aw_bits_cache [3:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_aw_bits_id [1:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_aw_bits_len [7:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_aw_bits_lock
+TOP.SimTop.l_simMMIO.flash.auto_in_aw_bits_prot [2:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_aw_bits_qos [3:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_aw_bits_size [2:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_aw_ready
+TOP.SimTop.l_simMMIO.flash.auto_in_aw_valid
+TOP.SimTop.l_simMMIO.flash.auto_in_b_bits_id [1:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_b_bits_resp [1:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_b_ready
+TOP.SimTop.l_simMMIO.flash.auto_in_b_valid
+TOP.SimTop.l_simMMIO.flash.auto_in_r_bits_data [63:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_r_bits_id [1:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_r_bits_last
+TOP.SimTop.l_simMMIO.flash.auto_in_r_bits_resp [1:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_r_ready
+TOP.SimTop.l_simMMIO.flash.auto_in_r_valid
+TOP.SimTop.l_simMMIO.flash.auto_in_w_bits_data [63:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_w_bits_last
+TOP.SimTop.l_simMMIO.flash.auto_in_w_bits_strb [7:0]
+TOP.SimTop.l_simMMIO.flash.auto_in_w_ready
+TOP.SimTop.l_simMMIO.flash.auto_in_w_valid
+TOP.SimTop.l_simMMIO.flash.clock
+TOP.SimTop.l_simMMIO.flash.len_hold_data [7:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_ar_bits_addr [28:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_ar_bits_burst [1:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_ar_bits_cache [3:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_ar_bits_id [1:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_ar_bits_len [7:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_ar_bits_lock
+TOP.SimTop.l_simMMIO.flash.nodeIn_ar_bits_prot [2:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_ar_bits_qos [3:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_ar_bits_size [2:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_ar_ready
+TOP.SimTop.l_simMMIO.flash.nodeIn_ar_valid
+TOP.SimTop.l_simMMIO.flash.nodeIn_aw_bits_addr [28:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_aw_bits_burst [1:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_aw_bits_cache [3:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_aw_bits_id [1:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_aw_bits_len [7:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_aw_bits_lock
+TOP.SimTop.l_simMMIO.flash.nodeIn_aw_bits_prot [2:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_aw_bits_qos [3:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_aw_bits_size [2:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_aw_ready
+TOP.SimTop.l_simMMIO.flash.nodeIn_aw_valid
+TOP.SimTop.l_simMMIO.flash.nodeIn_b_bits_id [1:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_b_bits_id_r [1:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_b_bits_resp [1:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_b_ready
+TOP.SimTop.l_simMMIO.flash.nodeIn_b_valid
+TOP.SimTop.l_simMMIO.flash.nodeIn_r_bits_data [63:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_r_bits_id [1:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_r_bits_id_r [1:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_r_bits_last
+TOP.SimTop.l_simMMIO.flash.nodeIn_r_bits_resp [1:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_r_ready
+TOP.SimTop.l_simMMIO.flash.nodeIn_r_valid
+TOP.SimTop.l_simMMIO.flash.nodeIn_w_bits_data [63:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_w_bits_last
+TOP.SimTop.l_simMMIO.flash.nodeIn_w_bits_strb [7:0]
+TOP.SimTop.l_simMMIO.flash.nodeIn_w_ready
+TOP.SimTop.l_simMMIO.flash.nodeIn_w_valid
+TOP.SimTop.l_simMMIO.flash.raddr_hold_data [28:0]
+TOP.SimTop.l_simMMIO.flash.readBeatCnt [7:0]
+TOP.SimTop.l_simMMIO.flash.reset
+TOP.SimTop.l_simMMIO.flash.state [1:0]

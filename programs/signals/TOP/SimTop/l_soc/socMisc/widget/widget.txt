@@ -1,0 +1,136 @@
+TOP.SimTop.l_soc.socMisc.widget.auto_in_a_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_in_a_bits_corrupt
+TOP.SimTop.l_soc.socMisc.widget.auto_in_a_bits_data [63:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_in_a_bits_mask [7:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_in_a_bits_param [2:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_in_a_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_in_a_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_in_a_ready
+TOP.SimTop.l_soc.socMisc.widget.auto_in_a_valid
+TOP.SimTop.l_soc.socMisc.widget.auto_in_d_bits_corrupt
+TOP.SimTop.l_soc.socMisc.widget.auto_in_d_bits_data [63:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_in_d_bits_denied
+TOP.SimTop.l_soc.socMisc.widget.auto_in_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_in_d_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_in_d_bits_sink
+TOP.SimTop.l_soc.socMisc.widget.auto_in_d_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_in_d_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_in_d_ready
+TOP.SimTop.l_soc.socMisc.widget.auto_in_d_valid
+TOP.SimTop.l_soc.socMisc.widget.auto_out_a_bits_address [47:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_out_a_bits_corrupt
+TOP.SimTop.l_soc.socMisc.widget.auto_out_a_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_out_a_bits_mask [31:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_out_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_out_a_bits_param [2:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_out_a_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_out_a_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_out_a_ready
+TOP.SimTop.l_soc.socMisc.widget.auto_out_a_valid
+TOP.SimTop.l_soc.socMisc.widget.auto_out_d_bits_corrupt
+TOP.SimTop.l_soc.socMisc.widget.auto_out_d_bits_data [255:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_out_d_bits_denied
+TOP.SimTop.l_soc.socMisc.widget.auto_out_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_out_d_bits_param [1:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_out_d_bits_sink
+TOP.SimTop.l_soc.socMisc.widget.auto_out_d_bits_size [2:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_out_d_bits_source [2:0]
+TOP.SimTop.l_soc.socMisc.widget.auto_out_d_ready
+TOP.SimTop.l_soc.socMisc.widget.auto_out_d_valid
+TOP.SimTop.l_soc.socMisc.widget.clock
+TOP.SimTop.l_soc.socMisc.widget.corrupt_out
+TOP.SimTop.l_soc.socMisc.widget.corrupt_reg
+TOP.SimTop.l_soc.socMisc.widget.count [1:0]
+TOP.SimTop.l_soc.socMisc.widget.enable_0
+TOP.SimTop.l_soc.socMisc.widget.enable_1
+TOP.SimTop.l_soc.socMisc.widget.enable_2
+TOP.SimTop.l_soc.socMisc.widget.last
+TOP.SimTop.l_soc.socMisc.widget.nodeIn_a_ready
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_data_masked_enable_0
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_data_masked_enable_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_data_masked_enable_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_data_rdata_0 [63:0]
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_data_rdata_1 [63:0]
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_data_rdata_2 [63:0]
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_data_rdata_written_once
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_masked_enable_0
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_masked_enable_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_masked_enable_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_rdata_0 [7:0]
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_rdata_1 [7:0]
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_rdata_2 [7:0]
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_rdata_written_once
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_0_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_0_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_10_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_10_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_11_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_11_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_12_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_12_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_13_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_13_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_14_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_14_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_15_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_15_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_1_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_1_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_2_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_2_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_3_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_3_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_4_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_4_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_5_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_5_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_6_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_6_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_7_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_7_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_8_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_8_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_9_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_9_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_size
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_0_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_0_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_1_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_1_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_2_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_2_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_3_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_3_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_4_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_4_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_5_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_5_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_6_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_6_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_7_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_7_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_size
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_sub_0_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_sub_0_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_sub_1_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_sub_1_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_sub_2_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_sub_2_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_sub_3_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_sub_3_2
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_sub_size
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_sub_sub_0_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_sub_sub_1_1
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_sub_sub_size
+TOP.SimTop.l_soc.socMisc.widget.nodeOut_a_bits_mask_sub_sub_sub_sub_sub_0_1
+TOP.SimTop.l_soc.socMisc.widget.repeat_count [1:0]
+TOP.SimTop.l_soc.socMisc.widget.repeat_first
+TOP.SimTop.l_soc.socMisc.widget.repeat_last
+TOP.SimTop.l_soc.socMisc.widget.repeat_sel_hold_r [1:0]
+TOP.SimTop.l_soc.socMisc.widget.repeat_sel_sel_sources_0 [1:0]
+TOP.SimTop.l_soc.socMisc.widget.repeat_sel_sel_sources_1 [1:0]
+TOP.SimTop.l_soc.socMisc.widget.repeat_sel_sel_sources_2 [1:0]
+TOP.SimTop.l_soc.socMisc.widget.repeat_sel_sel_sources_3 [1:0]
+TOP.SimTop.l_soc.socMisc.widget.repeat_sel_sel_sources_4 [1:0]
+TOP.SimTop.l_soc.socMisc.widget.reset

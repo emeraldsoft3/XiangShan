@@ -1,0 +1,41 @@
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.DMCONTROLNxt_hartreset
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.DMCONTROLReg_dmactive
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.DMCONTROLReg_haltreq
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.DMCONTROLReg_hartreset
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.DMCONTROLReg_hartsello [9:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.DMCONTROLReg_ndmreset
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.DMCONTROLWrData_clrresethaltreq
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.DMCONTROLWrData_setresethaltreq
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.auto_dmi_in_a_bits_address [6:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.auto_dmi_in_a_bits_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.auto_dmi_in_a_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.auto_dmi_in_a_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.auto_dmi_in_a_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.auto_dmi_in_d_bits_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.auto_dmi_in_d_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.auto_dmi_in_d_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.auto_int_out_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.clock
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.debugIntRegs_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.hartResetReg_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.hrmaskNxt_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.hrmaskReg_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.innerCtrlAckHaveResetReg
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.innerCtrlResumeReqReg
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.innerCtrlValidReg
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.io_ctrl_dmactive
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.io_ctrl_dmactiveAck
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.io_ctrl_ndreset
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.io_hartResetReq_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.io_hgDebugInt_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.io_innerCtrl_bits_ackhavereset
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.io_innerCtrl_bits_ackhavereset_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.io_innerCtrl_bits_hartsel [9:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.io_innerCtrl_bits_hrmask_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.io_innerCtrl_bits_resumereq
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.io_innerCtrl_bits_resumereq_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.io_innerCtrl_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.io_innerCtrl_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.io_innerCtrl_valid_0
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.out_woready_9
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmOuter.dmOuter.reset

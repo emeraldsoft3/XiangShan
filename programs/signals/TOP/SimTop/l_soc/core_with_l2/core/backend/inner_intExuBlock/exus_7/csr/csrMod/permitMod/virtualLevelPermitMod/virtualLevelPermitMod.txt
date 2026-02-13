@@ -1,0 +1,29 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.PrvmIsS
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.PrvmIsU
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.accessHPM_EX_VI_isModeVU
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.csrIsStopei
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.csrIsUCustom
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_aia_hvictlVTI
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_csrAccess_addr [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_csrAccess_wen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_privState_PRVM [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_privState_V
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_status_vgein [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_status_vtvm
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_xcounteren_hcounteren [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_xcounteren_scounteren [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_xenvcfg_henvcfg [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_xstateen_hstateen0_AIA
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_xstateen_hstateen0_C
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_xstateen_hstateen0_CONTEXT
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_xstateen_hstateen0_CSRIND
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_xstateen_hstateen0_ENVCFG
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_xstateen_hstateen0_IMSIC
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_xstateen_hstateen0_SE0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_in_xstateen_sstateen0_C
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_out_virtualLevelPermit_EX_II
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.io_out_virtualLevelPermit_EX_VI
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.rwSatp_EX_VI_isModeVS
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.rwVStopei_EX_II_isModeHS
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.rwVStopei_EX_II_isModeM
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_intExuBlock.exus_7.csr.csrMod.permitMod.virtualLevelPermitMod.rwVStopei_EX_II_v_PrvmIsM

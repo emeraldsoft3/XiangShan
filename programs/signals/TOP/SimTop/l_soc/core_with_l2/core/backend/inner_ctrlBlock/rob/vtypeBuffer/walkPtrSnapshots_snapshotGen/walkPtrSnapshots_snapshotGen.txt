@@ -1,0 +1,38 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.io_deq
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.io_enq
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.io_enqData_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.io_enqData_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.io_flushVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.io_flushVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.io_flushVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.io_flushVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.io_redirect
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.io_snapshots_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.io_snapshots_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.io_snapshots_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.io_snapshots_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.io_snapshots_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.io_snapshots_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.io_snapshots_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.io_snapshots_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.newEnqPtrQualified_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.newEnqPtrQualified_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.newEnqPtrQualified_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.snapshots_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.snapshots_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.snapshots_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.snapshots_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.snapshots_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.snapshots_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.snapshots_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.snapshots_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.snptDeqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.snptDeqPtr_value [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.snptEnqPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.snptEnqPtr_value [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.snptValids_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.snptValids_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.snptValids_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrSnapshots_snapshotGen.snptValids_3

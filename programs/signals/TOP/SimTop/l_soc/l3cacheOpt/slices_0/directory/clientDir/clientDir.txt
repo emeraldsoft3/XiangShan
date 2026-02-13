@@ -1,0 +1,56 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.clock
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.hitVec_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.hitVec_2
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.hitVec_3
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.hitVec_4
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.hitVec_5
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.hitVec_6
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.hitVec_7
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.hit_s2
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.invalid_vec_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.invalid_vec_1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.invalid_vec_2
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.invalid_vec_3
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.invalid_vec_4
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.invalid_vec_5
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.invalid_vec_6
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_dir_w_bits_dir_0_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_dir_w_bits_set [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_dir_w_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_dir_w_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_read_bits_set [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_read_bits_tag [33:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_read_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_read_ready_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_read_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_resp_bits_dir_0_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_resp_bits_hit
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_resp_bits_tag [33:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_resp_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_resp_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_tag_w_bits_set [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_tag_w_bits_tag [33:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_tag_w_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.io_tag_w_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.metaAll_s2_0_0_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.metaAll_s2_1_0_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.metaAll_s2_2_0_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.metaAll_s2_3_0_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.metaAll_s2_4_0_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.metaAll_s2_5_0_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.metaAll_s2_6_0_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.metaAll_s2_7_0_state [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.reqReg_tag [33:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.reqValidReg
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.reset
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.resetFinish
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.resetIdx [7:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.tagAll_s2_0 [33:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.tagAll_s2_1 [33:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.tagAll_s2_2 [33:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.tagAll_s2_3 [33:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.tagAll_s2_4 [33:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.tagAll_s2_5 [33:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.tagAll_s2_6 [33:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.tagAll_s2_7 [33:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.directory.clientDir.way_s2 [2:0]

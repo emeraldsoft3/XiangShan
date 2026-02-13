@@ -1,0 +1,293 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.CSA3to2_in_b_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.CSA3to2_in_b_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.E_greater_reg2 [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.E_greater_reg2_r [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.E_greater_reg2_r_1 [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.Eab_is_greater_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.Eab_is_greater_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.Eab_is_greater_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.Ec_is_medium_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.Ec_is_medium_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.Ec_is_medium_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.Ec_is_too_big_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.Ec_is_too_big_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.Ec_is_too_big_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.NX_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.NX_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.NX_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.RDN
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.RDN_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.RDN_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.RDN_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.RMM_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.RMM_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.RMM_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.RNE_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.RNE_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.RNE_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.RTZ_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.RTZ_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.RTZ_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.RUP_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.RUP_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.RUP_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.UF_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.UF_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.UF_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.adder_f16 [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.adder_f16_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.adder_f16_reg1 [37:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.adder_f32 [76:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.adder_f32_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.adder_f32_reg1 [76:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.adder_f64 [163:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.adder_f64_hi [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.adder_f64_reg1 [163:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.adder_is_negative_reg1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.adder_is_negative_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.exponent_add_1_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.exponent_add_1_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.exponent_add_1_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.exponent_is_min_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.exponent_is_min_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.exponent_is_min_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.exponent_overflow_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.exponent_overflow_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.exponent_overflow_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.exponent_result_add_value_f16 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.exponent_result_add_value_f32 [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.exponent_result_add_value_f64 [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fire_reg0_last_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fire_reg1_last_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_a_is_inf_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_a_is_inf_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_a_is_inf_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_a_is_sign_inv
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_a_is_zero_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_a_is_zero_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_a_is_zero_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_a_or_b_is_zero_f16_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_a_or_b_is_zero_f16_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_a_or_b_is_zero_f16_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_a_or_b_is_zero_f32_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_a_or_b_is_zero_f32_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_a_or_b_is_zero_f32_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_a_or_b_is_zero_f64_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_a_or_b_is_zero_f64_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_a_or_b_is_zero_f64_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_b_is_inf_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_b_is_inf_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_b_is_inf_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_b_is_zero_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_b_is_zero_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_b_is_zero_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_c_f16 [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_c_f32 [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_c_f64 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_c_is_inf_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_c_is_inf_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_c_is_inf_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_c_is_sign_inv
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_c_is_zero_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_c_is_zero_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_c_is_zero_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_c_rshiftValue_inv_reg [161:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_c_significand_f16 [10:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_c_significand_f32 [23:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_c_significand_f64 [52:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_result_fp_a_or_b_is_zero_reg [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_result_fp_a_or_b_is_zero_reg_r [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fp_result_fp_a_or_b_is_zero_reg_r_1 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.fraction_result_no_round_reg [51:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.guard_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.guard_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.guard_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.guard_lshift_f16_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.guard_lshift_f32_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.guard_lshift_f64_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f16_is_NV_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f16_is_NV_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f16_is_NV_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f16_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f16_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f16_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f16_result_inf_sign_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f16_result_inf_sign_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f16_result_inf_sign_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f32_is_NV_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f32_is_NV_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f32_is_NV_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f32_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f32_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f32_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f32_result_inf_sign_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f32_result_inf_sign_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f32_result_inf_sign_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f64_is_NV_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f64_is_NV_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f64_is_NV_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f64_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f64_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f64_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f64_result_inf_sign_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f64_result_inf_sign_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_inf_f64_result_inf_sign_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f16_is_NV_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f16_is_NV_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f16_is_NV_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f16_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f16_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f16_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f32_is_NV_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f32_is_NV_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f32_is_NV_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f32_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f32_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f32_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f64_is_NV_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f64_is_NV_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f64_is_NV_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f64_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f64_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_nan_f64_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_zero_f16_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_zero_f16_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_zero_f16_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_zero_f16_reg2_r_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_zero_f32_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_zero_f32_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_zero_f32_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_zero_f32_reg2_r_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_zero_f64_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_zero_f64_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_zero_f64_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.has_zero_f64_reg2_r_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.io_fflags [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.io_fire
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.io_fp_a [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.io_fp_aIsFpCanonicalNAN
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.io_fp_b [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.io_fp_bIsFpCanonicalNAN
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.io_fp_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.io_fp_cIsFpCanonicalNAN
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.io_fp_format [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.io_fp_result [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.io_op_code [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.io_round_mode [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.is_fix_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.is_fix_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.is_fix_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.is_fix_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.is_fmul
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.is_fnmacc
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.is_fp32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.is_fp32_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.is_fp32_reg1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.is_fp32_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.is_fp64_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.is_fp64_reg1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.is_fp64_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.is_sub_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.is_sub_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.is_sub_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.is_sub_f64_reg0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.lshift_adder_inv_fix_f16 [13:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.lshift_adder_inv_fix_f32 [26:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.lshift_adder_inv_fix_f64 [55:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.lshift_mask_valid_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.lshift_value_mask_f16 [36:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.lshift_value_mask_f32 [75:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.lshift_value_mask_f64 [162:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.lshift_value_max_reg0 [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.lshift_value_reg2 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.lzd_adder_inv_mask_f16 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.lzd_adder_inv_mask_f16_reg_d [36:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.lzd_adder_inv_mask_f32 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.lzd_adder_inv_mask_f32_reg_d [75:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.lzd_adder_inv_mask_f64 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.lzd_adder_inv_mask_f64_reg_d [162:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.lzd_adder_inv_mask_reg1 [162:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.normal_result_f16 [15:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.normal_result_f32 [31:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.normal_result_f64 [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.normal_result_is_zero_f16_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.normal_result_is_zero_f16_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.normal_result_is_zero_f32_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.normal_result_is_zero_f32_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.normal_result_is_zero_f64_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.normal_result_is_zero_f64_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.round_add1_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.round_add1_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.round_add1_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.round_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.round_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.round_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.round_lshift_f16_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.round_lshift_f32_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.round_lshift_f64_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.round_lshift_uf_f16_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.round_lshift_uf_f32_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.round_lshift_uf_f64_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.round_uf_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.round_uf_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.round_uf_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_guard_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_f16 [34:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_f32 [73:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_f64 [160:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f16_res_vec_1 [36:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f16_res_vec_2 [36:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f16_res_vec_3 [36:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f16_res_vec_4 [36:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f16_res_vec_5 [36:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f16_res_vec_6 [36:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f32_res_vec_1 [75:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f32_res_vec_2 [75:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f32_res_vec_3 [75:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f32_res_vec_4 [75:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f32_res_vec_5 [75:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f32_res_vec_6 [75:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f32_res_vec_7 [75:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f64_res_vec_1 [162:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f64_res_vec_2 [162:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f64_res_vec_3 [162:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f64_res_vec_4 [162:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f64_res_vec_5 [162:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f64_res_vec_6 [162:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f64_res_vec_7 [162:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_result_with_grs_f64_res_vec_8 [162:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_round_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.rshift_sticky_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sign_a_b_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sign_a_b_f32
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sign_a_b_f64
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sign_result_temp_f16_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sign_result_temp_f16_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sign_result_temp_f16_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sign_result_temp_f16_reg2_r_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sign_result_temp_f32_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sign_result_temp_f32_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sign_result_temp_f32_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sign_result_temp_f32_reg2_r_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sign_result_temp_f64_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sign_result_temp_f64_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sign_result_temp_f64_reg2_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sign_result_temp_f64_reg2_r_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sticky_f16_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sticky_f16_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sticky_f32_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sticky_f32_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sticky_f64_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sticky_f64_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sticky_uf_f16_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sticky_uf_f16_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sticky_uf_f32_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sticky_uf_f32_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sticky_uf_f64_reg2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.sticky_uf_f64_reg2_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.tzd_adder_f16_reg1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.tzd_adder_f32_reg1 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.tzd_adder_f64_reg1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_fpExuBlock.exus.Fmac.fma.tzd_adder_reg1 [163:0]

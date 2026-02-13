@@ -1,0 +1,46 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_raddr_0 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_brSlots_0_lower [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_brSlots_0_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_brSlots_0_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_brSlots_0_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_brSlots_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_carry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_pftAddr [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_tailSlot_lower [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_tailSlot_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_tailSlot_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_tailSlot_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_tailSlot_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_ftb_entry_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_rdata_0_meta [515:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_ren_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_waddr [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_brSlots_0_lower [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_brSlots_0_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_brSlots_0_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_brSlots_0_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_brSlots_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_carry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_pftAddr [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_tailSlot_lower [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_tailSlot_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_tailSlot_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_tailSlot_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_tailSlot_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_ftb_entry_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wdata_meta [515:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.io_wen
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_ftq.ftq_meta_1r_sram.reset

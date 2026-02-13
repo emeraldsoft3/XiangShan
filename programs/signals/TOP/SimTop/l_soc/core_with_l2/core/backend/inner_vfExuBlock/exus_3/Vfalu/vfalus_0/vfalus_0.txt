@@ -1,0 +1,22 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.fp_format_reg [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_fflags [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_fire
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_fp_a [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_fp_b [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_fp_format [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_fp_result [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_is_fold [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_is_vfwredosum
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_mask [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_maskForReduction [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_op_code [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_opb_widening
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_res_widening
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_round_mode [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_uop_idx
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_vs2_fold [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_widen_a [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.io_widen_b [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.res_is_f16
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_3.Vfalu.vfalus_0.res_is_f32

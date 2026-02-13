@@ -1,0 +1,18 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.rdata [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.reg_EVENT0 [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.reg_EVENT1 [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.reg_EVENT2 [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.reg_EVENT3 [9:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.reg_MINH
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.reg_OF
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.reg_OPTYPE0 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.reg_OPTYPE1 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.reg_OPTYPE2 [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.reg_SINH
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.reg_UINH
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.reg_VSINH
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.reg_VUINH
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.w_wdata [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_pfevent.perfEvents_3.w_wen

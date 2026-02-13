@@ -1,0 +1,25 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.holdRidx
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.holdRidx_hold_data
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.holdRidx_last_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_r_req_bits_setIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_r_req_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_r_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_r_resp_data_0_ctr [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_r_resp_data_0_tag [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_r_resp_data_0_target_offset_offset [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_r_resp_data_0_target_offset_pointer [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_r_resp_data_0_target_offset_usePCRegion
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_r_resp_data_0_useful
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_r_resp_data_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_w_req_bits_bitmask [35:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_w_req_bits_data_0_ctr [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_w_req_bits_data_0_tag [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_w_req_bits_data_0_target_offset_offset [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_w_req_bits_data_0_target_offset_pointer [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_w_req_bits_data_0_target_offset_usePCRegion
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_w_req_bits_data_0_useful
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_w_req_bits_setIdx [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.io_w_req_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors.ittage.tables_1.table_0.ridx

@@ -1,0 +1,20 @@
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.clock
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.deq_ptr_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.do_deq
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.do_enq
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.empty
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.enq_ptr_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.full
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.io_deq_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.io_deq_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.io_deq_bits_source [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.io_deq_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.io_deq_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.io_enq_bits_isKeyword
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.io_enq_bits_opcode [2:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.io_enq_bits_source [5:0]
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.io_enq_ready
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.io_enq_valid
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.maybe_full
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.ptr_match
+TOP.SimTop.l_soc.core_with_l2.l2top.inner_l2cache.slices_0.mainPipe.customL1Hint.hintQueue.reset

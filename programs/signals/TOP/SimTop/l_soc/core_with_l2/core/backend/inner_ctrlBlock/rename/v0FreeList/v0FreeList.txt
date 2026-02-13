@@ -1,0 +1,137 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.archHeadPtrNew_new_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.archHeadPtrNew_reverse_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.archHeadPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.archHeadPtr_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.data_0_probe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.data_1_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.data_2_probe [20:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.empty
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.empty_probe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.empty_probe_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.enqPtr_new_value_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.enqPtr_new_value_2 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.enqPtr_new_value_3 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.enqPtr_new_value_4 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.enqPtr_new_value_5 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.exHalf_probe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_10 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_11 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_12 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_13 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_14 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_15 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_16 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_17 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_18 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_19 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_2 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_20 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_3 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_4 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_5 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_6 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_7 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_8 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeList_9 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeRegCnt [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeRegCntReg [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.freeRegCntReg_probe [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.headPtrAllocate_new_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.headPtrAllocate_reverse_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.headPtrOH [20:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.headPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_allocatePhyReg_0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_allocatePhyReg_1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_allocatePhyReg_2 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_allocatePhyReg_3 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_allocatePhyReg_4 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_allocatePhyReg_5 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_allocateReq_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_allocateReq_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_allocateReq_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_allocateReq_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_allocateReq_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_allocateReq_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_canAllocate
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_canAllocate_last_REG
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_commit_commitValid_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_commit_commitValid_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_commit_commitValid_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_commit_commitValid_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_commit_commitValid_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_commit_commitValid_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_commit_info_0_v0Wen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_commit_info_1_v0Wen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_commit_info_2_v0Wen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_commit_info_3_v0Wen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_commit_info_4_v0Wen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_commit_info_5_v0Wen
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_commit_isCommit
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_doAllocate
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_freePhyReg_0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_freePhyReg_1 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_freePhyReg_2 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_freePhyReg_3 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_freePhyReg_4 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_freePhyReg_5 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_freeReq_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_freeReq_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_freeReq_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_freeReq_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_freeReq_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_freeReq_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_perf_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_perf_0_value_REG
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_perf_0_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_perf_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_perf_1_value_REG
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_perf_1_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_perf_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_perf_2_value_REG
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_perf_2_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_perf_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_perf_3_value_REG
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_perf_3_value_REG_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_redirect
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_snpt_flushVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_snpt_flushVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_snpt_flushVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_snpt_flushVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_snpt_snptDeq
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_snpt_snptEnq
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_snpt_snptSelect [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_snpt_useSnpt
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_walk
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_walkReq_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_walkReq_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_walkReq_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_walkReq_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_walkReq_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.io_walkReq_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.isNormalAlloc
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.isWalkAlloc
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.lastCycleRedirect
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.lastCycleRedirect_REG
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.lastCycleSnpt_REG_snptSelect [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.lastCycleSnpt_REG_useSnpt
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.lastCycleSnpt_snptSelect [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.lastCycleSnpt_useSnpt
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.lastTailPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.lastTailPtr_value [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.numAllocate [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.offset [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.phyRegCandidates_0 [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.redirectedHeadPtrOH_new_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.redirectedHeadPtrOH_new_value_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.redirectedHeadPtr_new_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.redirectedHeadPtr_new_value_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.redirectedHeadPtr_reverse_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.redirectedHeadPtr_reverse_flag_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.shiftAmount [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.tailPtr_new_ptr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.tailPtr_new_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rename.v0FreeList.tailPtr_reverse_flag

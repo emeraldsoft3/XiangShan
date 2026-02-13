@@ -1,0 +1,256 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.allowEnqueueForDispatch_last_REG
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.allowEnqueue_last_REG
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.commitCount [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.commitSize [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.commitSizeNext [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.commitValidVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.commitValidVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.commitValidVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.commitValidVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.commitValidVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.commitValidVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.commitValidVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.commitValidVec_7
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.data_0_probe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.data_1_probe [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.data_2_probe [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.decodeResumeVType_bits_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.decodeResumeVType_bits_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.decodeResumeVType_bits_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.decodeResumeVType_bits_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.decodeResumeVType_bits_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.decodeResumeVType_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.deqPtrOH [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.deqPtrSteps [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.deqPtrVec_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.deqPtrVec_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.deqPtrVec_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.deqPtrVec_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.deqPtrVec_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.deqPtrVec_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.deqPtrVec_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.deqPtrVec_4_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.deqPtrVec_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.deqPtrVec_5_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.deqPtrVec_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.deqPtrVec_6_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.deqPtrVec_6_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.deqPtrVec_7_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.deqPtrVec_7_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.empty_probe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.enqPtrVec_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.enqPtrVec_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.enqPtrVec_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.enqPtrVec_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.enqPtrVec_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.enqPtrVec_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.enqPtrVec_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.enqPtrVec_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.enqPtrVec_4_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.enqPtrVec_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.enqPtrVec_5_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.enqPtrVec_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.exHalf_probe
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_0_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_0_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_0_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_0_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_0_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_1_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_1_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_1_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_1_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_1_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_2_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_2_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_2_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_2_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_2_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_3_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_3_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_3_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_3_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_3_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_4_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_4_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_4_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_4_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_4_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_5_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_5_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_5_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_5_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_5_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_6_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_6_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_6_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_6_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_6_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_7_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_7_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_7_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_7_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.infoVec_7_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_canEnq
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_canEnqForDispatch
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_fromRob_commitSize [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_fromRob_walkEnd
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_fromRob_walkSize [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_redirect_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_0_bits_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_0_bits_isVset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_0_bits_lastUop
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_0_bits_vpu_specVill
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_0_bits_vpu_specVlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_0_bits_vpu_specVma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_0_bits_vpu_specVsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_0_bits_vpu_specVta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_0_bits_vpu_vill
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_0_bits_vpu_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_0_bits_vpu_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_0_bits_vpu_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_0_bits_vpu_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_1_bits_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_1_bits_isVset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_1_bits_lastUop
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_1_bits_vpu_specVill
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_1_bits_vpu_specVlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_1_bits_vpu_specVma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_1_bits_vpu_specVsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_1_bits_vpu_specVta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_1_bits_vpu_vill
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_1_bits_vpu_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_1_bits_vpu_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_1_bits_vpu_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_1_bits_vpu_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_1_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_2_bits_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_2_bits_isVset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_2_bits_lastUop
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_2_bits_vpu_specVill
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_2_bits_vpu_specVlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_2_bits_vpu_specVma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_2_bits_vpu_specVsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_2_bits_vpu_specVta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_2_bits_vpu_vill
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_2_bits_vpu_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_2_bits_vpu_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_2_bits_vpu_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_2_bits_vpu_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_2_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_3_bits_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_3_bits_isVset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_3_bits_lastUop
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_3_bits_vpu_specVill
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_3_bits_vpu_specVlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_3_bits_vpu_specVma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_3_bits_vpu_specVsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_3_bits_vpu_specVta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_3_bits_vpu_vill
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_3_bits_vpu_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_3_bits_vpu_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_3_bits_vpu_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_3_bits_vpu_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_3_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_4_bits_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_4_bits_isVset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_4_bits_lastUop
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_4_bits_vpu_specVill
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_4_bits_vpu_specVlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_4_bits_vpu_specVma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_4_bits_vpu_specVsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_4_bits_vpu_specVta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_4_bits_vpu_vill
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_4_bits_vpu_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_4_bits_vpu_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_4_bits_vpu_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_4_bits_vpu_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_4_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_5_bits_fuOpType [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_5_bits_isVset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_5_bits_lastUop
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_5_bits_vpu_specVill
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_5_bits_vpu_specVlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_5_bits_vpu_specVma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_5_bits_vpu_specVsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_5_bits_vpu_specVta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_5_bits_vpu_vill
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_5_bits_vpu_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_5_bits_vpu_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_5_bits_vpu_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_5_bits_vpu_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_req_5_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_snpt_flushVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_snpt_flushVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_snpt_flushVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_snpt_flushVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_snpt_snptDeq
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_snpt_snptEnq
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_snpt_snptSelect [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_snpt_useSnpt
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_status_walkEnd
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_toDecode_commitVType_hasVsetvl
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_toDecode_commitVType_vtype_bits_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_toDecode_commitVType_vtype_bits_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_toDecode_commitVType_vtype_bits_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_toDecode_commitVType_vtype_bits_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_toDecode_commitVType_vtype_bits_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_toDecode_commitVType_vtype_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_toDecode_isResumeVType
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_toDecode_walkToArchVType
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_toDecode_walkVType_bits_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_toDecode_walkVType_bits_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_toDecode_walkVType_bits_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_toDecode_walkVType_bits_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_toDecode_walkVType_bits_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.io_toDecode_walkVType_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.needAllocVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.needAllocVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.needAllocVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.needAllocVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.needAllocVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.needAllocVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.newSpclWalkSize [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.newestArchVType_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.newestArchVType_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.newestArchVType_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.newestArchVType_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.newestArchVType_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.numValidEntries [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.numValidEntries_probe [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.robWalkEndReg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.shiftAmount [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.snapshotVType_illegal
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.snapshotVType_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.snapshotVType_vma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.snapshotVType_vsew [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.snapshotVType_vta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.spclWalkCount [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.spclWalkEndNext
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.spclWalkSize [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.spclWalkSizeNext [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.state [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.stateLastCycle [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.stateNext [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.useSnapshot
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.useSnapshotNext
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkCount [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkEndNext
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrNext_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtrNext_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkPtr_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkSize [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkSizeNext [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkToArchVType
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkValidVec_0
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkValidVec_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkValidVec_2
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkValidVec_3
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkValidVec_4
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkValidVec_5
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkValidVec_6
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_ctrlBlock.rob.vtypeBuffer.walkValidVec_7

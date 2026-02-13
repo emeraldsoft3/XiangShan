@@ -1,0 +1,48 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.A_wire [53:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.B_guard_normal_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.B_round_normal_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.B_rsticky_normal_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.B_sticky_normal_reg_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.B_sticky_normal_reg_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.B_sticky_normal_reg_r_2 [53:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.B_sticky_normal_reg_r_3 [53:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.B_wire [53:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.EA [10:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.EOP
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.EOP_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.E_greater [10:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.NX
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.OF
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.OF_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.RDN_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.RMM_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.RNE_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.RTZ_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.RUP_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.absEaSubEb [10:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.absEaSubEb_is_greater
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.efficient_fp_b_sign
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.far_case_normal_round_up
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.far_case_overflow_round_up
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.far_exponent_result_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.far_exponent_result_r_1 [10:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.far_exponent_result_r_2 [10:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.far_rshift_widen_result [109:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.far_sign_result_reg
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.greaterSignificand [52:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.grs_overflow [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.grs_overflow_r
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.grs_overflow_r_1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.io_absEaSubEb [10:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.io_fflags [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.io_fire
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.io_fp_a [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.io_fp_b [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.io_fp_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.io_isEfp_bGreater
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.io_is_sub
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.io_round_mode [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.isEfp_bGreater
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.significand_fp_a [52:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vfalu.vfalus_1.U_F64_Widen_0.U_far_path.significand_fp_b [52:0]

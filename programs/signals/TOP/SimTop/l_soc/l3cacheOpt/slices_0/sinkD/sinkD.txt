@@ -1,0 +1,50 @@
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.beat
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.bypass_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.clock
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.first_resp
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.indexed_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.indexed_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_bs_waddr_bits_beat
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_bs_waddr_bits_beat_r
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_bs_waddr_bits_noop
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_bs_waddr_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_bs_waddr_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_bs_waddr_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_bs_waddr_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_bs_wdata_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_bypass_write_beat
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_bypass_write_data_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_bypass_write_id [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_bypass_write_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_bypass_write_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_d_bits_data [255:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_d_bits_denied
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_d_bits_opcode [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_d_bits_param [1:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_d_bits_sink [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_d_bits_size [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_d_bits_source [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_d_ready
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_d_ready_0
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_d_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_inner_grant
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_resp_bits_bufIdx [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_resp_bits_denied
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_resp_bits_last
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_resp_bits_opcode [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_resp_bits_param [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_resp_bits_sink [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_resp_bits_source [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_resp_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_save_data_in_bs
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_sourceD_r_hazard_bits_set [9:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_sourceD_r_hazard_bits_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_sourceD_r_hazard_valid
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.io_way [2:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.last
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.r_beats1
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.r_counter
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.reset
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.source_latch [3:0]
+TOP.SimTop.l_soc.l3cacheOpt.slices_0.sinkD.w_safe

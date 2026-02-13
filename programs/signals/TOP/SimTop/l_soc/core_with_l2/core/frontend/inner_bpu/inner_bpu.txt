@@ -1,0 +1,967 @@
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ControlBTBMissBubble
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ITTAGEMissBubble
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.REG_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.SCMissBubble
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.TAGEMissBubble
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_108 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_109 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_110 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_111 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_112 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_113 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_114 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_115 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_116 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_117 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_118 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_119 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_12 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_13 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_132 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_133 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_134 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_135 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_136 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_137 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_138 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_139 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_14 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_140 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_141 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_142 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_143 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_144 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_145 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_146 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_147 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_148 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_149 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_15 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_150 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_151 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_152 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_153 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_154 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_155 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_16 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_17 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_18 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_19 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_20 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_21 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_22 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_23 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_36 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_37 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_38 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_39 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_40 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_41 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_42 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_43 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_44 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_45 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_46 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_47 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_60 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_61 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_62 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_63 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_64 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_65 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_66 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_67 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_68 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_69 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_70 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_71 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_84 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_85 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_86 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_87 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_88 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_89 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_90 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_91 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_92 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_93 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_94 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.bitsWithInfo_new_value_95 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.btbMissBubble
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.clock
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.controlRedirectBubble
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.data_0_1_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.data_0_2_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.data_0_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.data_1_1_probe [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.data_1_2_probe [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.data_1_probe [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.data_2_1_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.data_2_2_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.data_2_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.data_3_1_probe [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.data_3_2_probe [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.data_3_probe [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_BTBMissBubble
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_NOS_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_NOS_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_TOSR_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_TOSR_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_TOSW_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_TOSW_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_addIntoHist
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_br_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_histPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_histPtr_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_jr_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_pd_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_pd_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_pd_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_pd_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_sc_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_sctr [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_shift [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_ssp [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_cfiUpdate_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_debugIsCtrl
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_debugIsMemVio
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_bits_r_level
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.do_redirect_dup_next_valid_last_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.full_pred_diff_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_13
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_14
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_15
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_16
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_17
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_18
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_19
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_20
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_21
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_22
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_23
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_24
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_25
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_26
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_27
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_28
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_29
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_30
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_31
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_32
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_33
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_34
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_35
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_36
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_37
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_38
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_39
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_40
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_41
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_42
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_43
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.ghv_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_brSlots_0_lower [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_brSlots_0_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_brSlots_0_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_brSlots_0_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_brSlots_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_carry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_pftAddr [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_tailSlot_lower [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_tailSlot_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_tailSlot_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_tailSlot_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_tailSlot_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_ftb_entry_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_meta [515:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_spec_info_NOS_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_spec_info_NOS_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_spec_info_TOSR_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_spec_info_TOSR_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_spec_info_TOSW_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_spec_info_TOSW_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_spec_info_histPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_spec_info_histPtr_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_spec_info_sc_disagree_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_spec_info_sc_disagree_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_spec_info_sctr [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_spec_info_ssp [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_last_stage_spec_info_topAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_full_pred_0_predCycle [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_full_pred_0_predCycle_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_full_pred_1_predCycle_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_full_pred_2_predCycle_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_full_pred_3_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_full_pred_3_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_full_pred_3_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_full_pred_3_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_full_pred_3_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_full_pred_3_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_full_pred_3_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_full_pred_3_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_full_pred_3_predCycle_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_full_pred_3_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_full_pred_3_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_full_pred_3_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_full_pred_3_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s1_pc_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_ftq_idx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_ftq_idx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_full_pred_0_predCycle [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_full_pred_0_predCycle_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_full_pred_1_predCycle_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_full_pred_2_predCycle_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_full_pred_3_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_full_pred_3_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_full_pred_3_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_full_pred_3_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_full_pred_3_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_full_pred_3_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_full_pred_3_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_full_pred_3_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_full_pred_3_predCycle_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_full_pred_3_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_full_pred_3_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_full_pred_3_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_full_pred_3_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_hasRedirect_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_pc_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s2_valid_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_ftq_idx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_ftq_idx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_full_pred_0_predCycle [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_full_pred_0_predCycle_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_full_pred_1_predCycle_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_full_pred_2_predCycle_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_full_pred_3_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_full_pred_3_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_full_pred_3_fallThroughAddr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_full_pred_3_fallThroughErr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_full_pred_3_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_full_pred_3_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_full_pred_3_offsets_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_full_pred_3_offsets_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_full_pred_3_predCycle_c [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_full_pred_3_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_full_pred_3_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_full_pred_3_targets_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_full_pred_3_targets_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_hasRedirect_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_pc_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_pc_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_s3_valid_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_topdown_info_reasons_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_topdown_info_reasons_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_topdown_info_reasons_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_topdown_info_reasons_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_topdown_info_reasons_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_topdown_info_reasons_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_topdown_info_reasons_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_topdown_info_reasons_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_topdown_info_reasons_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_bits_topdown_info_reasons_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_ready
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_bpu_to_ftq_resp_valid_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ctrl_btb_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ctrl_ras_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ctrl_sc_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ctrl_tage_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ctrl_ubtb_enable
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_enq_ptr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_enq_ptr_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirctFromIFU
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_BTBMissBubble
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_NOS_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_NOS_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_TOSR_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_TOSR_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_TOSW_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_TOSW_value [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_addIntoHist
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_br_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_histPtr_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_histPtr_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_jr_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_pd_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_pd_isRVC
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_pd_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_pd_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_sc_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_sctr [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_shift [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_ssp [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_cfiUpdate_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_debugIsCtrl
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_debugIsMemVio
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_bits_level
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_redirect_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_cfi_idx_bits [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_cfi_idx_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_false_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_brSlots_0_lower [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_brSlots_0_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_brSlots_0_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_brSlots_0_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_brSlots_0_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_carry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_isCall
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_isJalr
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_isRet
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_last_may_be_rvi_call
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_pftAddr [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_strong_bias_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_strong_bias_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_tailSlot_lower [19:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_tailSlot_offset [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_tailSlot_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_tailSlot_tarStat [1:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_tailSlot_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_ftb_entry_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_full_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_jmp_taken
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_meta [515:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_mispred_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_mispred_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_mispred_mask_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_old_entry
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_pc [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_bits_spec_info_histPtr_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_ftq_to_bpu_update_valid
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_0_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_0_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_1_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_1_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_2_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_2_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_3_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_3_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_4_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_4_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_4_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_5_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_5_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_5_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_6_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_6_value_REG [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_perf_6_value_REG_1 [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.io_reset_vector [47:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.memVioRedirectBubble
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.otherRedirectBubble
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.powerOnResetState
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors_io_redirectFromIFU_REG
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors_io_update_bits_pc_debug_modified_debug_predictors_io_update_pc_modified_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors_io_update_bits_pc_debug_modified_debug_predictors_io_update_pc_modified_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors_io_update_bits_pc_debug_modified_debug_predictors_io_update_pc_modified_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors_io_update_bits_pc_debug_predictors_io_update_pc_addr [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors_io_update_bits_pc_predictors_io_update_pc_seg_0_value [25:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors_io_update_bits_pc_predictors_io_update_pc_seg_1_value [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.predictors_io_update_bits_pc_predictors_io_update_pc_seg_2_value [11:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_cfiIndex_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_cfiIndex_1 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_cfiIndex_2 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_cfiIndex_3 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_hit_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_hit_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_hit_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_hit_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_lastBrPosOH_0_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_lastBrPosOH_0_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_lastBrPosOH_0_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_lastBrPosOH_1_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_lastBrPosOH_1_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_lastBrPosOH_1_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_lastBrPosOH_2_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_lastBrPosOH_2_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_lastBrPosOH_2_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_lastBrPosOH_3_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_lastBrPosOH_3_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_lastBrPosOH_3_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_takenMask_0_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_takenMask_0_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_takenMask_1_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_takenMask_1_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_takenMask_2_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_takenMask_2_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_takenMask_3_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_takenMask_3_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_taken_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_taken_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_taken_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_taken_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_target_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_target_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_target_2 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s1_pred_info_target_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_0_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_0_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_0_fallThroughAddr_r [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_0_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_0_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_0_jalr_target [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_0_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_0_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_0_targets_0_r [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_0_targets_1_r [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_1_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_1_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_1_fallThroughAddr_r [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_1_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_1_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_1_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_1_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_1_targets_0_r [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_1_targets_1_r [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_2_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_2_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_2_fallThroughAddr_r [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_2_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_2_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_2_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_2_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_2_targets_0_r [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_2_targets_1_r [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_3_br_taken_mask_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_3_br_taken_mask_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_3_fallThroughAddr_r [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_3_hit
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_3_is_br_sharing
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_3_slot_valids_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_3_slot_valids_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_3_targets_0_r [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_full_pred_3_targets_1_r [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_pc_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_pc_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_pc_2 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.previous_s2_pred_pc_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.real_br_taken_mask_dup_0_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.real_br_taken_mask_dup_0_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.reset
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_1_afhob_0_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_1_afhob_0_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_1_afhob_0_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_1_afhob_0_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_1_afhob_1_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_1_afhob_1_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_1_afhob_1_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_1_afhob_1_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_1_afhob_2_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_1_afhob_2_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_1_afhob_2_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_1_afhob_2_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_1_afhob_3_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_1_afhob_3_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_1_afhob_3_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_1_afhob_3_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_3_afhob_0_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_3_afhob_0_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_3_afhob_0_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_3_afhob_0_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_3_afhob_1_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_3_afhob_1_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_3_afhob_1_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_3_afhob_1_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_3_afhob_2_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_3_afhob_2_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_3_afhob_2_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_3_afhob_2_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_3_afhob_3_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_3_afhob_3_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_3_afhob_3_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ahead_fh_oldest_bits_reg_dup_3_afhob_3_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_fire_dup_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_fire_dup_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_fire_dup_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_fire_dup_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_1_hist_10_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_1_hist_11_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_1_hist_12_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_1_hist_13_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_1_hist_14_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_1_hist_1_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_1_hist_2_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_1_hist_3_folded_hist [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_1_hist_4_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_1_hist_5_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_1_hist_6_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_1_hist_7_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_1_hist_8_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_1_hist_9_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_3_hist_10_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_3_hist_11_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_3_hist_12_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_3_hist_13_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_3_hist_14_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_3_hist_1_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_3_hist_2_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_3_hist_3_folded_hist [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_3_hist_4_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_3_hist_5_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_3_hist_6_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_3_hist_7_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_3_hist_8_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_folded_gh_reg_dup_3_hist_9_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_reg_dup_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_reg_dup_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_reg_dup_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_reg_dup_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_reg_dup_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_reg_dup_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_reg_dup_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_ghist_ptr_reg_dup_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_last_br_num_oh_reg_dup_1 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_last_br_num_oh_reg_dup_3 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_pc_reg_dup_0 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_pc_reg_dup_1 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_pc_reg_dup_2 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s0_pc_reg_dup_3 [49:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_ob_src_dup_1_afhob_0_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_ob_src_dup_1_afhob_2_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_ob_src_dup_1_afhob_2_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_ob_src_dup_1_afhob_2_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_ob_src_dup_3_afhob_0_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_ob_src_dup_3_afhob_2_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_ob_src_dup_3_afhob_2_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_ob_src_dup_3_afhob_2_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_1_afhob_0_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_1_afhob_0_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_1_afhob_0_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_1_afhob_0_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_1_afhob_1_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_1_afhob_1_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_1_afhob_1_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_1_afhob_1_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_1_afhob_2_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_1_afhob_2_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_1_afhob_2_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_1_afhob_2_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_1_afhob_3_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_1_afhob_3_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_1_afhob_3_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_1_afhob_3_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_3_afhob_0_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_3_afhob_0_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_3_afhob_0_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_3_afhob_0_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_3_afhob_1_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_3_afhob_1_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_3_afhob_1_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_3_afhob_1_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_3_afhob_2_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_3_afhob_2_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_3_afhob_2_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_3_afhob_2_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_3_afhob_3_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_3_afhob_3_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_3_afhob_3_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ahead_fh_oldest_bits_dup_3_afhob_3_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_fire_dup_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_fire_dup_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_fire_dup_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_fire_dup_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_flush_dup_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_flush_dup_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_flush_dup_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_flush_dup_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_1_hist_10_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_1_hist_11_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_1_hist_12_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_1_hist_13_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_1_hist_14_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_1_hist_1_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_1_hist_2_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_1_hist_3_folded_hist [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_1_hist_4_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_1_hist_5_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_1_hist_6_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_1_hist_7_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_1_hist_8_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_1_hist_9_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_3_hist_10_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_3_hist_11_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_3_hist_12_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_3_hist_13_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_3_hist_14_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_3_hist_1_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_3_hist_2_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_3_hist_3_folded_hist [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_3_hist_4_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_3_hist_5_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_3_hist_6_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_3_hist_7_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_3_hist_8_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_folded_gh_dup_3_hist_9_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ghist_ptr_dup_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ghist_ptr_dup_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ghist_ptr_dup_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ghist_ptr_dup_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ghist_ptr_dup_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ghist_ptr_dup_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ghist_ptr_dup_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_ghist_ptr_dup_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_last_br_num_oh_dup_1 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_last_br_num_oh_dup_3 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_1 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_10 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_11 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_2 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_3 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_4 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_5 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_6 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_7 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_8 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_9 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_pred_info_takenMask_0_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_pred_info_takenMask_0_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_pred_info_takenMask_1_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_pred_info_takenMask_1_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_pred_info_takenMask_2_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_pred_info_takenMask_2_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_pred_info_takenMask_3_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_pred_info_takenMask_3_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s1_valid_dup_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_ob_src_dup_1_afhob_0_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_ob_src_dup_1_afhob_2_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_ob_src_dup_1_afhob_2_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_ob_src_dup_1_afhob_2_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_ob_src_dup_3_afhob_0_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_ob_src_dup_3_afhob_2_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_ob_src_dup_3_afhob_2_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_ob_src_dup_3_afhob_2_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_1_afhob_0_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_1_afhob_0_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_1_afhob_0_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_1_afhob_0_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_1_afhob_1_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_1_afhob_1_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_1_afhob_1_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_1_afhob_1_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_1_afhob_2_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_1_afhob_2_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_1_afhob_2_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_1_afhob_2_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_1_afhob_3_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_1_afhob_3_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_1_afhob_3_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_1_afhob_3_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_3_afhob_0_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_3_afhob_0_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_3_afhob_0_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_3_afhob_0_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_3_afhob_1_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_3_afhob_1_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_3_afhob_1_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_3_afhob_1_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_3_afhob_2_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_3_afhob_2_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_3_afhob_2_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_3_afhob_2_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_3_afhob_3_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_3_afhob_3_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_3_afhob_3_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ahead_fh_oldest_bits_dup_3_afhob_3_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_flush_dup_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_flush_dup_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_flush_dup_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_flush_dup_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_1_hist_10_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_1_hist_11_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_1_hist_12_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_1_hist_13_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_1_hist_14_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_1_hist_1_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_1_hist_2_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_1_hist_3_folded_hist [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_1_hist_4_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_1_hist_5_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_1_hist_6_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_1_hist_7_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_1_hist_8_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_1_hist_9_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_3_hist_10_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_3_hist_11_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_3_hist_12_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_3_hist_13_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_3_hist_14_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_3_hist_1_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_3_hist_2_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_3_hist_3_folded_hist [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_3_hist_4_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_3_hist_5_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_3_hist_6_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_3_hist_7_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_3_hist_8_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_folded_gh_dup_3_hist_9_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ftq_idx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ftq_idx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ghist_ptr_dup_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ghist_ptr_dup_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ghist_ptr_dup_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ghist_ptr_dup_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ghist_ptr_dup_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ghist_ptr_dup_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ghist_ptr_dup_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_ghist_ptr_dup_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_last_br_num_oh_dup_1 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_last_br_num_oh_dup_3 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_1 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_10 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_11 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_2 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_3 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_4 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_5 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_6 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_7 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_8 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_9 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_redirect_dup_0_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_redirect_dup_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_redirect_dup_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_redirect_dup_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_redirect_s1_last_pred_vec_dup_0_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_redirect_s1_last_pred_vec_dup_0_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_redirect_s1_last_pred_vec_dup_0_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_redirect_s1_last_pred_vec_dup_0_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s2_valid_dup_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_ob_src_dup_1_afhob_0_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_ob_src_dup_1_afhob_2_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_ob_src_dup_1_afhob_2_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_ob_src_dup_1_afhob_2_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_ob_src_dup_3_afhob_0_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_ob_src_dup_3_afhob_2_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_ob_src_dup_3_afhob_2_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_ob_src_dup_3_afhob_2_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_1_afhob_0_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_1_afhob_0_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_1_afhob_0_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_1_afhob_0_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_1_afhob_1_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_1_afhob_1_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_1_afhob_1_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_1_afhob_1_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_1_afhob_2_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_1_afhob_2_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_1_afhob_2_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_1_afhob_2_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_1_afhob_3_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_1_afhob_3_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_1_afhob_3_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_1_afhob_3_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_3_afhob_0_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_3_afhob_0_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_3_afhob_0_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_3_afhob_0_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_3_afhob_1_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_3_afhob_1_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_3_afhob_1_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_3_afhob_1_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_3_afhob_2_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_3_afhob_2_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_3_afhob_2_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_3_afhob_2_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_3_afhob_3_bits_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_3_afhob_3_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_3_afhob_3_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ahead_fh_oldest_bits_dup_3_afhob_3_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_1_hist_10_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_1_hist_11_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_1_hist_12_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_1_hist_13_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_1_hist_14_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_1_hist_1_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_1_hist_2_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_1_hist_3_folded_hist [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_1_hist_4_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_1_hist_5_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_1_hist_6_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_1_hist_7_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_1_hist_8_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_1_hist_9_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_3_hist_10_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_3_hist_11_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_3_hist_12_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_3_hist_13_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_3_hist_14_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_3_hist_1_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_3_hist_2_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_3_hist_3_folded_hist [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_3_hist_4_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_3_hist_5_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_3_hist_6_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_3_hist_7_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_3_hist_8_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_folded_gh_dup_3_hist_9_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ftq_idx_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ftq_idx_value [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ghist_ptr_dup_0_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ghist_ptr_dup_0_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ghist_ptr_dup_1_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ghist_ptr_dup_1_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ghist_ptr_dup_2_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ghist_ptr_dup_2_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ghist_ptr_dup_3_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_ghist_ptr_dup_3_value [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_last_br_num_oh_dup_1 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_last_br_num_oh_dup_3 [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_1 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_10 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_11 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_2 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_3 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_4 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_5 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_6 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_7 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_8 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_new_value_9 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_10
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_11
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_possible_predicted_ghist_ptrs_dup_flipped_new_ptr_reverse_flag_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_redirect_dup_0_probe
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_redirect_dup_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_redirect_dup_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_redirect_dup_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_redirect_on_br_taken_dup_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_redirect_on_jalr_target_dup_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.s3_valid_dup_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.shouldShiftVec_dup_0_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.shouldShiftVec_dup_0_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.thisAheadFhOb_dup_1_afhob_0_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.thisAheadFhOb_dup_1_afhob_2_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.thisAheadFhOb_dup_1_afhob_2_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.thisAheadFhOb_dup_1_afhob_2_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.thisAheadFhOb_dup_3_afhob_0_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.thisAheadFhOb_dup_3_afhob_2_bits_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.thisAheadFhOb_dup_3_afhob_2_bits_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.thisAheadFhOb_dup_3_afhob_2_bits_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_0_reasons_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_0_reasons_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_0_reasons_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_0_reasons_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_0_reasons_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_0_reasons_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_0_reasons_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_0_reasons_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_0_reasons_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_0_reasons_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_1_reasons_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_1_reasons_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_1_reasons_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_1_reasons_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_1_reasons_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_1_reasons_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_1_reasons_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_1_reasons_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_1_reasons_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_1_reasons_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_2_reasons_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_2_reasons_12
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_2_reasons_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_2_reasons_3
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_2_reasons_4
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_2_reasons_5
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_2_reasons_6
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_2_reasons_7
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_2_reasons_8
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.topdown_stages_2_reasons_9
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_10_fh_3_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_10_fh_9_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_10_new_folded_hist_xored_res_9_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_11_fh_3_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_11_fh_9_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_12_fh_3_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_12_fh_9_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_13_fh_3_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_13_fh_9_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_14_fh_3_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_14_fh_9_folded_hist [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_14_new_folded_hist_xored_res_9_0
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_1_fh_9_folded_hist [4:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_2_fh_9_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_3_fh_3_folded_hist [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_3_fh_9_folded_hist [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_4_fh_9_folded_hist [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_5_fh_9_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_6_fh_9_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_7_fh_3_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_7_fh_9_folded_hist [8:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_8_fh_3_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_8_fh_9_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_9_fh_3_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_fh_dup_res_hist_9_fh_9_folded_hist [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_ptr_dup_flipped_new_ptr_new_value [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_ptr_dup_flipped_new_ptr_new_value_1 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_ptr_dup_flipped_new_ptr_new_value_2 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_ptr_dup_flipped_new_ptr_new_value_3 [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_ptr_dup_flipped_new_ptr_reverse_flag
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_ptr_dup_flipped_new_ptr_reverse_flag_1
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_ptr_dup_flipped_new_ptr_reverse_flag_2
+TOP.SimTop.l_soc.core_with_l2.core.frontend.inner_bpu.updated_ptr_dup_flipped_new_ptr_reverse_flag_3

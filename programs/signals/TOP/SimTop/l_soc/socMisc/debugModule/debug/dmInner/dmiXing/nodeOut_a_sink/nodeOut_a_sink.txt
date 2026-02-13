@@ -1,0 +1,19 @@
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.clock
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.io_async_mem_0_address [8:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.io_async_mem_0_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.io_async_mem_0_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.io_async_ridx
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.io_async_widx
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.io_deq_bits_address [8:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.io_deq_bits_data [31:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.io_deq_bits_mask [3:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.io_deq_bits_opcode [3:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.io_deq_bits_size [1:0]
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.io_deq_bits_source
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.io_deq_ready
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.io_deq_valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.reset
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.ridx_gray
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.ridx_ridx_bin
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.valid
+TOP.SimTop.l_soc.socMisc.debugModule.debug.dmInner.dmiXing.nodeOut_a_sink.valid_reg

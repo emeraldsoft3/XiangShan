@@ -1,0 +1,23 @@
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.clock
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.io_in_bits_info_ma
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.io_in_bits_info_ta
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.io_in_bits_info_uopIdx [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.io_in_bits_info_vl [7:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.io_in_bits_info_vlmul [2:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.io_in_bits_info_vm
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.io_in_bits_info_vstart [6:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.io_in_bits_mask [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.io_in_bits_old_vd [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.io_in_bits_opcode_op [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.io_in_bits_srcType_0 [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.io_in_bits_vdType [3:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.io_in_bits_vs1 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.io_in_bits_vs2 [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.io_in_valid
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.io_out_bits_vd [127:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.opcodeS1_op [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.opcodeS2_op [5:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.reset
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.validS1
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vs2Ext [63:0]
+TOP.SimTop.l_soc.core_with_l2.core.backend.inner_vfExuBlock.exus_1.Vipu.vialu.vs2ExtS2 [63:0]
