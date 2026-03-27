@@ -1,0 +1,14 @@
+
+elf/lithium.elf:     file format elf64-littleriscv
+
+
+Disassembly of section .text:
+
+0000000080000000 <_start>:
+    80000000:	00008137          	lui	sp,0x8
+    80000004:	2105                	addiw	sp,sp,1
+    80000006:	0142                	slli	sp,sp,0x10
+    80000008:	00100093          	li	ra,1
+
+000000008000000c <halt>:
+    8000000c:	a001                	j	8000000c <halt>

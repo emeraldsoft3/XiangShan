@@ -1,0 +1,15 @@
+
+elf/test_addi.elf:     file format elf64-littleriscv
+
+
+Disassembly of section .text:
+
+0000000080000000 <_start>:
+    80000000:	00008137          	lui	sp,0x8
+    80000004:	2105                	addiw	sp,sp,1
+    80000006:	0142                	slli	sp,sp,0x10
+    80000008:	00100113          	li	sp,1
+    8000000c:	00100113          	li	sp,1
+
+0000000080000010 <halt>:
+    80000010:	a001                	j	80000010 <halt>
