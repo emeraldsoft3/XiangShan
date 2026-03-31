@@ -16,7 +16,7 @@ Before touching the CPU logic, we must understand how XiangShan generates it. We
 - **Day 1: The Build Hierarchy**
   - **Task:** Read through the root `build.sc` file. Understand how Mill defines modules (like `core`, `fpu`, `memu`) and their dependencies.
   - **Action:** Run `mill resolve __.compile` to see all the compile targets available in the build system.
-- **Day 2: Parameterization Secrets**
+- **Day 2: Parameterization Secrets [x]**
   - **Task:** Open `src/main/scala/xiangshan/Parameters.scala`. Look at `XSCoreParams` and see how widths, depths, and feature flags are defined.
   - **Zaqal Synergy:** Think about how you could apply a similar `case class` parameter approach in Zaqal to make it easy to scale up or down.
 - **Day 3: The Generator Framework**
