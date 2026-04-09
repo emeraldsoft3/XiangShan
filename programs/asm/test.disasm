@@ -1,5 +1,5 @@
 
-bin/test.elf:     file format elf64-littleriscv
+elf/test.elf:     file format elf64-littleriscv
 
 
 Disassembly of section .text:
