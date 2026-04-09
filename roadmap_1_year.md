@@ -25,8 +25,12 @@ Before touching the CPU logic, we must understand how XiangShan generates it. We
 - **Day 4: Verilog Emission**
   - **Task:** Run the generator to emit Verilog for a basic configuration.
   - **Action:** Locate the generated `.fir` and `.v` files in your build directory. Open the `.v` file and search for the top-level module signature to see what the generated ports look like.
-- **Day 5: Synthesis / Review**
-  - **Task:** Review the week's concepts. Read Sections 1 & 2 of the XiangShan Design Doc PDF (`xiangshan-design-doc-en.pdf`) and map the parameter concepts to the text.
+- **Day 5: Synthesis / Review [x]**
+  - **Task:** Review the week's concepts. Read **Sections 1 (BPU)** and **2 (FTQ)** of the XiangShan Design Doc (`xiangshan-design-doc-en.pdf`).
+  - **Reading Details:**
+    - **Section 1 BPU**: Glossary, Design Specifications, Functional Description, and Module Architecture (Kunminghu).
+    - **Section 2 FTQ**: Fetch Target Queue's role in decoupling and the FTQ pointer management.
+  - **Action:** Map the parameters found in `Parameters.scala` (like `TageTableInfos`, `FtbSize`, `FtqSize`) to the hardware structures described in the text.
 
 ### Week 2: The Difftest Framework – Our Source of Truth
 Difftest guarantees XiangShan executes correctly by comparing it against NEMU instruction-by-instruction.
@@ -87,16 +91,22 @@ Understanding how the Front-End, Back-End, and Memory subsystems are glued toget
 
 ### Quarter 2: The Frontend (Weeks 14-26)
 - **Weeks 14-17 (IFU & I-Cache):** Navigating the Instruction Fetch Unit. How we fetch 32 bytes at a time, align instructions, and manage I-Cache coherence using TileLink.
+  - **Reading:** Sections **3 (IFU)** and **4 (ICache)**. Deep dive into Fetch Units and Cache consistency protocols.
 - **Weeks 18-22 (BPU - Branch Prediction Unit):** The crown jewel: our TAGE predictor. Analyzing BTB, Bimodal predictors, RAS, and the TAGE tables.
+  - **Reading:** Section **1.1.x (Kunming Lake BPU)**. Detailed module specifications and functional descriptions of the predictor pipeline.
 - **Weeks 23-26 (Decode & Rename):** Breaking down RISC-V instructions into macro-ops. Introduction to the physical tag renaming process to break false dependencies.
+  - **Reading:** Section **5 (Backend)**. Focusing on the Decode and Rename modules and their interaction with the IBuffer.
 
 ### Quarter 3: The Engine (OoO Core) (Weeks 27-39)
 - **Weeks 27-30 (Dispatch & Issue Queues):** How instructions mapped to Physical Registers are slotted into reservation stations. Wakeup and Select logic.
 - **Weeks 31-35 (Execution Units & Bypass Network):** Deep dive into the integer ALUs, FPU, and the massive bypass (forwarding) network that prevents Pipeline stalls.
 - **Weeks 36-39 (ROB & Physical Register File):** The Reorder Buffer. Tracking instructions from dispatch to commit. Handling exceptions, flushes, and precise states.
+  - **Reading:** Section **5.x (Commit/Graduate)**. Understanding the graduation logic and ROB entry management.
 
 ### Quarter 4: The Memory Subsystem & Integration (Weeks 40-52)
 - **Weeks 40-44 (L1 D-Cache & Non-blocking semantics):** MSHRs (Miss Status Holding Registers) allowing the processor to continue execution while waiting for memory.
+  - **Reading:** Section **7 (Cache/TLB)**. Analyzing the L1 DCache and the MMU/TLB hierarchy.
 - **Weeks 45-48 (Load-Store Queue - LSQ):** The hardest part of any OoO core. Handling memory dependence prediction, forwarding stores to loads, and memory ordering violations.
+  - **Reading:** Section **6 (LSU/LSQ)**. Deep dive into the Memory Disambiguation and Load/Store logic.
 - **Weeks 49-51 (TLB & Virtual Memory):** Page table walkers, SV39/SV48 constraints, and TLB hierarchies.
 - **Week 52 (TileLink / CHI bus protocols):** How the L2 cache interfaces with the broader SoC and DRAM controllers.
