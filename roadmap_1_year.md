@@ -13,19 +13,19 @@ Welcome, Emerald. As the Lead Maintainer of XiangShan, I've seen many attempt to
 ### Week 1: Deciphering the Chisel & Mill Metaprogramming
 Before touching the CPU logic, we must understand how XiangShan generates it. We use heavy metaprogramming, parameterization, and the Mill build system.
 
-- **Day 1: The Build Hierarchy**
+- [x] **Day 1: The Build Hierarchy**
   - **Task:** Read through the root `build.sc` file. Understand how Mill defines modules (like `core`, `fpu`, `memu`) and their dependencies.
   - **Action:** Run `mill resolve __.compile` to see all the compile targets available in the build system.
-- **Day 2: Parameterization Secrets [x]**
+- [x] **Day 2: Parameterization Secrets**
   - **Task:** Open `src/main/scala/xiangshan/Parameters.scala`. Look at `XSCoreParams` and see how widths, depths, and feature flags are defined.
   - **Zaqal Synergy:** Think about how you could apply a similar `case class` parameter approach in Zaqal to make it easy to scale up or down.
-- **Day 3: The Generator Framework**
-  - **Task:** Trace `xiangshan.Generator` in `src/main/scala/xiangshan/Generator.scala`. See how it reads parameters and invokes Chisel's stage.
-  - **Action:** Run `mill -i emu.runMain xiangshan.Generator --help`.
-- **Day 4: Verilog Emission**
+- [x] **Day 3: The Generator Framework**
+  - **Task:** Trace `top.Generator` in `src/main/scala/top/Generator.scala`. See how it reads parameters and invokes Chisel's stage.
+  - **Action:** Run `mill -i emu.runMain top.Generator --help`.
+- [x] **Day 4: Verilog Emission**
   - **Task:** Run the generator to emit Verilog for a basic configuration.
   - **Action:** Locate the generated `.fir` and `.v` files in your build directory. Open the `.v` file and search for the top-level module signature to see what the generated ports look like.
-- **Day 5: Synthesis / Review [x]**
+- [x] **Day 5: Synthesis / Review**
   - **Task:** Review the week's concepts. Read **Sections 1 (BPU)** and **2 (FTQ)** of the XiangShan Design Doc (`xiangshan-design-doc-en.pdf`).
   - **Reading Details:**
     - **Section 1 BPU**: Glossary, Design Specifications, Functional Description, and Module Architecture (Kunminghu).
@@ -35,32 +35,32 @@ Before touching the CPU logic, we must understand how XiangShan generates it. We
 ### Week 2: The Difftest Framework – Our Source of Truth
 Difftest guarantees XiangShan executes correctly by comparing it against NEMU instruction-by-instruction.
 
-- **Day 6: Architecture of Difftest**
-  - **Task:** Read `src/main/scala/xiangshan/Difftest.scala`. Understand how architectural state (Regs, PC, Mem) is packaged into bundles for the testing interface.
-- **Day 7: The Commit Stage**
-  - **Task:** Open `src/main/scala/xiangshan/backend/commit/Commit.scala`. This is where instructions graduate and Difftest triggers.
+- [x] **Day 6: Architecture of Difftest**
+  - **Task:** Read `difftest/src/main/scala/Difftest.scala`. Understand how architectural state (Regs, PC, Mem) is packaged into bundles for the testing interface.
+- [ ] **Day 7: The Commit Stage**
+  - **Task:** Open `src/main/scala/xiangshan/backend/rob/Rob.scala` and `CtrlBlock.scala`. This is where instructions graduate and Difftest triggers.
   - **Waveform Hunting:** Track `io_difftest_commit` and `rob_commit_valid` in a waveform if you have one lying around.
-- **Day 8: Running NEMU Simulator**
+- [ ] **Day 8: Running NEMU Simulator**
   - **Task:** Compile the emulator.
   - **Action:** Run `make emu EMU_TRACE=1` on a very small assembly test or `hello world` C program. Save the `build/emu.log`.
-- **Day 9: Log Digging**
+- [ ] **Day 9: Log Digging**
   - **Task:** Analyze `build/emu.log`.
   - **Action:** Use `grep "DifftestInstrCommit" build/emu.log` or similar trace outputs to see what a "perfect" execution trace looks like.
-- **Day 10: Difftest in Zaqal**
+- [ ] **Day 10: Difftest in Zaqal**
   - **Task:** Zaqal Synergy. Spend your hour designing a rudimentary difftest interface for Zaqal. How would you hook up your `Commit` stage to a C++ monitor or Spike?
 
 ### Week 3: Utility Libraries and Custom Decoupled Interfaces
 XiangShan extends Chisel's standard `Decoupled` with our own handshaking and flow-control mechanisms.
 
 - **Day 11: ValidIO vs DecoupledIO**
-  - **Task:** Investigate `src/main/scala/utils/Bundle.scala`. Observe how we use `Valid` interfaces where backpressure is impossible or forbidden (like flush pipelines).
+  - **Task:** Investigate `src/main/scala/xiangshan/Bundle.scala`. Observe how we use `Valid` interfaces where backpressure is impossible or forbidden (like flush pipelines).
 - **Day 12: Hold and Skid Buffers**
-  - **Task:** Look at `src/main/scala/utils/Hold.scala`. Understand how we buffer data when the next stage isn't ready.
+  - **Task:** Look at `utility/src/main/scala/utility/Hold.scala`. Understand how we buffer data when the next stage isn't ready.
   - **Zaqal Synergy:** Design (on paper or in Zaqal) a simple valid-only pipeline with a stall mechanism using these concepts.
 - **Day 13: Pipeline Registers**
   - **Task:** Find `PipelineReg` or equivalent util in `utils/`. See how we cleanly break combinatorial paths.
 - **Day 14: Flush / Redirect Logic**
-  - **Task:** Search `src/main/scala/utils/` for `flush` logic. Notice how valid bits are cleared immediately while data might remain but be ignored.
+  - **Task:** Search `utility/` and `src/main/scala/xiangshan/` for `flush` logic. Notice how valid bits are cleared immediately while data might remain but be ignored.
   - **Waveform Hunting:** Start a test simulation and observe `valid`, `ready`, and `flush` intersecting in any utility module.
 - **Day 15: Utility Review**
   - **Task:** Review the utility folder. These utilities are the lego-bricks of the massive OoO machine. Skim the PDF documentation for any mention of timing constraints or pipeline staging.
@@ -69,13 +69,13 @@ XiangShan extends Chisel's standard `Decoupled` with our own handshaking and flo
 Understanding how the Front-End, Back-End, and Memory subsystems are glued together.
 
 - **Day 16: Top-Level Modules**
-  - **Task:** Open `src/main/scala/xiangshan/XiangShan.scala` and `src/main/scala/xiangshan/CoreDomain.scala`.
+  - **Task:** Open `src/main/scala/top/Top.scala` and `src/main/scala/top/XSNoCTop.scala`.
   - **Action:** Trace the huge bundles connecting Frontend (IFU) to Backend (Ctrl/Decode).
 - **Day 17: Clock and Reset Domains**
   - **Task:** Analyze how resets are staggered. Look for `withClockAndReset` blocks.
   - **Zaqal Synergy:** Think about splitting Zaqal into `Frontend`, `Backend`, and `Memory` domains for cleaner organization, even if they share a clock for now.
 - **Day 18: The Graph Generator**
-  - **Task:** If available, run `mill -i emu.runMain xiangshan.GraphGenerator` to visually map the top-level block connections.
+  - **Task:** If available, run `mill -i emu.runMain top.GraphGenerator` to visually map the top-level block connections.
 - **Day 19: Boot Sequence**
   - **Task:** Search for the reset vector and boot ROM initialization in the top-level parameters or modules. See what PC the core starts at.
 - **Day 20: Month 1 Retrospective**
