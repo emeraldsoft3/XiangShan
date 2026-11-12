@@ -627,10 +627,10 @@ class StoreUnitS2(param: ExeUnitParams)(
   val afInaccessible = uop.exceptionVec(storeAccessFault) || pmpInaccessible
   val afVectorUncache = isVector && isUncache
   val afCboUncache = isCbo && isUncache
-  val afUnalignMMIO = isMMIO && !align
+  val afUnalignMMIO = isMMIO && !align && !pmpInaccessible
 
   val af = afInaccessible || afVectorUncache || afCboUncache || afUnalignMMIO
-  val am = !align && isScalar && isNC && !pmpInaccessible
+  val am = !align && isScalar && (isNC || pmpInaccessible)
   val hasException = in.hasException.get || af || am
 
   // DCache

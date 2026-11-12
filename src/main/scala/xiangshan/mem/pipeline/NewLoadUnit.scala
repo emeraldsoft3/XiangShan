@@ -934,13 +934,13 @@ class LoadUnitS2(param: ExeUnitParams)(
   // load access fault
   val afUnaccessable = uop.exceptionVec(loadAccessFault) || pmpUnaccessable
   val afVectorUncache = accessType.isVector() && isUncache
-  val afUnalignMMIO = !in.align.get && isMMIO
+  val afUnalignMMIO = !in.align.get && isMMIO && !pmpUnaccessable
   val afTagError = io.dcacheResp.bits.tag_error && tlbHit && io.csrCtrl.cache_error_enable
   val afForwardDenied = Wire(Bool())
   val afBypassDenied = Wire(Bool())
   val af = afUnaccessable || afVectorUncache || afUnalignMMIO || afTagError || afForwardDenied || afBypassDenied
   // load address misaligned
-  val am = !in.align.get && accessType.isScalar() && isNC && !pmpUnaccessable
+  val am = !in.align.get && accessType.isScalar() && (isNC || pmpUnaccessable)
   // hardware error
   val hweForwardCorrupt = Wire(Bool())
   val hweBypassCorrupt = Wire(Bool())
