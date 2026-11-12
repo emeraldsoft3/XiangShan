@@ -454,6 +454,43 @@ class RobImp(override val wrapper: Rob)(implicit p: Parameters, params: BackendP
     }
   }
   val wfi_timeout = wfi_cycles.andR
+  val intrBitSetReg = RegNext(in.csr.intrBitSet)
+
+  // Track WFI interrupt wake-up to guarantee spec compliance (RISC-V Privileged Spec 3.3.3 norm:wfi_mepc_val):
+  // "If an enabled interrupt is present or later becomes present while the hart is stalled,
+  //  the interrupt trap will be taken on the following instruction, i.e., execution resumes
+  //  in the trap handler and mepc = pc + 4."
+  val s_wfi_idle :: s_wfi_stalled :: s_wfi_woken :: s_wfi_pending_successor :: Nil = Enum(4)
+  val wfiIntrState = RegInit(s_wfi_idle)
+  val isWfiWokenByIntr = RegNext(RegNext(in.csr.wfiEvent)) && (in.csr.intrBitSet || intrBitSetReg)
+
+  switch(wfiIntrState) {
+    is(s_wfi_idle) {
+      // Transition to s_wfi_stalled occurs when WFI enqueues
+    }
+    is(s_wfi_stalled) {
+      when(out.flushOut.valid || in.redirect.valid || !in.wfi_enable) {
+        wfiIntrState := s_wfi_idle
+      }.elsewhen(isWfiWokenByIntr) {
+        wfiIntrState := s_wfi_woken
+      }.elsewhen(wfi_timeout || RegNext(RegNext(in.csr.wfiEvent))) {
+        wfiIntrState := s_wfi_idle
+      }
+    }
+    is(s_wfi_woken) {
+      when(out.flushOut.valid || in.redirect.valid || !in.wfi_enable) {
+        wfiIntrState := s_wfi_idle
+      }.elsewhen(out.commits.isCommit && out.commits.commitValid.asUInt.orR) {
+        wfiIntrState := s_wfi_pending_successor
+      }
+    }
+    is(s_wfi_pending_successor) {
+      when(out.flushOut.valid || in.redirect.valid || (out.commits.isCommit && out.commits.commitValid.asUInt.orR)) {
+        wfiIntrState := s_wfi_idle
+      }
+    }
+  }
+
   when(RegNext(RegNext(in.csr.wfiEvent)) || out.flushOut.valid || wfi_timeout) {
     hasWFI := false.B
   }
@@ -530,6 +567,7 @@ class RobImp(override val wrapper: Rob)(implicit p: Parameters, params: BackendP
       val enqHasException = enqUop.exceptionVec.orR
       when(enqUop.isWFI && !enqHasException && !enqTriggerActionIsDebugMode) {
         hasWFI := true.B
+        wfiIntrState := s_wfi_stalled
       }
     }
   }
@@ -546,6 +584,7 @@ class RobImp(override val wrapper: Rob)(implicit p: Parameters, params: BackendP
 
   when(!in.wfi_enable) {
     hasWFI := false.B
+    wfiIntrState := s_wfi_idle
   }
   // sel vsetvl's flush position
   val vs_idle :: vs_waitVinstr :: vs_waitFlush :: Nil = Enum(3)
@@ -678,8 +717,8 @@ class RobImp(override val wrapper: Rob)(implicit p: Parameters, params: BackendP
   val deqPtrEntry = rawInfo(0)
   val deqPtrEntryValid = deqPtrEntry.commit_v
   val deqHasFlushed = RegInit(false.B)
-  val intrBitSetReg = RegNext(in.csr.intrBitSet)
-  val intrEnable = intrBitSetReg && !hasWaitForward && deqPtrEntry.interruptSafe && !deqHasFlushed
+  val isWfiSuccessorIntr = wfiIntrState === s_wfi_pending_successor
+  val intrEnable = intrBitSetReg && (!hasWaitForward || isWfiSuccessorIntr) && (deqPtrEntry.interruptSafe || isWfiSuccessorIntr) && !deqHasFlushed
   val deqPtrFormer = Wire(new RobPtr)
   val deqPtrLatter = Wire(new RobPtr)
   deqPtrFormer := deqPtr
@@ -1215,9 +1254,9 @@ class RobImp(override val wrapper: Rob)(implicit p: Parameters, params: BackendP
   deqPtrGenModule.in.deq_w := commit_wDeqGroup
   deqPtrGenModule.in.exception_state := exceptionDataRead
   deqPtrGenModule.in.intrBitSetReg := intrBitSetReg
-  deqPtrGenModule.in.hasNoSpecExec := hasWaitForward
+  deqPtrGenModule.in.hasNoSpecExec := hasWaitForward && !isWfiSuccessorIntr
   deqPtrGenModule.in.allowOnlyOneCommit := allowOnlyOneCommit
-  deqPtrGenModule.in.interruptSafe := robDeqGroup(deqPtr.value(bankAddrWidth-1,0)).interruptSafe
+  deqPtrGenModule.in.interruptSafe := robDeqGroup(deqPtr.value(bankAddrWidth-1,0)).interruptSafe || isWfiSuccessorIntr
   deqPtrGenModule.in.blockCommit := blockCommit
   deqPtrGenModule.in.hasCommitted := hasCommitted
   deqPtrGenModule.in.allCommitted := allCommitted
