@@ -79,10 +79,10 @@ class TrapHandleModule extends Module {
 
   private val causeNO = Mux(hasIR, interruptNO, exceptionNO)
 
-  // sm/ssdbltrp
-  private val m_EX_DT  = handleTrapUnderM  && mstatus.MDT.asBool  && hasTrap
-  private val s_EX_DT  = handleTrapUnderHS && sstatus.SDT.asBool  && hasTrap
-  private val vs_EX_DT = handleTrapUnderVS && vsstatus.SDT.asBool && hasTrap
+  // sm/ssdbltrp: double trap occurs when a trap is taken while already executing in that trap handler's privilege mode
+  private val m_EX_DT  = privState.isModeM  && handleTrapUnderM  && mstatus.MDT.asBool  && hasTrap
+  private val s_EX_DT  = privState.isModeHS && handleTrapUnderHS && sstatus.SDT.asBool  && hasTrap
+  private val vs_EX_DT = privState.isModeVS && handleTrapUnderVS && vsstatus.SDT.asBool && hasTrap
 
   private val dbltrpToMN = m_EX_DT && mnstatus.NMIE.asBool // NMI not allow double trap
   private val hasDTExcp  = m_EX_DT || s_EX_DT || vs_EX_DT
