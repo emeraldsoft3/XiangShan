@@ -805,7 +805,7 @@ class PtwCache()(implicit p: Parameters) extends XSModule with HasPtwConst with 
     io.resp.bits.stage1.entry(i).perm.map(_ := Mux(resp_res.l0.hit, resp_res.l0.perm(i),  Mux(resp_res.sp.hit, resp_res.sp.perm, 0.U.asTypeOf(new PtePermBundle))))
     io.resp.bits.stage1.entry(i).pf := !io.resp.bits.stage1.entry(i).v
     io.resp.bits.stage1.entry(i).af := false.B
-    io.resp.bits.stage1.entry(i).cf := Mux(resp_res.l0.hit, l0cfs(i), false.B) // L0 lavel Bitmap Check Failed Vector
+    io.resp.bits.stage1.entry(i).cf := Mux(resp_res.l0.hit, resp_res.l0.bitmapCheck.map(_.cfs(i)).getOrElse(false.B), false.B) // L0 lavel Bitmap Check Failed Vector
   }
   io.resp.bits.stage1.pteidx := UIntToOH(idx).asBools
   io.resp.bits.stage1.not_super := Mux(resp_res.l0.hit, true.B, false.B)
