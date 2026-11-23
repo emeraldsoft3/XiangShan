@@ -232,6 +232,7 @@ class LoadUnitS0(param: ExeUnitParams)(
   // alias for arbitration result
   val uop = sink.bits.uop
   val isPrefetch = sink.bits.accessType.isPrefetch()
+  val isPrefetchWrite = isPrefetch && sink.bits.accessType.pftCoh === PrefetchCoh.write
   val isSwInstrPrefetch = sink.bits.accessType.isInstrPrefetch()
   val isHwPrefetch = sink.bits.accessType.isHwPrefetch()
   val isUncacheReplay = sink.bits.isUncacheReplay()
@@ -405,7 +406,7 @@ class LoadUnitS0(param: ExeUnitParams)(
   io.tlbReq.bits.vaddr := tlbVAddr
   io.tlbReq.bits.fullva := tlbFullva
   io.tlbReq.bits.checkfullva := tlbCheckFullva
-  io.tlbReq.bits.cmd := TlbCmd.read
+  io.tlbReq.bits.cmd := Mux(isPrefetchWrite, TlbCmd.write, TlbCmd.read)
   io.tlbReq.bits.hyperinst := tlbHlv
   io.tlbReq.bits.hlvx := tlbHlvx
   io.tlbReq.bits.size := DontCare
@@ -423,7 +424,7 @@ class LoadUnitS0(param: ExeUnitParams)(
   io.tlbReq.bits.debug.isFirstIssue := firstIssue
 
   io.dcacheReq.valid := dcacheReqValid && !noDCacheAccess
-  io.dcacheReq.bits.cmd := Mux(isPrefetch, MemoryOpConstants.M_PFR, MemoryOpConstants.M_XRD)
+  io.dcacheReq.bits.cmd := Mux(isPrefetch, Mux(isPrefetchWrite, MemoryOpConstants.M_PFW, MemoryOpConstants.M_PFR), MemoryOpConstants.M_XRD)
   io.dcacheReq.bits.vaddr := dcacheVAddr
   io.dcacheReq.bits.vaddr_dup := dcacheVAddr
   io.dcacheReq.bits.data := DontCare
@@ -614,9 +615,11 @@ class LoadUnitS1(param: ExeUnitParams)(
   val gpaddr = tlbResp.bits.gpaddr(0)
   val fullva = tlbResp.bits.fullva
 
-  val pf = tlbHit && tlbResp.bits.excp.head.pf.ld
-  val af = tlbHit && tlbResp.bits.excp.head.af.ld
-  val gpf = tlbHit && tlbResp.bits.excp.head.gpf.ld
+  val isPrefetchWrite = in.accessType.isPrefetch() && in.accessType.pftCoh === PrefetchCoh.write
+
+  val pf = tlbHit && Mux(isPrefetchWrite, tlbResp.bits.excp.head.pf.st, tlbResp.bits.excp.head.pf.ld)
+  val af = tlbHit && Mux(isPrefetchWrite, tlbResp.bits.excp.head.af.st, tlbResp.bits.excp.head.af.ld)
+  val gpf = tlbHit && Mux(isPrefetchWrite, tlbResp.bits.excp.head.gpf.st, tlbResp.bits.excp.head.gpf.ld)
   val tlbException = pf || af || gpf
 
   val killDCache = kill || tlbMiss || tlbException || specialRequest
@@ -700,9 +703,12 @@ class LoadUnitS1(param: ExeUnitParams)(
   stageInfo.specialModeRequest := specialRequest
   stageInfo.uop.trigger := triggerAction
   stageInfo.uop.exceptionVec(breakPoint) := bp
-  stageInfo.uop.exceptionVec(loadPageFault) := pf
-  stageInfo.uop.exceptionVec(loadAccessFault) := af
-  stageInfo.uop.exceptionVec(loadGuestPageFault) := gpf
+  stageInfo.uop.exceptionVec(loadPageFault) := pf && !isPrefetchWrite
+  stageInfo.uop.exceptionVec(loadAccessFault) := af && !isPrefetchWrite
+  stageInfo.uop.exceptionVec(loadGuestPageFault) := gpf && !isPrefetchWrite
+  stageInfo.uop.exceptionVec(storePageFault) := pf && isPrefetchWrite
+  stageInfo.uop.exceptionVec(storeAccessFault) := af && isPrefetchWrite
+  stageInfo.uop.exceptionVec(storeGuestPageFault) := gpf && isPrefetchWrite
   stageInfo.uop.perfDebugInfo.tlbRespTime := Mux(
     pipeIn.valid && paddrEffective,
     GTimer(),
@@ -887,6 +893,7 @@ class LoadUnitS2(param: ExeUnitParams)(
   val isUncacheReplay = in.isUncacheReplay()
   val perfIsCmaReplay = in.perfIsCmaReplay.get
   val isPrefetch = accessType.isPrefetch()
+  val isPrefetchWrite = isPrefetch && accessType.pftCoh === PrefetchCoh.write
   val isHwPrefetch = accessType.isHwPrefetch()
   val isSwPrefetch = accessType.isSwPrefetch()
   val isUnalignHead = in.unalignHead.get
@@ -921,9 +928,12 @@ class LoadUnitS2(param: ExeUnitParams)(
   val tlbNotMiss = TlbAccessResult.isNotMiss(tlbAccessResult)
   val tlbUnaccessable = uop.exceptionVec(loadAccessFault) ||
     uop.exceptionVec(loadPageFault) ||
-    uop.exceptionVec(loadGuestPageFault)
+    uop.exceptionVec(loadGuestPageFault) ||
+    uop.exceptionVec(storeAccessFault) ||
+    uop.exceptionVec(storePageFault) ||
+    uop.exceptionVec(storeGuestPageFault)
   val tlbAccessable = !tlbUnaccessable
-  val pmpUnaccessable = (pmp.ld || pmp.instr && LSUOpType.isHlvx(uop.fuOpType)) && tlbHit
+  val pmpUnaccessable = (Mux(isPrefetchWrite, pmp.st, pmp.ld) || pmp.instr && LSUOpType.isHlvx(uop.fuOpType)) && tlbHit
 
   val isNC = tlbHit && tlbAccessable && Pbmt.isNC(pbmt)
   val isMMIO = tlbHit && tlbAccessable && (Pbmt.isIO(pbmt) || Pbmt.isPMA(pbmt) && pmp.mmio)
@@ -931,7 +941,7 @@ class LoadUnitS2(param: ExeUnitParams)(
   val isVector  = accessType.isVector()
 
   // load access fault
-  val afUnaccessable = uop.exceptionVec(loadAccessFault) || pmpUnaccessable
+  val afUnaccessable = uop.exceptionVec(loadAccessFault) || uop.exceptionVec(storeAccessFault) || pmpUnaccessable
   val afVectorUncache = accessType.isVector() && isUncache
   val afUnalignMMIO = !in.align.get && isMMIO
   val afTagError = io.dcacheResp.bits.tag_error && tlbHit && io.csrCtrl.cacheErrorEnable
@@ -948,7 +958,8 @@ class LoadUnitS2(param: ExeUnitParams)(
   val exceptionVec = uop.exceptionVec.selectByFu(LduCfg)
   val exception = exceptionVec.orR
   exceptionVec(loadAddrMisaligned) := am
-  exceptionVec(loadAccessFault) := af
+  exceptionVec(loadAccessFault) := af && !isPrefetchWrite
+  exceptionVec(storeAccessFault) := af && isPrefetchWrite
   exceptionVec(hardwareError) := hwe
 
   /**
