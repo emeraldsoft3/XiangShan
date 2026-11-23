@@ -1211,7 +1211,7 @@ class NewCSR(implicit val p: Parameters) extends Module
   nonDebugTrapTargetPc.raiseIAF  := io.status.instrAddrTransType.checkAccessFault(delayedPcFromXtvec)
   nonDebugTrapTargetPc.raiseIGPF := io.status.instrAddrTransType.checkGuestPageFault(delayedPcFromXtvec)
 
-  private val trapTargetUpdate = RegNext(nonDebugTrapEventValid || trapEntryDEvent.valid, false.B)
+  private val trapTargetUpdate = RegNext(nonDebugTrapEventValid || trapEntryDEvent.valid, false.B) || trapEntryDEvent.out.targetPc.valid
   io.trapTargetPc.valid := trapTargetUpdate
   io.trapTargetPc.bits := DataHoldBypass(
     Mux(
