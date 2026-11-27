@@ -79,6 +79,7 @@ class TLB(Width: Int, nRespDups: Int = 1, q: TLBParameters)(implicit p: Paramete
     when (req(i).fire) {
       req_out(i) := req(i).bits
       req_out(i).fullva := preCheck(i).effectiveVa
+      req_out(i).vaddr := Cat(preCheck(i).query.vpn, get_off(req(i).bits.vaddr))
     }
   }
   val req_out_v = (0 until Width).map(i => ValidHold(req_in(i).fire && !req_in(i).bits.kill, resp(i).fire, flush_pipe(i)))
@@ -655,7 +656,6 @@ class TlbRequestPrepare(q: TLBParameters)(implicit p: Parameters) extends TlbMod
     else (Sv39Enable || Sv48Enable) && (premode < ModeM))
   val pres2xlateEnable = (virt_in || req.hyperinst) &&
     (Sv39vsEnable || Sv48vsEnable || Sv39x4Enable || Sv48x4Enable) && (premode < ModeM)
-  io.resp.query.vpn := get_pn(req.vaddr)
   io.resp.query.s2xlate := getS2xlate(virt_in || req.hyperinst, csr.vsatp.mode, csr.hgatp.mode)
   io.resp.preFault := 0.U.asTypeOf(new TlbPreFault)
   val pmm = WireInit(0.U(2.W))
@@ -693,6 +693,14 @@ class TlbRequestPrepare(q: TLBParameters)(implicit p: Parameters) extends TlbMod
       io.resp.effectiveVa := req.fullva
     }
   }
+
+  val maskedVaddr = Wire(UInt(VAddrBits.W))
+  maskedVaddr := req.vaddr
+  when (pmm === PMLEN16) {
+    maskedVaddr := Mux(prevmEnable || (pres2xlateEnable && csr.vsatp.mode =/= 0.U),
+      SignExt(req.vaddr(47, 0), VAddrBits), ZeroExt(req.vaddr(47, 0), VAddrBits))
+  }
+  io.resp.query.vpn := get_pn(maskedVaddr)
 
   val pf48 = SignExt(io.resp.effectiveVa(47, 0), XLEN) =/= io.resp.effectiveVa
   val pf39 = SignExt(io.resp.effectiveVa(38, 0), XLEN) =/= io.resp.effectiveVa
