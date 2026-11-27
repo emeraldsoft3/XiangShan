@@ -482,9 +482,17 @@ class InterruptFilter extends Module {
   val hsIRVecReg = RegNext(hsIRVecTmp, 0.U.asTypeOf(hsIRVecTmp))
   val vsIRVecReg = RegNext(vsIRVecTmp, 0.U.asTypeOf(vsIRVecTmp))
 
+  // virtual interrupt with hvictl injection
+  val vsIRModeCond = privState.isModeVS && vsstatusSIE || privState < PrivState.ModeVS
+  val SelectCandidate5 = onlyC5EnableReg ||
+                         C1C5EnableReg && ((!C2C5IsZero && (iprioC1 > iprioC2C5 || (iprioC1 === iprioC2C5) && !hvictlReg.DPR.asBool)) ||
+                                           (C2C5IsZero && !hvictlReg.DPR.asBool)) ||
+                         C3C5EnableReg && (!C2C5IsZero || !hvictlReg.DPR.asBool)
+  val viIsHvictlInjectReg = RegNext(vsIRModeCond && SelectCandidate5 && io.in.mnstatusNMIE, false.B)
+
   val mIRNotZero  = mIRVecReg.orR
   val hsIRNotZero = hsIRVecReg.orR
-  val vsIRNotZero = vsIRVecReg.orR
+  val vsIRNotZero = vsIRVecReg.orR || viIsHvictlInjectReg
 
   val irToHS = !mIRNotZero && hsIRNotZero
   val irToVS = !mIRNotZero && !hsIRNotZero && vsIRNotZero
@@ -509,7 +517,10 @@ class InterruptFilter extends Module {
     }
   }.reverse)
 
-  val vsMapHostIRVec = OHToUInt(vsMapHostIRVecTmp)
+  val viIsHvictlInjectWire = WireInit(false.B)
+  viIsHvictlInjectWire := irToVS && viIsHvictlInjectReg
+
+  val vsMapHostIRVec = Mux(viIsHvictlInjectWire, Mux(irToVS, vsIRVecReg, 0.U), OHToUInt(vsMapHostIRVecTmp))
 
   dontTouch(vsMapHostIRVec)
 
@@ -540,15 +551,7 @@ class InterruptFilter extends Module {
   val normalIntrVecReg = mIRVec | hsIRVec | vsMapHostIRVec
   val intrVecReg = Mux(disableAllIntrReg, 0.U, Mux(nmiReg, nmiVecReg, normalIntrVecReg))
 
-  // virtual interrupt with hvictl injection
-  val vsIRModeCond = privState.isModeVS && vsstatusSIE || privState < PrivState.ModeVS
-  val SelectCandidate5 = onlyC5EnableReg ||
-                         C1C5EnableReg && ((!C2C5IsZero && (iprioC1 > iprioC2C5 || (iprioC1 === iprioC2C5) && !hvictlReg.DPR.asBool)) ||
-                                           (C2C5IsZero && !hvictlReg.DPR.asBool)) ||
-                         C3C5EnableReg && (!C2C5IsZero || !hvictlReg.DPR.asBool)
-  val viIsHvictlInjectReg = RegNext(vsIRModeCond && SelectCandidate5 && io.in.mnstatusNMIE, false.B)
-
-  io.out.interruptVec.valid := intrVecReg.orR || debugIntrReg
+  io.out.interruptVec.valid := intrVecReg.orR || debugIntrReg || (!disableAllIntrReg && viIsHvictlInjectWire)
   io.out.interruptVec.bits := intrVecReg
   io.out.debug := debugIntrReg
   io.out.nmi := nmiReg
@@ -612,7 +615,7 @@ class InterruptFilterIO extends Bundle {
   val out = Output(new Bundle {
     val debug = Bool()
     val nmi = Bool()
-    val interruptVec = ValidIO(UInt(8.W))
+    val interruptVec = ValidIO(UInt(12.W))
     val mtopi  = new TopIBundle
     val stopi  = new TopIBundle
     val vstopi = new TopIBundle
